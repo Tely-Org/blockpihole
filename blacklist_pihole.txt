@@ -5608,7 +5608,7 @@
 0.0.0.0 777-yum777.com
 0.0.0.0 777.com
 0.0.0.0 7773767.com
-0.0.0.0 7773corações.net
+0.0.0.0 7773cora??es.net
 0.0.0.0 77755d.com
 0.0.0.0 7775627.com
 0.0.0.0 77759bet.com
@@ -5727,8 +5727,8 @@
 0.0.0.0 777para.co
 0.0.0.0 777para.com
 0.0.0.0 777parana.win
-0.0.0.0 777paraná.org
-0.0.0.0 777paraná.vip
+0.0.0.0 777paran?.org
+0.0.0.0 777paran?.vip
 0.0.0.0 777paris.com
 0.0.0.0 777pc.cc
 0.0.0.0 777pc.com
@@ -5768,7 +5768,7 @@
 0.0.0.0 777slotsgame.pro
 0.0.0.0 777spg.com
 0.0.0.0 777stitch.bet
-0.0.0.0 777sãopaulo.me
+0.0.0.0 777s?opaulo.me
 0.0.0.0 777t3.com
 0.0.0.0 777tiger.com
 0.0.0.0 777tiger0.com
@@ -13147,7 +13147,7 @@
 0.0.0.0 filmestorrent-hd.net
 0.0.0.0 filmestorrent.blog
 0.0.0.0 filmestorrent.gratis
-0.0.0.0 filmestorrent.gratis¹
+0.0.0.0 filmestorrent.gratis?
 0.0.0.0 filmestorrent.info
 0.0.0.0 filmestorrent.life
 0.0.0.0 filmestorrent.live
@@ -14346,7 +14346,6 @@
 0.0.0.0 gigaplay.fun
 0.0.0.0 gigpg.com
 0.0.0.0 gigpgzz.com
-0.0.0.0 gihexpress.lojavirtualnuvem.com.br
 0.0.0.0 gihicejamemu.info
 0.0.0.0 gil777.cc
 0.0.0.0 gil777.com
@@ -18050,7 +18049,7 @@
 0.0.0.0 multiz.top
 0.0.0.0 multticanais.com
 0.0.0.0 multticanais.net
-0.0.0.0 multïcanais.cn.in
+0.0.0.0 mult?canais.cn.in
 0.0.0.0 mundialfilmes.net
 0.0.0.0 mundizbetdasorte.com
 0.0.0.0 mundo.cshd.tv
@@ -24104,7 +24103,7 @@
 0.0.0.0 vertvonline.com.br
 0.0.0.0 vertvonline.tv
 0.0.0.0 verumesujikifa.online
-0.0.0.0 verão777.com
+0.0.0.0 ver?o777.com
 0.0.0.0 ves777.com
 0.0.0.0 vez777.com
 0.0.0.0 veziseriale.org
@@ -25966,12 +25965,12 @@
 0.0.0.0 zzzz666.com
 0.0.0.0 zzzz7.com
 0.0.0.0 zzzz999.com
-0.0.0.0 яефесдйдчб.рф
-0.0.0.0 яефесдйдчбтч.рф
-0.0.0.0 яефэсдйд
-0.0.0.0 яефэсдйдчб.рф
-0.0.0.0 яэфесдйдчб.рф
-0.0.0.0 яэфесдйдчбтч.рф
+0.0.0.0 ??????????.??
+0.0.0.0 ????????????.??
+0.0.0.0 ????????
+0.0.0.0 ??????????.??
+0.0.0.0 ??????????.??
+0.0.0.0 ????????????.??
 local-zone: "satsatcs.hopto.org"always_nxdomain
 local-zone: "cs.cardtv.me"always_nxdomain
 local-zone: "alfenascs.ddns.net"always_nxdomain
@@ -34251,7 +34250,6 @@ local-data: "www.limontorrents.com. A 104.18.10.113"
 0.0.0.0 lojasplaytv.com.br
 0.0.0.0 panel-web.starhome.vip
 0.0.0.0 rommatech.com
-0.0.0.0 wurthbrasil.lojavirtualnuvem.com.br
 0.0.0.0 recargaboxplayc.com
 0.0.0.0 filmizehd.buzz
 0.0.0.0 filmizehd.xyz
@@ -34295,7 +34293,6 @@ local-data: "www.limontorrents.com. A 104.18.10.113"
 0.0.0.0 playrecargas.store
 0.0.0.0 pnxtravel.com.br
 0.0.0.0 recargaboxonline.com
-0.0.0.0 recargacerta.lojavirtualnuvem.com.br
 0.0.0.0 recargarapidaunitv.com
 0.0.0.0 recargasalestore.com
 0.0.0.0 recargasboxsinal.com
@@ -34451,7 +34448,6 @@ local-data: "www.limontorrents.com. A 104.18.10.113"
 0.0.0.0 unitv.sualojaonline.app
 0.0.0.0 unitvbr.net
 0.0.0.0 unitvnet.best
-0.0.0.0 unitvrecargas.lojavirtualnuvem.com.br
 0.0.0.0 unitvrecargasvip.com
 0.0.0.0 unitvrevenda.uppy.app
 0.0.0.0 visaoeppi.com
@@ -34616,7 +34612,6 @@ local-data: "www.limontorrents.com. A 104.18.10.113"
 0.0.0.0 loja.codigosplayrecs.com
 0.0.0.0 lojastvplus.com.br
 0.0.0.0 lyphacoupon.com
-0.0.0.0 maxplaystore.lojavirtualnuvem.com.br
 0.0.0.0 melhorplano.site
 0.0.0.0 miconectaphone.com.br
 0.0.0.0 midiaativacoes.com
@@ -34660,7 +34655,6 @@ local-data: "www.limontorrents.com. A 104.18.10.113"
 0.0.0.0 unitvoficial.store
 0.0.0.0 unitvoficialbrasil.com.br
 0.0.0.0 unitvrecargasvip.online
-0.0.0.0 unitvstore2.lojavirtualnuvem.com.br
 0.0.0.0 universocards.com
 0.0.0.0 unytivapk.com.br
 0.0.0.0 vendasunitv.com.br
@@ -34884,8 +34878,6 @@ local-data: "www.limontorrents.com. A 104.18.10.113"
 0.0.0.0 cwbox.com.br
 0.0.0.0 unitv.bio.link
 0.0.0.0 goldcard-tvonline.shop
-0.0.0.0 unitvstore2.lojavirtualnuvem.com.br
-0.0.0.0 maxplaystore.lojavirtualnuvem.com.br
 0.0.0.0 techrecargas.com.br
 0.0.0.0 unitv-filmes-advice-tv-series.softonic.com.br
 0.0.0.0 inovaagora.com
@@ -36447,7 +36439,6 @@ local-data: "www.limontorrents.com. A 104.18.10.113"
 0.0.0.0 loja.codigosplayrecs.com
 0.0.0.0 lojastvplus.com.br
 0.0.0.0 lyphacoupon.com
-0.0.0.0 maxplaystore.lojavirtualnuvem.com.br
 0.0.0.0 melhorplano.site
 0.0.0.0 miconectaphone.com.br
 0.0.0.0 midiaativacoes.com
@@ -36491,7 +36482,6 @@ local-data: "www.limontorrents.com. A 104.18.10.113"
 0.0.0.0 unitvoficial.store
 0.0.0.0 unitvoficialbrasil.com.br
 0.0.0.0 unitvrecargasvip.online
-0.0.0.0 unitvstore2.lojavirtualnuvem.com.br
 0.0.0.0 universocards.com
 0.0.0.0 unytivapk.com.br
 0.0.0.0 vendasunitv.com.br
@@ -41021,7 +41011,7 @@ local-data: "www.limontorrents.com. A 104.18.10.113"
 0.0.0.0 dezpiIa.online
 0.0.0.0 compretyflex.online
 0.0.0.0 gr4e5a9cxf8bvjya0y6a4h3g.online
-0.0.0.0 compreコンプリートフレック.online
+0.0.0.0 compre??????????.online
 0.0.0.0 dezpiIa.site
 0.0.0.0 minhacontatyflex.online
 0.0.0.0 dados.fun
@@ -41034,7 +41024,7 @@ local-data: "www.limontorrents.com. A 104.18.10.113"
 0.0.0.0 cinematododia.online
 0.0.0.0 filmetododia.online
 0.0.0.0 horadadiversao.site
-0.0.0.0 compreコンプリートフレックス.online
+0.0.0.0 compre???????????.online
 0.0.0.0 myfiImss.net
 0.0.0.0 fIixgames.net
 0.0.0.0 gpbox.games
@@ -41139,7 +41129,7 @@ local-data: "www.limontorrents.com. A 104.18.10.113"
 0.0.0.0 dezpila.online
 0.0.0.0 compretyflex.online
 0.0.0.0 gr4e5a9cxf8bvjya0y6a4h3g.online
-0.0.0.0 compreコンプリートフレック.online
+0.0.0.0 compre??????????.online
 0.0.0.0 dezpila.site
 0.0.0.0 minhacontatyflex.online
 0.0.0.0 dados.fun
@@ -41152,7 +41142,7 @@ local-data: "www.limontorrents.com. A 104.18.10.113"
 0.0.0.0 cinematododia.online
 0.0.0.0 filmetododia.online
 0.0.0.0 horadadiversao.site
-0.0.0.0 compreコンプリートフレックス.online
+0.0.0.0 compre???????????.online
 0.0.0.0 myfilmss.net
 0.0.0.0 flixgames.net
 0.0.0.0 gpbox.games
@@ -41923,7 +41913,6 @@ local-data: "www.limontorrents.com. A 104.18.10.113"
 0.0.0.0 loja.codigosplayrecs.com
 0.0.0.0 lojastvplus.com.br
 0.0.0.0 lyphacoupon.com
-0.0.0.0 maxplaystore.lojavirtualnuvem.com.br
 0.0.0.0 melhorplano.site
 0.0.0.0 miconectaphone.com.br
 0.0.0.0 midiaativacoes.com
@@ -41967,7 +41956,6 @@ local-data: "www.limontorrents.com. A 104.18.10.113"
 0.0.0.0 unitvoficial.store
 0.0.0.0 unitvoficialbrasil.com.br
 0.0.0.0 unitvrecargasvip.online
-0.0.0.0 unitvstore2.lojavirtualnuvem.com.br
 0.0.0.0 universocards.com
 0.0.0.0 unytivapk.com.br
 0.0.0.0 vendasunitv.com.br
@@ -42306,7 +42294,6 @@ local-data: "www.limontorrents.com. A 104.18.10.113"
 0.0.0.0 unitv.sualojaonline.app
 0.0.0.0 unitvbr.net
 0.0.0.0 unitvnet.best
-0.0.0.0 unitvrecargas.lojavirtualnuvem.com.br
 0.0.0.0 unitvrecargasvip.com
 0.0.0.0 unitvrevenda.uppy.app
 0.0.0.0 visaoeppi.com
@@ -42335,7 +42322,6 @@ local-data: "www.limontorrents.com. A 104.18.10.113"
 0.0.0.0 lojasplaytv.com.br
 0.0.0.0 panel-web.starhome.vip
 0.0.0.0 rommatech.com
-0.0.0.0 wurthbrasil.lojavirtualnuvem.com.br
 0.0.0.0 recargaboxplayc.com
 0.0.0.0 filmizehd.buzz
 0.0.0.0 filmizehd.xyz
@@ -42379,7 +42365,6 @@ local-data: "www.limontorrents.com. A 104.18.10.113"
 0.0.0.0 playrecargas.store
 0.0.0.0 pnxtravel.com.br
 0.0.0.0 recargaboxonline.com
-0.0.0.0 recargacerta.lojavirtualnuvem.com.br
 0.0.0.0 recargarapidaunitv.com
 0.0.0.0 recargasalestore.com
 0.0.0.0 recargasboxsinal.com
@@ -44625,7 +44610,7 @@ local-data: "www.limontorrents.com. A 104.18.10.113"
 0.0.0.0 bet0966.com
 0.0.0.0 tapiocapg.bet
 0.0.0.0 voy-hawthornpg.com
-0.0.0.0 diadascriançaspg.com
+0.0.0.0 diadascrian?aspg.com
 0.0.0.0 http://hinatasoul.com
 0.0.0.0 http://hinatasoul.net
 0.0.0.0 http://anitube.vip
