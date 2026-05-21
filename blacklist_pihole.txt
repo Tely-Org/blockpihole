@@ -5270,3 +5270,4 @@
 0.0.0.0 wj7a.bet
 0.0.0.0 www.um1.bet
 0.0.0.0 www.oks999.bet
+0.0.0.0 erome.com
