@@ -5886,6 +5886,7 @@
 0.0.0.0 testa47.yhm-sr.click
 0.0.0.0 testa82.ujha-film.click
 0.0.0.0 testada12.sistemalegal.xyz
+0.0.0.0 teste2372.com.br
 0.0.0.0 testedriveford.uno
 0.0.0.0 testobet.com
 0.0.0.0 tg1g5e8ezjrf.cdnmore2.top
