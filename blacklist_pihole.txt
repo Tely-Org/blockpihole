@@ -3126,10 +3126,12 @@
 0.0.0.0 cuevana3.in.net
 0.0.0.0 cuevana3.sc
 0.0.0.0 cuevana3.st
+0.0.0.0 cuevana3hd.one
 0.0.0.0 cuevana3io.lat
 0.0.0.0 cuevana3site.com
 0.0.0.0 cuevana8.net
 0.0.0.0 cuevana8.world
+0.0.0.0 cuevanaes.xyz
 0.0.0.0 cuevanaplus.club
 0.0.0.0 cuevanaplus.one
 0.0.0.0 cuevanapro.org
@@ -3390,7 +3392,9 @@
 0.0.0.0 fmovies-app.com
 0.0.0.0 fmovies.dev
 0.0.0.0 fmovies.surf
+0.0.0.0 fmovies24.pro
 0.0.0.0 fmovies4.me
+0.0.0.0 fmovies4k.vip
 0.0.0.0 fmoviesplay.com
 0.0.0.0 fogolk.com
 0.0.0.0 fogolk.info
@@ -3633,6 +3637,7 @@
 0.0.0.0 hola.tumejoropcion.xyz
 0.0.0.0 holyflix.net
 0.0.0.0 horadarecarga.com
+0.0.0.0 horadarecargas.com
 0.0.0.0 horaderecarga.com
 0.0.0.0 horafilmes.com
 0.0.0.0 host84.ccr-for.click
@@ -3699,6 +3704,7 @@
 0.0.0.0 indusbet.vip
 0.0.0.0 infinitavision.online
 0.0.0.0 infinitybet.vip
+0.0.0.0 infinityscript.site
 0.0.0.0 innbet.vip
 0.0.0.0 interblack.pro
 0.0.0.0 invictobet.vip
@@ -3778,6 +3784,7 @@
 0.0.0.0 jzywvpmvqjqrqvixkoavgf.onthewifi.com
 0.0.0.0 jzywvpmvqjqrqvixkoavgf.servehumour.com
 0.0.0.0 jzywvpmvqjqrqvixkoavgf.viewdns.net
+0.0.0.0 k-play.online
 0.0.0.0 k2h7m1v5q9.najuconadufage.info
 0.0.0.0 k30nih1zzny0.cdnmore1.top
 0.0.0.0 k4h9d.bet
@@ -3833,6 +3840,8 @@
 0.0.0.0 kn7tqo1i10ke.leandroia.fun
 0.0.0.0 kovyidqvs7bc.novacdn2.online
 0.0.0.0 kowh8r7yd0v7.cdnmore2.top
+0.0.0.0 kplay.online
+0.0.0.0 kplay.space
 0.0.0.0 kpq.uk.com
 0.0.0.0 kqpk9oaa7x2v.novacdn2.online
 0.0.0.0 kr569.bet
@@ -4755,6 +4764,7 @@
 0.0.0.0 lobobet.vip
 0.0.0.0 locasbet.vip
 0.0.0.0 loiraburra.top
+0.0.0.0 lojadarecarga.link
 0.0.0.0 lojadoantenista.net
 0.0.0.0 lojawarez.com.br
 0.0.0.0 lopebet.vip
@@ -4834,6 +4844,7 @@
 0.0.0.0 mamakf.bet
 0.0.0.0 maobet.vip
 0.0.0.0 marcnhi08.uytq-film.click
+0.0.0.0 mariboascoduni.site
 0.0.0.0 marsbet.com
 0.0.0.0 mary-beth.reapersscythe.co
 0.0.0.0 masterprotv2.com
@@ -4902,6 +4913,7 @@
 0.0.0.0 movieflixpro.com
 0.0.0.0 movieguideto.com
 0.0.0.0 moviehive.org
+0.0.0.0 movieinfohub.info
 0.0.0.0 moviekk.org
 0.0.0.0 moviemaniak.com
 0.0.0.0 moviemoza.com
@@ -4928,8 +4940,13 @@
 0.0.0.0 moviesfullon.com
 0.0.0.0 moviesfunda.com
 0.0.0.0 moviesgodb.com
+0.0.0.0 movieshappy.com
+0.0.0.0 movieshat.com
+0.0.0.0 movieshdflix.com
+0.0.0.0 movieshdplus.com
 0.0.0.0 moviesnation.college
 0.0.0.0 moviesnation.tours
+0.0.0.0 moviesneflix.com
 0.0.0.0 moviesphoria.com
 0.0.0.0 moviesreactor.com
 0.0.0.0 moviesrealtime.com
@@ -5316,7 +5333,10 @@
 0.0.0.0 pobreflixtv.chat
 0.0.0.0 pobreflixtv.cyou
 0.0.0.0 pobreflixtv.date
+0.0.0.0 pobreflixtv.diy
+0.0.0.0 pobreflixtv.garden
 0.0.0.0 pobreflixtv.health
+0.0.0.0 pobreflixtv.lifestyle
 0.0.0.0 pobreflixtv.shop
 0.0.0.0 pobreflixtv.studio
 0.0.0.0 pobreflixtv.website
@@ -5509,7 +5529,10 @@
 0.0.0.0 redecanaistv.diy
 0.0.0.0 redecanaistv.forum
 0.0.0.0 redecanaistv.garden
+0.0.0.0 redecanaistv.hair
 0.0.0.0 redecanaistv.ink
+0.0.0.0 redecanaistv.wiki
+0.0.0.0 redetoons.com
 0.0.0.0 redetoons.de
 0.0.0.0 redetoons.online
 0.0.0.0 redetoons.pl
@@ -6125,6 +6148,7 @@
 0.0.0.0 verificadasbet.com
 0.0.0.0 verscape.xyz
 0.0.0.0 vex03run.lat
+0.0.0.0 vfmovie.com
 0.0.0.0 vgc7qgc6ypmf.novacdn1.online
 0.0.0.0 vgj88.bet
 0.0.0.0 vhwsg3g0mqae.cdnmore1.top
@@ -6157,6 +6181,11 @@
 0.0.0.0 vizer.sbs
 0.0.0.0 vizertv.autos
 0.0.0.0 vizertv.bid
+0.0.0.0 vizertv.bio
+0.0.0.0 vizertv.casa
+0.0.0.0 vizertv.cloud
+0.0.0.0 vizertv.fun
+0.0.0.0 vizertv.garden
 0.0.0.0 vizertv.hair
 0.0.0.0 vizertv.help
 0.0.0.0 vizertv.host
@@ -6399,6 +6428,7 @@
 0.0.0.0 www3.embedtv.live
 0.0.0.0 www3.fsonline.app
 0.0.0.0 www4.embedtv.live
+0.0.0.0 www8.redecanais.ru
 0.0.0.0 www9.bet
 0.0.0.0 wwww1998.bet
 0.0.0.0 wwwwjogo.bet
@@ -6494,6 +6524,7 @@
 0.0.0.0 yht.6rr3375.com
 0.0.0.0 yht.6rr6173.com
 0.0.0.0 yht.6rr7395.com
+0.0.0.0 yifymovies.info
 0.0.0.0 ykiy2xciq52u.cdnmore1.top
 0.0.0.0 yloxethnxmn9.venusia.fun
 0.0.0.0 yoaxknrf1847.cdnmore2.top
