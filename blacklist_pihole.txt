@@ -3918,6 +3918,10 @@
 0.0.0.0 campopg.com
 0.0.0.0 campopg.net
 0.0.0.0 camspg.com
+0.0.0.0 canaistop.biz
+0.0.0.0 canaistops.fun
+0.0.0.0 canaistops.guru
+0.0.0.0 canaistops.world
 0.0.0.0 canepg.com
 0.0.0.0 canionpg.com
 0.0.0.0 canoapg.net
@@ -4375,9 +4379,17 @@
 0.0.0.0 dezpg.net
 0.0.0.0 dezpila.beer
 0.0.0.0 dezpila.cc
+0.0.0.0 dezpila.channelterranovaserie.com
+0.0.0.0 dezpila.click
 0.0.0.0 dezpila.cv
 0.0.0.0 dezpila.forum
+0.0.0.0 dezpila.fun
+0.0.0.0 dezpila.info
+0.0.0.0 dezpila.life
+0.0.0.0 dezpila.link
+0.0.0.0 dezpila.me
 0.0.0.0 dezpila.my
+0.0.0.0 dezpila.promo
 0.0.0.0 df-m9.bet
 0.0.0.0 df18.bet
 0.0.0.0 df40.bet
@@ -4752,6 +4764,7 @@
 0.0.0.0 filmeson4.site
 0.0.0.0 filmeson6.site
 0.0.0.0 filmesparadownload.org
+0.0.0.0 filmesviatorrents.xyz
 0.0.0.0 filmevip.com
 0.0.0.0 filmovie.org
 0.0.0.0 filmovienow.com
@@ -4783,6 +4796,7 @@
 0.0.0.0 flixhqto.world
 0.0.0.0 flixhqtv.my
 0.0.0.0 flixhqtv.world
+0.0.0.0 flixtorrents.xyz
 0.0.0.0 florespg.bet
 0.0.0.0 florianpg.com
 0.0.0.0 florispg.com
@@ -6800,6 +6814,7 @@
 0.0.0.0 limao.bet
 0.0.0.0 limaobet6.com
 0.0.0.0 limontorrents.club
+0.0.0.0 limontorrents.top
 0.0.0.0 lindokk7.vip
 0.0.0.0 line.tivi-ott.net
 0.0.0.0 links.futemais.eu
@@ -6947,6 +6962,7 @@
 0.0.0.0 megafilmeshd50.makeup
 0.0.0.0 megafilmeshd50.study
 0.0.0.0 megaflixx.com.br
+0.0.0.0 megane2015.com
 0.0.0.0 megashare-official.lol
 0.0.0.0 melhoresapostas.bet
 0.0.0.0 menaseries.org
@@ -7083,7 +7099,12 @@
 0.0.0.0 multicanaishd.bio
 0.0.0.0 multicanaishd.fan
 0.0.0.0 multicanaishd.food
+0.0.0.0 multicanaishd.horse
+0.0.0.0 multicanaishd.one
+0.0.0.0 multicanaishd.shop
+0.0.0.0 multicanaishd.today
 0.0.0.0 multicanaishd.uno
+0.0.0.0 multicanaistv.sbs
 0.0.0.0 mundoouni.com
 0.0.0.0 musicaboi.bet
 0.0.0.0 mw0bzjcmda8n.cdncdn3.online
@@ -7116,6 +7137,8 @@
 0.0.0.0 nccn5r0caq.durejuwebudub.info
 0.0.0.0 neia87.xyz
 0.0.0.0 nemesisbet.vip
+0.0.0.0 nerdfilmeshd.com
+0.0.0.0 netcinebk.lat
 0.0.0.0 netcinehu.lat
 0.0.0.0 netcinerave.site
 0.0.0.0 netcinevu.lat
@@ -9010,6 +9033,8 @@
 0.0.0.0 www.dgd.bet
 0.0.0.0 www.eaitv.com.br
 0.0.0.0 www.eletronicshop.link
+0.0.0.0 www.filmesviatorrents.xyz
+0.0.0.0 www.flixtorrents.xyz
 0.0.0.0 www.fubet.ink
 0.0.0.0 www.furia365.io
 0.0.0.0 www.futebolgratuito.com
@@ -9188,6 +9213,7 @@
 0.0.0.0 www.xbrtorrents.com.br
 0.0.0.0 www.xfilmestorrents.org
 0.0.0.0 www.xfilmesviatorrents.com.br
+0.0.0.0 www.xtorrentfilmes.org
 0.0.0.0 www2.embedtv.lat
 0.0.0.0 www2.embedtv.live
 0.0.0.0 www3.embedtv.lat
@@ -9243,6 +9269,7 @@
 0.0.0.0 xh55yk.bet
 0.0.0.0 xi3eu8hdab.panamofisecajej.info
 0.0.0.0 xieee3mspwks.cdnaabb1.top
+0.0.0.0 xilften.asia
 0.0.0.0 xin88xin88.pages.dev
 0.0.0.0 xj5l4t00d2go.cdncdn4.online
 0.0.0.0 xjbuej.6pmjt7wxzrp.com
@@ -9267,6 +9294,7 @@
 0.0.0.0 xsvs.evlslb.com
 0.0.0.0 xsvs.vfltbr.com
 0.0.0.0 xsyxpn.bet
+0.0.0.0 xtorrentfilmes.org
 0.0.0.0 xuperstvapp.com
 0.0.0.0 xupertv-apk.org
 0.0.0.0 xupertv.vip
