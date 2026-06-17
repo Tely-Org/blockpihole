@@ -5045,7 +5045,9 @@
 0.0.0.0 campopg.net
 0.0.0.0 camspg.com
 0.0.0.0 canaistop.biz
+0.0.0.0 canaistop.club
 0.0.0.0 canaistops.biz
+0.0.0.0 canaistops.club
 0.0.0.0 canaistops.fun
 0.0.0.0 canaistops.guru
 0.0.0.0 canaistops.world
@@ -5289,6 +5291,7 @@
 0.0.0.0 cineflix.pro
 0.0.0.0 cineflixfilmes.net
 0.0.0.0 cinemagold.club
+0.0.0.0 cinemapero.com
 0.0.0.0 cinemus.com.br
 0.0.0.0 cinevisionplus.com.br
 0.0.0.0 circuitopenaareiasp.com.br
@@ -5608,6 +5611,7 @@
 0.0.0.0 deviantart.lovetier.bz
 0.0.0.0 dez.cdnslim.com
 0.0.0.0 dezpg.net
+0.0.0.0 dezpila.autos
 0.0.0.0 dezpila.beer
 0.0.0.0 dezpila.cc
 0.0.0.0 dezpila.channelterranovaserie.com
@@ -5734,6 +5738,7 @@
 0.0.0.0 dtt2a1pt02zn.cdnkopy4.top
 0.0.0.0 du6lpgfmrx7e.kst14.click
 0.0.0.0 dublados.net
+0.0.0.0 dubladoshd.com
 0.0.0.0 duel.com
 0.0.0.0 dumbbelpg.bet
 0.0.0.0 dumbbelpg1.com
@@ -6160,6 +6165,7 @@
 0.0.0.0 filmenvf.com
 0.0.0.0 filmes.life
 0.0.0.0 filmesdomegavideo.com
+0.0.0.0 filmeserialedublate.com
 0.0.0.0 filmesforever.net
 0.0.0.0 filmesmania.net
 0.0.0.0 filmesmega.vip
@@ -6926,6 +6932,7 @@
 0.0.0.0 hypeflixtv.biz
 0.0.0.0 hypeflixtv.watch
 0.0.0.0 hypestore.shop
+0.0.0.0 hypetorrent.com
 0.0.0.0 i06pm44ivikpqg5hmfev.qp659715.cc
 0.0.0.0 i0achhx184dm.cdncdn4.online
 0.0.0.0 i1gorwefpd7p.kst14.click
@@ -9349,6 +9356,7 @@
 0.0.0.0 limao.bet
 0.0.0.0 limaobet6.com
 0.0.0.0 limontorrents.club
+0.0.0.0 limontorrents.lat
 0.0.0.0 limontorrents.top
 0.0.0.0 lindokk7.vip
 0.0.0.0 line.tivi-ott.net
@@ -9577,6 +9585,7 @@
 0.0.0.0 megafilmeshd50.garden
 0.0.0.0 megafilmeshd50.makeup
 0.0.0.0 megafilmeshd50.study
+0.0.0.0 megaflixapk.app
 0.0.0.0 megaflixapk.com.br
 0.0.0.0 megaflixx.com.br
 0.0.0.0 megane2015.com
@@ -9801,6 +9810,7 @@
 0.0.0.0 mulher777.bet
 0.0.0.0 multicanaishd.beauty
 0.0.0.0 multicanaishd.bio
+0.0.0.0 multicanaishd.camp
 0.0.0.0 multicanaishd.chat
 0.0.0.0 multicanaishd.fan
 0.0.0.0 multicanaishd.food
@@ -9886,8 +9896,10 @@
 0.0.0.0 nemesisbet.vip
 0.0.0.0 nerdfilmes1.net
 0.0.0.0 nerdfilmeshd.com
+0.0.0.0 nerdtorrents.com
 0.0.0.0 netcinebk.lat
 0.0.0.0 netcinehu.lat
+0.0.0.0 netcineph.lat
 0.0.0.0 netcinerave.site
 0.0.0.0 netcinevu.lat
 0.0.0.0 netmovies.xyz
@@ -10634,6 +10646,7 @@
 0.0.0.0 pro2.premium-tv.org
 0.0.0.0 pro7s.bet
 0.0.0.0 pro888.bet
+0.0.0.0 prodigoofilme.com
 0.0.0.0 proesporte.bet
 0.0.0.0 progressopg.com
 0.0.0.0 promexbetpg.com
@@ -11384,8 +11397,11 @@
 0.0.0.0 series24.buzz
 0.0.0.0 series24.sbs
 0.0.0.0 series24.shop
+0.0.0.0 series2flix.com
 0.0.0.0 seriesflix.cyou
+0.0.0.0 seriesflixhd.best
 0.0.0.0 seriesflixhd.sbs
+0.0.0.0 seriesflixhub.biz
 0.0.0.0 seriesflixplay.com
 0.0.0.0 sertaobet.vip
 0.0.0.0 serviciosenterplaytv.xyz
@@ -11667,6 +11683,7 @@
 0.0.0.0 sumatra777.com
 0.0.0.0 sun7777.bet
 0.0.0.0 superapostas.bet
+0.0.0.0 superflix36.lol
 0.0.0.0 superflixapi.fit
 0.0.0.0 superflixapi.online
 0.0.0.0 superflixapi.rest
@@ -11819,6 +11836,7 @@
 0.0.0.0 themagistvgratis.com
 0.0.0.0 themagstv.com
 0.0.0.0 themegaflix.com
+0.0.0.0 themegaflix.net.br
 0.0.0.0 themoviehub.org
 0.0.0.0 themoviesflix.moe
 0.0.0.0 themovietv.org
@@ -12388,6 +12406,7 @@
 0.0.0.0 vip777vip6.bet
 0.0.0.0 vip777vip9.bet
 0.0.0.0 vip86a.com
+0.0.0.0 vipcanaisplus.com
 0.0.0.0 virabet.com
 0.0.0.0 virabet.vip
 0.0.0.0 virabet254.com
@@ -12528,6 +12547,7 @@
 0.0.0.0 vum7ladyirdx.iatech.fun
 0.0.0.0 vv9999.bet
 0.0.0.0 vvt777.com
+0.0.0.0 vvv1.lat
 0.0.0.0 vvv1998.bet
 0.0.0.0 vvvvmk.bet
 0.0.0.0 vvza4px7qu35.iatech.fun
@@ -13036,6 +13056,7 @@
 0.0.0.0 www.minharecargas.online
 0.0.0.0 www.mundocarreira.com.br
 0.0.0.0 www.nerdfilmes1.net
+0.0.0.0 www.nerdtorrents.com
 0.0.0.0 www.netcinerave.site
 0.0.0.0 www.nnbet.us
 0.0.0.0 www.nnbet100.com
@@ -13166,6 +13187,7 @@
 0.0.0.0 www.regame.me
 0.0.0.0 www.satcia.click
 0.0.0.0 www.series24.sbs
+0.0.0.0 www.seriesflixhub.biz
 0.0.0.0 www.seriesflixplay.com
 0.0.0.0 www.spinwiz4.com
 0.0.0.0 www.starckfilmes-v17.com
@@ -13287,6 +13309,7 @@
 0.0.0.0 xicara777.com
 0.0.0.0 xieee3mspwks.cdnaabb1.top
 0.0.0.0 xilften.asia
+0.0.0.0 xilften.lovable.app
 0.0.0.0 xin88xin88.pages.dev
 0.0.0.0 xixbetpg.com
 0.0.0.0 xj5l4t00d2go.cdncdn4.online
@@ -13447,6 +13470,7 @@
 0.0.0.0 ytbet8.com
 0.0.0.0 ytbet888.com
 0.0.0.0 yti60o1mpx6z.cdnaabb2.top
+0.0.0.0 ytsbr.com
 0.0.0.0 ytstv-official.site
 0.0.0.0 ytstv.bz
 0.0.0.0 ytstv.hair
