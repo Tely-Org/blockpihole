@@ -4149,6 +4149,7 @@
 0.0.0.0 amoraspg.bet
 0.0.0.0 amorbrabet.com
 0.0.0.0 amrwin77kh.online
+0.0.0.0 amsocial.com
 0.0.0.0 amtz5xz643o9.cdnkopy1.top
 0.0.0.0 anchorspg.com
 0.0.0.0 ancorapg.net
@@ -5577,6 +5578,7 @@
 0.0.0.0 brasil-mk.com
 0.0.0.0 brasilaa.bet
 0.0.0.0 brasilcasino.bet
+0.0.0.0 brasilfollowers.com
 0.0.0.0 brasiliapg.net
 0.0.0.0 brasilretro.bet
 0.0.0.0 brasiltv.site
@@ -12039,6 +12041,7 @@
 0.0.0.0 padeiro777.bet
 0.0.0.0 pagodepg.com
 0.0.0.0 painel-aso.top
+0.0.0.0 painelamsocial.com
 0.0.0.0 painelwapptv.com.br
 0.0.0.0 pakwin777.bet
 0.0.0.0 palcopg.bet
@@ -15098,6 +15101,7 @@
 0.0.0.0 www.9nbet8.com
 0.0.0.0 www.9nbet9.com
 0.0.0.0 www.abcd.bet
+0.0.0.0 www.amsocial.com
 0.0.0.0 www.baixarfilmeshd.xyz
 0.0.0.0 www.bar222bet.com
 0.0.0.0 www.bb5mpg.com
@@ -15169,6 +15173,7 @@
 0.0.0.0 www.blbet99.com
 0.0.0.0 www.blockmaster.com.br
 0.0.0.0 www.brabet360.com
+0.0.0.0 www.brasilfollowers.com
 0.0.0.0 www.brlbet.online
 0.0.0.0 www.brlbet0.com
 0.0.0.0 www.brlbet1.com
@@ -15331,6 +15336,7 @@
 0.0.0.0 www.overflixtv.date
 0.0.0.0 www.overflixtv.garden
 0.0.0.0 www.overflixtv.study
+0.0.0.0 www.painelamsocial.com
 0.0.0.0 www.pelisplushd.la
 0.0.0.0 www.pgsoft.com
 0.0.0.0 www.pobreflix.actor
