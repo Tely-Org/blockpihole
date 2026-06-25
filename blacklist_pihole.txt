@@ -6022,6 +6022,7 @@
 0.0.0.0 camspg.com
 0.0.0.0 canaistop.biz
 0.0.0.0 canaistop.club
+0.0.0.0 canaistop1.live
 0.0.0.0 canaistops.biz
 0.0.0.0 canaistops.club
 0.0.0.0 canaistops.fun
@@ -6695,6 +6696,7 @@
 0.0.0.0 dezpila.me
 0.0.0.0 dezpila.my
 0.0.0.0 dezpila.promo
+0.0.0.0 dezpila.quest
 0.0.0.0 df-m9.bet
 0.0.0.0 df18.bet
 0.0.0.0 df40.bet
@@ -7344,6 +7346,7 @@
 0.0.0.0 filmeson4.site
 0.0.0.0 filmeson6.site
 0.0.0.0 filmesparadownload.org
+0.0.0.0 filmesservidormega.net
 0.0.0.0 filmestorrentplay.net
 0.0.0.0 filmesviatorrents.xyz
 0.0.0.0 filmevip.com
@@ -11632,9 +11635,11 @@
 0.0.0.0 megafilmeshd50.garden
 0.0.0.0 megafilmeshd50.makeup
 0.0.0.0 megafilmeshd50.study
+0.0.0.0 megafirereality.com
 0.0.0.0 megaflixapk.app
 0.0.0.0 megaflixapk.com.br
 0.0.0.0 megaflixx.com.br
+0.0.0.0 megaflowrd.com
 0.0.0.0 megane2015.com
 0.0.0.0 megaplay.sbs
 0.0.0.0 megashare-official.lol
@@ -11726,6 +11731,7 @@
 0.0.0.0 moneypot.bet
 0.0.0.0 monitor1.net
 0.0.0.0 monitor777.com
+0.0.0.0 monroeflix.com
 0.0.0.0 monsterbet.vip
 0.0.0.0 monsterclubtv.live
 0.0.0.0 montepg.com
@@ -11974,6 +11980,7 @@
 0.0.0.0 nerdfilmeshd.com
 0.0.0.0 nerdtorrents.com
 0.0.0.0 netcinebk.lat
+0.0.0.0 netcinebt.lat
 0.0.0.0 netcinehu.lat
 0.0.0.0 netcineph.lat
 0.0.0.0 netcinerave.site
@@ -13702,9 +13709,11 @@
 0.0.0.0 series2flix.com
 0.0.0.0 seriesflix.cyou
 0.0.0.0 seriesflixhd.best
+0.0.0.0 seriesflixhd.lol
 0.0.0.0 seriesflixhd.sbs
 0.0.0.0 seriesflixhub.biz
 0.0.0.0 seriesflixplay.com
+0.0.0.0 seriesflixweb.ink
 0.0.0.0 sertaobet.vip
 0.0.0.0 serviciosenterplaytv.xyz
 0.0.0.0 servmais.xyz
@@ -14029,6 +14038,7 @@
 0.0.0.0 superapostas.bet
 0.0.0.0 superbet365.bet
 0.0.0.0 superflix36.lol
+0.0.0.0 superflix37.lol
 0.0.0.0 superflixapi.fit
 0.0.0.0 superflixapi.online
 0.0.0.0 superflixapi.rest
@@ -14207,6 +14217,7 @@
 0.0.0.0 themagstv.com
 0.0.0.0 themegaflix.com
 0.0.0.0 themegaflix.net.br
+0.0.0.0 themegaflix.pro
 0.0.0.0 themoviehub.org
 0.0.0.0 themoviesflix.moe
 0.0.0.0 themovietv.org
@@ -15806,6 +15817,7 @@
 0.0.0.0 www.series24.sbs
 0.0.0.0 www.seriesflixhub.biz
 0.0.0.0 www.seriesflixplay.com
+0.0.0.0 www.seriesflixweb.ink
 0.0.0.0 www.spinwiz4.com
 0.0.0.0 www.starckfilmes-v17.com
 0.0.0.0 www.startflix.co
@@ -15842,11 +15854,13 @@
 0.0.0.0 www.voj8.online
 0.0.0.0 www.watchfree123movies.com
 0.0.0.0 www.worldbet10.com
+0.0.0.0 www.xbrfilmestorrent.net
 0.0.0.0 www.xbrtorrent.com.br
 0.0.0.0 www.xbrtorrent.net
 0.0.0.0 www.xbrtorrents.com.br
 0.0.0.0 www.xfilmestorrents.org
 0.0.0.0 www.xfilmesviatorrents.com.br
+0.0.0.0 www.xilften.fr
 0.0.0.0 www.xtorrentfilmes.org
 0.0.0.0 www.youcine.shop
 0.0.0.0 www.youcinehd.com
@@ -15940,6 +15954,7 @@
 0.0.0.0 xenxobql92nb.aberlado.shop
 0.0.0.0 xep1usky55gj.iatech.fun
 0.0.0.0 xfg6.unifique.work
+0.0.0.0 xfilmeshd.com
 0.0.0.0 xfilmestorrents.org
 0.0.0.0 xfilmesviatorrents.com.br
 0.0.0.0 xfilmetorrenthd.com.br
@@ -15952,6 +15967,7 @@
 0.0.0.0 xicara777.com
 0.0.0.0 xieee3mspwks.cdnaabb1.top
 0.0.0.0 xilften.asia
+0.0.0.0 xilften.fr
 0.0.0.0 xilften.lovable.app
 0.0.0.0 xin88xin88.pages.dev
 0.0.0.0 xixbetpg.com
