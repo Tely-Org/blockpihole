@@ -6861,7 +6861,9 @@
 0.0.0.0 camspg.com
 0.0.0.0 canaistop.biz
 0.0.0.0 canaistop.club
+0.0.0.0 canaistop1.digital
 0.0.0.0 canaistop1.live
+0.0.0.0 canaistop1.xyz
 0.0.0.0 canaistops.biz
 0.0.0.0 canaistops.club
 0.0.0.0 canaistops.fun
@@ -7557,6 +7559,7 @@
 0.0.0.0 deviantart.lovetier.bz
 0.0.0.0 dez.cdnslim.com
 0.0.0.0 dezpg.net
+0.0.0.0 dezpila.art
 0.0.0.0 dezpila.autos
 0.0.0.0 dezpila.beer
 0.0.0.0 dezpila.cc
@@ -7570,6 +7573,7 @@
 0.0.0.0 dezpila.link
 0.0.0.0 dezpila.me
 0.0.0.0 dezpila.my
+0.0.0.0 dezpila.pics
 0.0.0.0 dezpila.promo
 0.0.0.0 dezpila.quest
 0.0.0.0 df-m9.bet
@@ -8250,6 +8254,7 @@
 0.0.0.0 filmesparadownload.org
 0.0.0.0 filmesservidormega.net
 0.0.0.0 filmestorrentplay.net
+0.0.0.0 filmestorrentplay1.com
 0.0.0.0 filmesviatorrents.xyz
 0.0.0.0 filmevip.com
 0.0.0.0 filmize.pro
@@ -9002,6 +9007,7 @@
 0.0.0.0 hddugde4r7me.cdnkopy2.top
 0.0.0.0 hdfilme-tv.cc
 0.0.0.0 hdfilme.deals
+0.0.0.0 hdfilmevim.net
 0.0.0.0 hdflix.8b.io
 0.0.0.0 hdflix1.site
 0.0.0.0 hdflix123.com
@@ -12915,6 +12921,7 @@
 0.0.0.0 megafilmeshd50.makeup
 0.0.0.0 megafilmeshd50.study
 0.0.0.0 megafirereality.com
+0.0.0.0 megaflix1.site
 0.0.0.0 megaflixapk.app
 0.0.0.0 megaflixapk.com.br
 0.0.0.0 megaflixx.com.br
@@ -13160,10 +13167,12 @@
 0.0.0.0 mubet.bid
 0.0.0.0 mubet.diy
 0.0.0.0 mulher777.bet
+0.0.0.0 multicanais.best
 0.0.0.0 multicanaishd.beauty
 0.0.0.0 multicanaishd.bio
 0.0.0.0 multicanaishd.camp
 0.0.0.0 multicanaishd.chat
+0.0.0.0 multicanaishd.cheap
 0.0.0.0 multicanaishd.date
 0.0.0.0 multicanaishd.fan
 0.0.0.0 multicanaishd.food
@@ -13272,10 +13281,13 @@
 0.0.0.0 neored.xyz
 0.0.0.0 nerdfilmes1.net
 0.0.0.0 nerdfilmeshd.com
+0.0.0.0 nerdfilmestorrent.commegaflixdl.pro
 0.0.0.0 nerdtorrents.com
 0.0.0.0 netcinebk.lat
 0.0.0.0 netcinebt.lat
 0.0.0.0 netcinehu.lat
+0.0.0.0 netcinelt.lat
+0.0.0.0 netcinema.lat
 0.0.0.0 netcineph.lat
 0.0.0.0 netcinerave.site
 0.0.0.0 netcinevu.lat
@@ -13554,6 +13566,7 @@
 0.0.0.0 oncapg.com
 0.0.0.0 oncoeventos.com.br
 0.0.0.0 ondas777.com
+0.0.0.0 ondebaixamos.com
 0.0.0.0 one-vv0893.com
 0.0.0.0 one-vv15395.life
 0.0.0.0 one-vv189.com
@@ -15456,6 +15469,7 @@
 0.0.0.0 starckfilmes-v14.com
 0.0.0.0 starckfilmes-v16.com
 0.0.0.0 starckfilmes-v17.com
+0.0.0.0 starckfilmes.net
 0.0.0.0 stardacasino138.com
 0.0.0.0 starpg777.bet
 0.0.0.0 start777.bet
@@ -15509,6 +15523,7 @@
 0.0.0.0 superbr-123.com
 0.0.0.0 superflix36.lol
 0.0.0.0 superflix37.lol
+0.0.0.0 superflix38.lol
 0.0.0.0 superflixapi.fit
 0.0.0.0 superflixapi.online
 0.0.0.0 superflixapi.rest
@@ -17366,6 +17381,7 @@
 0.0.0.0 www.minharecargas.online
 0.0.0.0 www.mundocarreira.com.br
 0.0.0.0 www.nerdfilmes1.net
+0.0.0.0 www.nerdfilmestorrent.com
 0.0.0.0 www.nerdtorrents.com
 0.0.0.0 www.netcinerave.site
 0.0.0.0 www.nnbet.us
@@ -17503,6 +17519,7 @@
 0.0.0.0 www.seriesflixweb.ink
 0.0.0.0 www.spinwiz4.com
 0.0.0.0 www.starckfilmes-v17.com
+0.0.0.0 www.starckfilmes.net
 0.0.0.0 www.startflix.co
 0.0.0.0 www.svbet0.com
 0.0.0.0 www.svbet1.com
@@ -17537,7 +17554,9 @@
 0.0.0.0 www.voj8.online
 0.0.0.0 www.watchfree123movies.com
 0.0.0.0 www.worldbet10.com
+0.0.0.0 www.xbrfilmes.net
 0.0.0.0 www.xbrfilmestorrent.net
+0.0.0.0 www.xbrfilmestorrents.net
 0.0.0.0 www.xbrtorrent.com.br
 0.0.0.0 www.xbrtorrent.net
 0.0.0.0 www.xbrtorrents.com.br
@@ -17623,6 +17642,8 @@
 0.0.0.0 xbet666.bet
 0.0.0.0 xbetpg.com
 0.0.0.0 xbhdcydzsp9g.venusia.fun
+0.0.0.0 xbrfilmes.net
+0.0.0.0 xbrfilmestorrents.net
 0.0.0.0 xbrtorrent.com.br
 0.0.0.0 xbrtorrent.net
 0.0.0.0 xbrtorrents.com.br
