@@ -6188,6 +6188,7 @@
 0.0.0.0 astronautapg.net
 0.0.0.0 astronautpg.com
 0.0.0.0 asua.bet
+0.0.0.0 atacadosbr.com
 0.0.0.0 ateliealemdoolhar.com.br
 0.0.0.0 atemoiapg.bet
 0.0.0.0 atencaopg.net
@@ -19441,6 +19442,7 @@
 0.0.0.0 www.9nbet9.com
 0.0.0.0 www.abcd.bet
 0.0.0.0 www.amsocial.com
+0.0.0.0 www.atacadosbr.com
 0.0.0.0 www.baixarfilmeshd.xyz
 0.0.0.0 www.bar222bet.com
 0.0.0.0 www.bb5mpg.com
@@ -19511,6 +19513,8 @@
 0.0.0.0 www.blbet98.com
 0.0.0.0 www.blbet99.com
 0.0.0.0 www.blockmaster.com.br
+0.0.0.0 www.borafama.com
+0.0.0.0 www.borafama02.com
 0.0.0.0 www.boraflix.top
 0.0.0.0 www.brabet360.com
 0.0.0.0 www.brasilfollowers.com
