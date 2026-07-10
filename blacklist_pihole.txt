@@ -14458,6 +14458,8 @@
 0.0.0.0 lojasbtv.com.br
 0.0.0.0 lojasbtv.shop
 0.0.0.0 lojaunitv.site
+0.0.0.0 lojauniversodovaporbr.com
+0.0.0.0 lojauniversovaporbrasilofc.com
 0.0.0.0 lojawarez.com.br
 0.0.0.0 lolhjs10.kqbdz457.com
 0.0.0.0 lon2t6tkkinh.vivita.fun
