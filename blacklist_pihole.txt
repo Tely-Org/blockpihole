@@ -64,6 +64,7 @@
 0.0.0.0 00q.zfgh4vh8.com
 0.0.0.0 00q5dgqazl2xo.5pg8171.cc
 0.0.0.0 00tp7sklan31.venusia.fun
+0.0.0.0 01.segundavez.online
 0.0.0.0 0101betpg.com
 0.0.0.0 0106.cdn10embed.xyz
 0.0.0.0 0123movie.one
@@ -98,6 +99,7 @@
 0.0.0.0 01betpg.com
 0.0.0.0 01rr.bet
 0.0.0.0 01zteh2pno.gecocologikek.info
+0.0.0.0 02.pja20.online
 0.0.0.0 020betpg.com
 0.0.0.0 020br.bet
 0.0.0.0 0227betpg.com
@@ -105,6 +107,7 @@
 0.0.0.0 0261271.bet
 0.0.0.0 029463.bet
 0.0.0.0 02betpg.com
+0.0.0.0 02ebef8c56a7ada3f1ed5e900e3143c0.croudfront.lat
 0.0.0.0 02xjq.bet
 0.0.0.0 0306betpg.com
 0.0.0.0 0313betpg.com
@@ -115,6 +118,8 @@
 0.0.0.0 037win.bet
 0.0.0.0 03betpg.com
 0.0.0.0 03ed1n4pt0js.venusia.fun
+0.0.0.0 04.pja20.online
+0.0.0.0 04.segundavez.online
 0.0.0.0 0403betpg.com
 0.0.0.0 0410betpg.com
 0.0.0.0 0417betpg.com
@@ -155,6 +160,7 @@
 0.0.0.0 06betpg.com
 0.0.0.0 06v5h8.bet
 0.0.0.0 07.cdndgplay.click
+0.0.0.0 07.pja20.online
 0.0.0.0 0700betpg.com
 0.0.0.0 072win.bet
 0.0.0.0 073bet-jogospg.com
@@ -201,6 +207,7 @@
 0.0.0.0 09nn.bet
 0.0.0.0 09qq.bet
 0.0.0.0 09r.bet
+0.0.0.0 09vvqkushagt.cdnsmile2.top
 0.0.0.0 0a51bup9jba6.vivita.fun
 0.0.0.0 0ag45k3hixz7.longt.shop
 0.0.0.0 0aybv4ikdc92.cdnaabb2.top
@@ -225,6 +232,7 @@
 0.0.0.0 0h6lc7.bet
 0.0.0.0 0hqtacx4l2on.cdnzzz1.online
 0.0.0.0 0hsa3lcesg5k.iatech.fun
+0.0.0.0 0izthxo9lb1.mt3vux.top
 0.0.0.0 0jhbet.com
 0.0.0.0 0jnifiiq.com
 0.0.0.0 0jzard6mkl.tidimafelibafe.info
@@ -264,6 +272,8 @@
 0.0.0.0 1.cdnface.online
 0.0.0.0 1.codfyr.com
 0.0.0.0 1.copalive.space
+0.0.0.0 1.elitebxsuper.fun
+0.0.0.0 1.f1play.shop
 0.0.0.0 1.helo4d.business
 0.0.0.0 1.ingressar.online
 0.0.0.0 1.koktop.life
@@ -278,6 +288,7 @@
 0.0.0.0 1.rapidez.space
 0.0.0.0 1.rapidez10.space
 0.0.0.0 1.santos10.space
+0.0.0.0 1.testeplus.space
 0.0.0.0 1.touroapps.uno
 0.0.0.0 1.westai.top
 0.0.0.0 10.koktop.life
@@ -364,14 +375,17 @@
 0.0.0.0 11.avontz.fun
 0.0.0.0 11.cinemaplaypro.pro
 0.0.0.0 11.cinemaplaypro.shop
+0.0.0.0 11.cns5y4fd.top
 0.0.0.0 11.dgnala.pro
 0.0.0.0 11.fxf11.sbs
 0.0.0.0 11.ghsds55.sbs
 0.0.0.0 11.koktop.life
+0.0.0.0 11.painelcoruja.shop
 0.0.0.0 11.painelz.top
 0.0.0.0 11.prox55.top
 0.0.0.0 11.proximidade112.top
 0.0.0.0 11.skheca.top
+0.0.0.0 11.superturbo.shop
 0.0.0.0 11.top4k.fun
 0.0.0.0 11.trickcine.fun
 0.0.0.0 11.tvonnline.online
@@ -434,6 +448,7 @@
 0.0.0.0 11zz77.bet
 0.0.0.0 12.adigital.top
 0.0.0.0 12.alcateia10.top
+0.0.0.0 12.cns5y4fd.top
 0.0.0.0 12.fxf11.sbs
 0.0.0.0 12.ghsds55.sbs
 0.0.0.0 12.kihniki.top
@@ -618,6 +633,7 @@
 0.0.0.0 14.fxf11.sbs
 0.0.0.0 14.ghsds55.sbs
 0.0.0.0 14.kihniki.top
+0.0.0.0 14.painelcoruja.shop
 0.0.0.0 14.painelz.top
 0.0.0.0 14.prox55.top
 0.0.0.0 14.skheca.top
@@ -1059,6 +1075,7 @@
 0.0.0.0 1mulherbetpg.com
 0.0.0.0 1mx.bet
 0.0.0.0 1ndt0nj8ip2v.kst14.click
+0.0.0.0 1p9vmkrszjlf.cdnsmile1.top
 0.0.0.0 1play.cool
 0.0.0.0 1pmbetpg.com
 0.0.0.0 1porschebetpg.com
@@ -1136,6 +1153,7 @@
 0.0.0.0 2.rapidez.space
 0.0.0.0 2.rapidez10.space
 0.0.0.0 2.santos10.space
+0.0.0.0 2.testeplus.space
 0.0.0.0 2.touroapps.uno
 0.0.0.0 2.westai.top
 0.0.0.0 20.adigital.top
@@ -1271,6 +1289,7 @@
 0.0.0.0 22-gg.com
 0.0.0.0 22.cimaster222.sbs
 0.0.0.0 22.cinemaplaypro.shop
+0.0.0.0 22.loopcinex.fun
 0.0.0.0 22.vizionnet.top
 0.0.0.0 2210.bet
 0.0.0.0 2210bet.bet
@@ -1566,6 +1585,7 @@
 0.0.0.0 2sgx91rpvbmn.iatech.fun
 0.0.0.0 2t5wicsnse.pimucegejumof.info
 0.0.0.0 2t8w0mh5rqyk.cdnmore2.top
+0.0.0.0 2u890c5njk.lowavedokajuli.info
 0.0.0.0 2ub8ot.bet
 0.0.0.0 2usb.bet
 0.0.0.0 2uu89.vip
@@ -1589,6 +1609,7 @@
 0.0.0.0 3.ingressar.online
 0.0.0.0 3.koktop.life
 0.0.0.0 3.pop50d.com
+0.0.0.0 30.koktop2.life
 0.0.0.0 300bet.bet
 0.0.0.0 3020.life
 0.0.0.0 3030bet.bet
@@ -1608,6 +1629,7 @@
 0.0.0.0 30win.one
 0.0.0.0 30win.org
 0.0.0.0 30win.tv
+0.0.0.0 31.koktop2.life
 0.0.0.0 310flbldpbmd.novacdn2.online
 0.0.0.0 3123win.com
 0.0.0.0 312bet.cc
@@ -1643,6 +1665,7 @@
 0.0.0.0 32vv.bet
 0.0.0.0 32win.com
 0.0.0.0 32wincom.pages.dev
+0.0.0.0 33.koktop2.life
 0.0.0.0 3307win.com
 0.0.0.0 330bet.bet
 0.0.0.0 3311bet.bet
@@ -2113,6 +2136,7 @@
 0.0.0.0 45br-jogospg.com
 0.0.0.0 45br.bet
 0.0.0.0 45ff.bet
+0.0.0.0 45gs5mwj34rx.cdnsmile2.top
 0.0.0.0 45hmj0r48gjt.vivita.fun
 0.0.0.0 45q.bet
 0.0.0.0 45rrx.com
@@ -2906,6 +2930,7 @@
 0.0.0.0 5dancapg.com
 0.0.0.0 5dk0umwi9zf0.iatech.fun
 0.0.0.0 5e34nk9tmn.gomukosawivat.info
+0.0.0.0 5e90ae5f6eb12b3f3e3c86c0409de103.croudfront.lat
 0.0.0.0 5ed497x3gz35.cdnmore1.top
 0.0.0.0 5ee-jogospg.com
 0.0.0.0 5embeddecanais.xyz
@@ -3068,6 +3093,7 @@
 0.0.0.0 62t62t.vip
 0.0.0.0 6318win.com
 0.0.0.0 633-luck.com
+0.0.0.0 635.sargon.lat
 0.0.0.0 635.vkmlist.com
 0.0.0.0 6351lny.bet
 0.0.0.0 63538.playbrasil.fun
@@ -3486,6 +3512,7 @@
 0.0.0.0 7222win.com
 0.0.0.0 722jogo.bet
 0.0.0.0 7261bet.bet
+0.0.0.0 7263837.cono.lat
 0.0.0.0 7274win.com
 0.0.0.0 7296112.bet
 0.0.0.0 72d.bet
@@ -5675,6 +5702,7 @@
 0.0.0.0 a5bet.bet
 0.0.0.0 a5fohrg9aq.hehosehicewonu.info
 0.0.0.0 a5jroric4qfh.cdnkopy2.top
+0.0.0.0 a5k2m8v3.nikusegogopel.info
 0.0.0.0 a668.bet
 0.0.0.0 a66bet.win
 0.0.0.0 a6a6.bet
@@ -5973,6 +6001,7 @@
 0.0.0.0 alerquina54100.embedtv.live
 0.0.0.0 alerquina54101.embedtv.lat
 0.0.0.0 alerquina54101.embedtv.live
+0.0.0.0 aless.fun
 0.0.0.0 alfagame.site
 0.0.0.0 alfakkk.bet
 0.0.0.0 alfakkk.net
@@ -6150,6 +6179,8 @@
 0.0.0.0 asgrp8yymapk.longt.shop
 0.0.0.0 ash-232375945.eagcdn.lat
 0.0.0.0 ash-232375945.eagcdn.online
+0.0.0.0 ash-232375945.eagflix.lat
+0.0.0.0 ash-232375945.eagflix.sbs
 0.0.0.0 ash-232375945.eagradio.lat
 0.0.0.0 ash-232375945.eagradio.online
 0.0.0.0 ash-232375945.eagservice.site
@@ -6304,6 +6335,7 @@
 0.0.0.0 ba7df060feb0b2ddaee4c4b760f187b3.cloudflaire.lat
 0.0.0.0 ba8090pg.com
 0.0.0.0 baabet9.com
+0.0.0.0 babajys.lol
 0.0.0.0 babassupg.com
 0.0.0.0 babexi21.com
 0.0.0.0 babypg.net
@@ -6967,6 +6999,7 @@
 0.0.0.0 bilhar-777.bet
 0.0.0.0 billiardspg.com
 0.0.0.0 billionsbet.bet
+0.0.0.0 binbo1.qvyzukoew.com
 0.0.0.0 bingo-m99.net
 0.0.0.0 bingo7777.bet
 0.0.0.0 bingoalegre.bet
@@ -7026,7 +7059,9 @@
 0.0.0.0 bl01.gamesfire.sbs
 0.0.0.0 bl01.goiabis.website
 0.0.0.0 bl01.gorgonzolis.online
+0.0.0.0 bl01.gruner.club
 0.0.0.0 bl01.hillston.online
+0.0.0.0 bl01.huster.club
 0.0.0.0 bl01.meuagora.online
 0.0.0.0 bl01.minhaescolha.site
 0.0.0.0 bl01.opren.xyz
@@ -7122,7 +7157,9 @@
 0.0.0.0 bl08.gamesfire.sbs
 0.0.0.0 bl08.goiabis.website
 0.0.0.0 bl08.gorgonzolis.online
+0.0.0.0 bl08.gruner.club
 0.0.0.0 bl08.hillston.online
+0.0.0.0 bl08.huster.club
 0.0.0.0 bl08.meuagora.online
 0.0.0.0 bl08.minhaescolha.site
 0.0.0.0 bl08.opren.xyz
@@ -8001,6 +8038,8 @@
 0.0.0.0 cactipg.com
 0.0.0.0 cacto777.bet
 0.0.0.0 cactopg.com
+0.0.0.0 cadastro.calcadoseureca.com
+0.0.0.0 cadastro.lojaderoupas.vip
 0.0.0.0 cadete10gbp.top
 0.0.0.0 cadete120tm.sbs
 0.0.0.0 cadillacpg.com
@@ -8018,6 +8057,7 @@
 0.0.0.0 caiooo.lazadabr.xyz
 0.0.0.0 cakepg.com
 0.0.0.0 cakepg.net
+0.0.0.0 calcadoseureca.com
 0.0.0.0 caldas10gb.cfd
 0.0.0.0 caldas10gp.xyz
 0.0.0.0 calicepg.com
@@ -8036,6 +8076,8 @@
 0.0.0.0 campopg.com
 0.0.0.0 campopg.net
 0.0.0.0 camspg.com
+0.0.0.0 canais5.pro-canais.sbs
+0.0.0.0 canais6.pro-canais.sbs
 0.0.0.0 canaistop.biz
 0.0.0.0 canaistop.club
 0.0.0.0 canaistop1.digital
@@ -8128,6 +8170,7 @@
 0.0.0.0 casinogalera.bet
 0.0.0.0 casinoportugal.pt
 0.0.0.0 casinosol.bet
+0.0.0.0 caspkjeuq.xyz
 0.0.0.0 cass3.com
 0.0.0.0 cassino365.bet
 0.0.0.0 cassinobetbrasil.bet
@@ -8201,6 +8244,7 @@
 0.0.0.0 ccrx57.mmmccr.online
 0.0.0.0 ccrx59.ccrxmia.click
 0.0.0.0 ccrx59.loopgbfr.click
+0.0.0.0 ccrx59.urghpop.cfd
 0.0.0.0 ccrx60.ccrxmia.click
 0.0.0.0 ccrx62.ccrxmia.click
 0.0.0.0 ccrx62.kikej.xyz
@@ -8240,6 +8284,7 @@
 0.0.0.0 cdn.livetv897.me
 0.0.0.0 cdn2.cdnmasterglobal.online
 0.0.0.0 cdn2.cdnprimesolutions.top
+0.0.0.0 cdn223.com
 0.0.0.0 cdn4k.cloud
 0.0.0.0 cdn4k.info
 0.0.0.0 cdn4k.store
@@ -8255,8 +8300,11 @@
 0.0.0.0 cdninb77.uk
 0.0.0.0 cdnmasterglobal.club
 0.0.0.0 cdnmasterglobal.website
+0.0.0.0 cdnone.eagproxy.sbs
 0.0.0.0 cdnpro.fun
 0.0.0.0 cdnpro.space
+0.0.0.0 cdnsmile1.top
+0.0.0.0 cdnsmile2.top
 0.0.0.0 cdnturbox.com
 0.0.0.0 cdsfsr.bet
 0.0.0.0 ce-m9.bet
@@ -8305,6 +8353,7 @@
 0.0.0.0 cgte7y5aeutv.vivita.fun
 0.0.0.0 cgwin.bet
 0.0.0.0 ch03.usexdigital.com
+0.0.0.0 chagm926xy.lowavedokajuli.info
 0.0.0.0 chalicepg.com
 0.0.0.0 chamarpg.co
 0.0.0.0 champagne777.bet
@@ -8369,6 +8418,7 @@
 0.0.0.0 cinemus.com.br
 0.0.0.0 cineprimeiptv.online
 0.0.0.0 cinevisionplus.com.br
+0.0.0.0 cipohope.online
 0.0.0.0 circuitopenaareiasp.com.br
 0.0.0.0 circuspg.com
 0.0.0.0 cis777.bet
@@ -8436,6 +8486,7 @@
 0.0.0.0 cnc7.bet
 0.0.0.0 cnc9.bet
 0.0.0.0 cncbetbrazil.bet
+0.0.0.0 cns5y4fd.top
 0.0.0.0 co029ij2.com
 0.0.0.0 co3dimhy7y3a.cdnkopy3.top
 0.0.0.0 co8yfsglaq.tocowenaceborega.info
@@ -8577,6 +8628,7 @@
 0.0.0.0 crj1v5kl6d9a.aberlado.shop
 0.0.0.0 croco-casino.bet
 0.0.0.0 crossbowpg.com
+0.0.0.0 croudfront.lat
 0.0.0.0 crowpg.com
 0.0.0.0 cruzarpg.bet
 0.0.0.0 cruzarpg.net
@@ -8734,6 +8786,7 @@
 0.0.0.0 d3u2hysov6ez.cdnaabb1.top
 0.0.0.0 d3v3s3rb0ms3ucud4n3.usa-cloudfront-net.mom
 0.0.0.0 d4qxpv7zjk.samitegesovo.info
+0.0.0.0 d57898ab11a6d2f16bd8c67a2533ae98.croudfront.lat
 0.0.0.0 d5d8nr3jogir.2cdn2604.online
 0.0.0.0 d5m7t9.com
 0.0.0.0 d5t8u2j.bet
@@ -8952,6 +9005,7 @@
 0.0.0.0 dr7.bet
 0.0.0.0 dragoniptv.de
 0.0.0.0 dralife.click
+0.0.0.0 dranosh.shop
 0.0.0.0 drbets.bet
 0.0.0.0 dreamexch24.bet
 0.0.0.0 dreiimultitec.shop
@@ -9028,6 +9082,7 @@
 0.0.0.0 dz6b59radqjm.vnnbvubeiq.xyz
 0.0.0.0 dzm876xakcsc.iatech.fun
 0.0.0.0 e.856000.sbs
+0.0.0.0 e.cdn223.com
 0.0.0.0 e.koktop.life
 0.0.0.0 e.koktop3.life
 0.0.0.0 e.koktop4.life
@@ -9072,6 +9127,8 @@
 0.0.0.0 eaf3f984c453cc67c8ff9d1f57fc3386.cloudflaire.lat
 0.0.0.0 eaglepg.com
 0.0.0.0 eaglespg.com
+0.0.0.0 eaicloud.com.br
+0.0.0.0 eaicloud.net
 0.0.0.0 eaicloud.tv
 0.0.0.0 eaicloudoficial.com
 0.0.0.0 eaigosite.xyz
@@ -9143,17 +9200,22 @@
 0.0.0.0 ef6dq9.bet
 0.0.0.0 effectivegatecpm.com
 0.0.0.0 efqnxcy557uh.vamoquevamo.shop
+0.0.0.0 efvfmo5m94.baneresuwelecisi.info
 0.0.0.0 efvfmo5m94.batahebepakaru.info
 0.0.0.0 efvfmo5m94.bitidusunarapupa.info
 0.0.0.0 efvfmo5m94.bivawiwufawafam.info
+0.0.0.0 efvfmo5m94.burihehopitonaka.info
 0.0.0.0 efvfmo5m94.casurobecopiv.info
+0.0.0.0 efvfmo5m94.cegasenuhocehore.info
 0.0.0.0 efvfmo5m94.celefejorimi.info
 0.0.0.0 efvfmo5m94.ciricotijima.info
 0.0.0.0 efvfmo5m94.cupuhokogiteg.info
+0.0.0.0 efvfmo5m94.gesulofujoputic.info
 0.0.0.0 efvfmo5m94.hafehikitodeg.info
 0.0.0.0 efvfmo5m94.hagatigatekekaku.info
 0.0.0.0 efvfmo5m94.hihacokoleme.info
 0.0.0.0 efvfmo5m94.huruhusorora.info
+0.0.0.0 efvfmo5m94.judanawohepulid.info
 0.0.0.0 efvfmo5m94.juwipevilamep.info
 0.0.0.0 efvfmo5m94.kejojepaboso.info
 0.0.0.0 efvfmo5m94.kupajilagosug.info
@@ -9186,6 +9248,7 @@
 0.0.0.0 eiffelpg.net
 0.0.0.0 eik2aj1xlmki.vivita.fun
 0.0.0.0 eipl7.com
+0.0.0.0 ej1cvx3qkl.lowavedokajuli.info
 0.0.0.0 ej1h1lqvzdwe.kst14.click
 0.0.0.0 ejcassinobrasil.bet
 0.0.0.0 ejjj.bet
@@ -9510,6 +9573,7 @@
 0.0.0.0 fecf4d772f647e978c7daa4b3b446ada.cloudflaire.lat
 0.0.0.0 feijaopg.net
 0.0.0.0 feijoapg.com
+0.0.0.0 feijuxa.sbs
 0.0.0.0 fej2cknbpuvs.kst14.click
 0.0.0.0 felizpg.net
 0.0.0.0 fencepg.com
@@ -9667,6 +9731,7 @@
 0.0.0.0 focapg.com
 0.0.0.0 fodmlp.bet
 0.0.0.0 fofoca2024.com
+0.0.0.0 fofoxqi.lol
 0.0.0.0 fogaopg.net
 0.0.0.0 fogaopg.org
 0.0.0.0 fogo777q.com
@@ -9771,6 +9836,7 @@
 0.0.0.0 fun1933.bet
 0.0.0.0 fun5566.app
 0.0.0.0 funaoficial.bet
+0.0.0.0 funeduwoluvo.info
 0.0.0.0 funguspg.com
 0.0.0.0 funspin6.bet
 0.0.0.0 funspin7.bet
@@ -9875,6 +9941,7 @@
 0.0.0.0 fyw6ud2gyhbq.cdncdn4.online
 0.0.0.0 fzp9ciq7oyzc.novacdn1.online
 0.0.0.0 fzzz.bet
+0.0.0.0 g.cdn223.com
 0.0.0.0 g.koktop5.life
 0.0.0.0 g.koktop6.life
 0.0.0.0 g0a1f4.bet
@@ -10043,6 +10110,7 @@
 0.0.0.0 gestopg-dk.bet
 0.0.0.0 gestopg.net
 0.0.0.0 gesturepg.com
+0.0.0.0 getouts1.sbs
 0.0.0.0 gezol23.online
 0.0.0.0 gf4.bet
 0.0.0.0 gf880.com
@@ -10261,6 +10329,7 @@
 0.0.0.0 growthpg.com
 0.0.0.0 growthspg.com
 0.0.0.0 growup.bet
+0.0.0.0 gruner.club
 0.0.0.0 grupoconnectsat.store
 0.0.0.0 grupofpsinais.vip
 0.0.0.0 grwjk3rf2jx8.cdnmore2.top
@@ -10281,6 +10350,7 @@
 0.0.0.0 gtvfb6429ehr.cdnmore1.top
 0.0.0.0 gu8sekn51aj4.longt.shop
 0.0.0.0 guachepg.com
+0.0.0.0 guardsecurity.xyz
 0.0.0.0 guavapg.com
 0.0.0.0 guaxinimty.bet
 0.0.0.0 gucci-777.bet
@@ -10372,6 +10442,7 @@
 0.0.0.0 h8azu86cglme.cdndream2.online
 0.0.0.0 h8gc34jtb51l.iatech.fun
 0.0.0.0 h8sa3rb4p07b.aberlado.shop
+0.0.0.0 h8tui2tosdce.aless.fun
 0.0.0.0 h949o.bet
 0.0.0.0 h9aug991gr.tocowenaceborega.info
 0.0.0.0 h9j2k7.com
@@ -10433,6 +10504,7 @@
 0.0.0.0 hdmoviesplanet.com
 0.0.0.0 hdspedgee.smaronecdn.sbs
 0.0.0.0 hdtoday-hd.today
+0.0.0.0 he60jnqfjk.funeduwoluvo.info
 0.0.0.0 he8xa2b.com
 0.0.0.0 headlinerpg.com
 0.0.0.0 healpg.com
@@ -10596,6 +10668,7 @@
 0.0.0.0 hnb1.bet
 0.0.0.0 hnn106.bet
 0.0.0.0 hoganpg.com
+0.0.0.0 hojuhe70.online
 0.0.0.0 hoki777.bet
 0.0.0.0 hola.tumejoropcion.xyz
 0.0.0.0 holdallpg.com
@@ -10656,6 +10729,7 @@
 0.0.0.0 huskypg-dk.bet
 0.0.0.0 huskypg.com
 0.0.0.0 huskypg.net
+0.0.0.0 huster.club
 0.0.0.0 hv2zw8usx72k.hideaki.online
 0.0.0.0 hv8sw5mocpw6.longt.shop
 0.0.0.0 hvl8mb0zcjt4.kst14.click
@@ -10711,6 +10785,7 @@
 0.0.0.0 i2wz7.bet
 0.0.0.0 i47gwkjpkl.cosubiwavujene.info
 0.0.0.0 i4a3kl5xl2al.cdnaabb2.top
+0.0.0.0 i4p2hjwahd.lekubakuruhunu.info
 0.0.0.0 i4wc8r.bet
 0.0.0.0 i56.bet
 0.0.0.0 i58xn.bet
@@ -10863,6 +10938,7 @@
 0.0.0.0 iq7q1ndrmj2a.cdnkopy3.top
 0.0.0.0 iqpftc052nbo.cdnkopy3.top
 0.0.0.0 ir625wo8.com
+0.0.0.0 irahigu83.online
 0.0.0.0 irmaopg.net
 0.0.0.0 irmaospg.com
 0.0.0.0 irmaspg.net
@@ -11195,6 +11271,7 @@
 0.0.0.0 jumeirahjogo.bet
 0.0.0.0 juribet.vip
 0.0.0.0 juwa777.bet
+0.0.0.0 juzo17.online
 0.0.0.0 jv9ei514222e.cdnaabb2.top
 0.0.0.0 jvxim42wtkaj.longt.shop
 0.0.0.0 jwmkbez2a9ee.cdnmore2.top
@@ -11266,6 +11343,7 @@
 0.0.0.0 kalshi.com
 0.0.0.0 kalt0e0utb1d.iatech.fun
 0.0.0.0 kangaroopg.com
+0.0.0.0 kapolaca.cfd
 0.0.0.0 kappapg.com
 0.0.0.0 karl-casino.bet
 0.0.0.0 kartpg.com
@@ -11386,6 +11464,7 @@
 0.0.0.0 kingpg.net
 0.0.0.0 kingtop10.net
 0.0.0.0 kinobadi.bet
+0.0.0.0 kiqoaz.click
 0.0.0.0 kirh76.bet
 0.0.0.0 kissbet.bet
 0.0.0.0 kissbet0.com
@@ -11828,6 +11907,7 @@
 0.0.0.0 kojhs97bu0f0.longt.shop
 0.0.0.0 kokolink.bet
 0.0.0.0 kokoway.bet
+0.0.0.0 koktop2.life
 0.0.0.0 konect.gg
 0.0.0.0 koscebt6hi.bitogogamasenuk.info
 0.0.0.0 kovyidqvs7bc.novacdn2.online
@@ -11843,8 +11923,10 @@
 0.0.0.0 kplay.space
 0.0.0.0 kplus888z.bet
 0.0.0.0 kpq.uk.com
+0.0.0.0 kprwefj1hi.lowavedokajuli.info
 0.0.0.0 kpzdces801na.vivita.fun
 0.0.0.0 kq0nulax3pob.longt.shop
+0.0.0.0 kqbdz457.com
 0.0.0.0 kqpk9oaa7x2v.novacdn2.online
 0.0.0.0 kr49lqmg8pc6.aberlado.shop
 0.0.0.0 kr569.bet
@@ -11963,6 +12045,8 @@
 0.0.0.0 lb01.sextavez.shop
 0.0.0.0 lb01.solechuva.shop
 0.0.0.0 lb018.cdndgplay.click
+0.0.0.0 lb02-765tm0k11rdt.nhynxal.shop
+0.0.0.0 lb02-evrnv54i.grapkes.shop
 0.0.0.0 lb02-pypysqqt.golak2.shop
 0.0.0.0 lb02.chuvaesol.shop
 0.0.0.0 lb02.faroestebr.shop
@@ -11973,6 +12057,7 @@
 0.0.0.0 lb02.setimavez.site
 0.0.0.0 lb02.sextavez.shop
 0.0.0.0 lb02.solechuva.shop
+0.0.0.0 lb03-349qkctoz7nw.nhynxal.shop
 0.0.0.0 lb03.chuvaesol.shop
 0.0.0.0 lb03.jp10.online
 0.0.0.0 lb03.novavez.shop
@@ -11980,6 +12065,7 @@
 0.0.0.0 lb03.solechuva.shop
 0.0.0.0 lb03.svtop.fun
 0.0.0.0 lb04-8t87m83z.golakq4.shop
+0.0.0.0 lb04-spfg820upqxw.nhynxal.shop
 0.0.0.0 lb04.cdndgplay.click
 0.0.0.0 lb04.chuvaesol.shop
 0.0.0.0 lb04.faroestebr.shop
@@ -12073,9 +12159,11 @@
 0.0.0.0 lb1.nilazoli.online
 0.0.0.0 lb1.nivelora.online
 0.0.0.0 lb1.niveloria.online
+0.0.0.0 lb1.odod55.online
 0.0.0.0 lb1.ohaduza87.online
 0.0.0.0 lb1.ojati.online
 0.0.0.0 lb1.okokig94.online
+0.0.0.0 lb1.oluc36.online
 0.0.0.0 lb1.ovosemuz72.online
 0.0.0.0 lb1.pelanivo.online
 0.0.0.0 lb1.pelvaro.online
@@ -12183,6 +12271,7 @@
 0.0.0.0 lb16.nerapico.online
 0.0.0.0 lb16.nilazoli.online
 0.0.0.0 lb16.nivarela.online
+0.0.0.0 lb16.odod55.online
 0.0.0.0 lb16.ohaduza87.online
 0.0.0.0 lb16.ojati.online
 0.0.0.0 lb16.okokig94.online
@@ -12228,6 +12317,7 @@
 0.0.0.0 lb18.cdndgplay.click
 0.0.0.0 lb2.balanceadorlive.uno
 0.0.0.0 lb2.bitcomvc.top
+0.0.0.0 lb2.livepro1.click
 0.0.0.0 lb2.lvbr.uno
 0.0.0.0 lb2.phsuper.pro
 0.0.0.0 lb2.primetop.fun
@@ -12239,6 +12329,7 @@
 0.0.0.0 lb20.aten91.online
 0.0.0.0 lb20.bopufed.online
 0.0.0.0 lb20.cijahe43.online
+0.0.0.0 lb20.cipohope.online
 0.0.0.0 lb20.colu2.online
 0.0.0.0 lb20.denarivo.online
 0.0.0.0 lb20.domiqo.online
@@ -12267,6 +12358,7 @@
 0.0.0.0 lb20.homiji.online
 0.0.0.0 lb20.hukulom.online
 0.0.0.0 lb20.igin.online
+0.0.0.0 lb20.irahigu83.online
 0.0.0.0 lb20.jacksonar.online
 0.0.0.0 lb20.japov.online
 0.0.0.0 lb20.jiselese.online
@@ -12788,6 +12880,7 @@
 0.0.0.0 lb32.bopufed.online
 0.0.0.0 lb32.cifu79.online
 0.0.0.0 lb32.cijahe43.online
+0.0.0.0 lb32.cipohope.online
 0.0.0.0 lb32.domelora.online
 0.0.0.0 lb32.dopej.online
 0.0.0.0 lb32.ecapok94.online
@@ -12806,6 +12899,7 @@
 0.0.0.0 lb32.hukulom.online
 0.0.0.0 lb32.jiselese.online
 0.0.0.0 lb32.jufomo91.online
+0.0.0.0 lb32.juzo17.online
 0.0.0.0 lb32.laliv59.online
 0.0.0.0 lb32.ludili88.online
 0.0.0.0 lb32.mepufe.online
@@ -12816,6 +12910,7 @@
 0.0.0.0 lb32.nerapico.online
 0.0.0.0 lb32.ojati.online
 0.0.0.0 lb32.okokig94.online
+0.0.0.0 lb32.oluc36.online
 0.0.0.0 lb32.pelanivo.online
 0.0.0.0 lb32.polu56.online
 0.0.0.0 lb32.pupim56.online
@@ -12830,6 +12925,7 @@
 0.0.0.0 lb32.telavira.online
 0.0.0.0 lb32.tipu27.online
 0.0.0.0 lb32.toniraq.online
+0.0.0.0 lb32.upasu.online
 0.0.0.0 lb32.uzenule31.online
 0.0.0.0 lb32.vatuz.online
 0.0.0.0 lb32.vokumej.online
@@ -12937,6 +13033,7 @@
 0.0.0.0 lb42.nelirov.online
 0.0.0.0 lb42.nerapico.online
 0.0.0.0 lb42.ohaduza87.online
+0.0.0.0 lb42.oluc36.online
 0.0.0.0 lb42.opure.online
 0.0.0.0 lb42.otifibep56.online
 0.0.0.0 lb42.polu56.online
@@ -12946,6 +13043,7 @@
 0.0.0.0 lb42.sohabov25.online
 0.0.0.0 lb42.sufice.online
 0.0.0.0 lb42.tamel.online
+0.0.0.0 lb42.tipu57.online
 0.0.0.0 lb42.tolahap.online
 0.0.0.0 lb42.usesacab79.online
 0.0.0.0 lb42.uzenule31.online
@@ -13062,6 +13160,7 @@
 0.0.0.0 lb45.temarila.online
 0.0.0.0 lb45.tipu27.online
 0.0.0.0 lb45.ujoli12.online
+0.0.0.0 lb45.upasu.online
 0.0.0.0 lb45.usesacab79.online
 0.0.0.0 lb45.vatuz.online
 0.0.0.0 lb45.zapil.online
@@ -13167,6 +13266,7 @@
 0.0.0.0 lb5.telino.online
 0.0.0.0 lb5.temarila.online
 0.0.0.0 lb5.tipu27.online
+0.0.0.0 lb5.tipu57.online
 0.0.0.0 lb5.tivedas.online
 0.0.0.0 lb5.tolahap.online
 0.0.0.0 lb5.tonariva.online
@@ -13255,6 +13355,7 @@
 0.0.0.0 lb50.tonelira.online
 0.0.0.0 lb50.toniraq.online
 0.0.0.0 lb50.ukiz.online
+0.0.0.0 lb50.upasu.online
 0.0.0.0 lb50.uzenule31.online
 0.0.0.0 lb50.vokumej.online
 0.0.0.0 lb50.zamotusa.online
@@ -13339,6 +13440,7 @@
 0.0.0.0 lb52.hukulom.online
 0.0.0.0 lb52.ifomalu70.online
 0.0.0.0 lb52.ilitike.online
+0.0.0.0 lb52.juzo17.online
 0.0.0.0 lb52.kicebe.online
 0.0.0.0 lb52.kihinaju41.online
 0.0.0.0 lb52.kuhapek.online
@@ -13651,6 +13753,7 @@
 0.0.0.0 lb6.hukulom.online
 0.0.0.0 lb6.ikifihef.online
 0.0.0.0 lb6.ilitike.online
+0.0.0.0 lb6.irahigu83.online
 0.0.0.0 lb6.jacksonar.online
 0.0.0.0 lb6.jiselese.online
 0.0.0.0 lb6.jufomo91.online
@@ -13659,6 +13762,7 @@
 0.0.0.0 lb6.kuhapek.online
 0.0.0.0 lb6.laliv59.online
 0.0.0.0 lb6.lamiro.online
+0.0.0.0 lb6.livepro1.click
 0.0.0.0 lb6.ludili88.online
 0.0.0.0 lb6.mipeku77.online
 0.0.0.0 lb6.mivogas28.online
@@ -13669,6 +13773,7 @@
 0.0.0.0 lb6.nilazoli.online
 0.0.0.0 lb6.ojati.online
 0.0.0.0 lb6.okokig94.online
+0.0.0.0 lb6.oluc36.online
 0.0.0.0 lb6.opure.online
 0.0.0.0 lb6.oselone86.online
 0.0.0.0 lb6.pelvaro.online
@@ -13888,6 +13993,7 @@
 0.0.0.0 lb67.tipu27.online
 0.0.0.0 lb67.tolahap.online
 0.0.0.0 lb67.toniraq.online
+0.0.0.0 lb67.upasu.online
 0.0.0.0 lb67.uzenule31.online
 0.0.0.0 lb67.vatuz.online
 0.0.0.0 lb67.vokumej.online
@@ -14286,9 +14392,11 @@
 0.0.0.0 listofmovies.org
 0.0.0.0 litchivip.bet
 0.0.0.0 live-04.top
+0.0.0.0 live20.bozztv.com
 0.0.0.0 live21.com.br
 0.0.0.0 lived04.cfd
 0.0.0.0 livemx37.games
+0.0.0.0 livepro1.click
 0.0.0.0 liveroaming.xyz
 0.0.0.0 livetv.sx
 0.0.0.0 ljjaipfdiigo.cdncdn4.online
@@ -14330,12 +14438,14 @@
 0.0.0.0 lojacelebrate-com-253.pages.dev
 0.0.0.0 lojadarecarga.link
 0.0.0.0 lojadecosplay.com.br
+0.0.0.0 lojaderoupas.vip
 0.0.0.0 lojadoantenista.com
 0.0.0.0 lojadoantenista.net
 0.0.0.0 lojasbtv.com.br
 0.0.0.0 lojasbtv.shop
 0.0.0.0 lojaunitv.site
 0.0.0.0 lojawarez.com.br
+0.0.0.0 lolhjs10.kqbdz457.com
 0.0.0.0 lon2t6tkkinh.vivita.fun
 0.0.0.0 longt.shop
 0.0.0.0 lopebet.vip
@@ -14355,6 +14465,7 @@
 0.0.0.0 lovetier.bz
 0.0.0.0 lovoo1maiv5n.cdnkopy2.top
 0.0.0.0 low.barberpro.fun
+0.0.0.0 lowavedokajuli.info
 0.0.0.0 lp-alice.bet
 0.0.0.0 lp-aquario.bet
 0.0.0.0 lp-bugatti.bet
@@ -14476,6 +14587,7 @@
 0.0.0.0 m3r9t5.com
 0.0.0.0 m4.ptbrasil.shop
 0.0.0.0 m41.bet
+0.0.0.0 m41oc9l0hd.vafiwidicupiga.info
 0.0.0.0 m47.bet
 0.0.0.0 m4d3r77e8vdc.vivita.fun
 0.0.0.0 m4z5k8r7.mepovenasomakube.info
@@ -14491,6 +14603,7 @@
 0.0.0.0 m7i5t7.com
 0.0.0.0 m8.ptbrasil.shop
 0.0.0.0 m8m134lgna2k.cdncdn4.online
+0.0.0.0 m8qvn3z2hi.lowavedokajuli.info
 0.0.0.0 m8zk08lvn060.cdnmore1.top
 0.0.0.0 m9.ptbrasil.shop
 0.0.0.0 m93u1rlkbdfi.vivita.fun
@@ -14548,6 +14661,15 @@
 0.0.0.0 manulty.com
 0.0.0.0 manutencao.zionpresentedoslions.shop
 0.0.0.0 maobet.vip
+0.0.0.0 maqn10por10nmr1.fun
+0.0.0.0 maqn10por10nmr1.site
+0.0.0.0 maqn10por10nmr1.space
+0.0.0.0 maqn10por10nmr11.online
+0.0.0.0 maqn10por10nmr11.sbs
+0.0.0.0 maqn10por10nmr11.shop
+0.0.0.0 maqn10por10nmr11.site
+0.0.0.0 maqn10por10nmr11.space
+0.0.0.0 maqn10por10nmr11.store
 0.0.0.0 marblesvip.com
 0.0.0.0 marceloplay.pro
 0.0.0.0 marcnhi08.uytq-film.click
@@ -14569,9 +14691,11 @@
 0.0.0.0 masal92.bet
 0.0.0.0 massamodelada.cf
 0.0.0.0 masterprotv2.com
+0.0.0.0 masterysq.sbs
 0.0.0.0 matos.zip
 0.0.0.0 matrixu13.dominiorobusto.lol
 0.0.0.0 matrixu81.dominioatt.click
+0.0.0.0 matusjq.lol
 0.0.0.0 mauds.bet
 0.0.0.0 maxbetpg.com
 0.0.0.0 maxroleta.bet
@@ -15045,6 +15169,7 @@
 0.0.0.0 ne06sbzlru0j.aberlado.shop
 0.0.0.0 neia87.xyz
 0.0.0.0 nek777.com
+0.0.0.0 nelix.gq
 0.0.0.0 nemesisbet.vip
 0.0.0.0 neored.xyz
 0.0.0.0 nerdfilmes1.net
@@ -15089,7 +15214,9 @@
 0.0.0.0 ngfhee18re.tutidehobofa.info
 0.0.0.0 nhlzjsbfce0r.longt.shop
 0.0.0.0 nhmrdahjvb34.cdnkopy3.top
+0.0.0.0 nhynxal.shop
 0.0.0.0 niagq.mhaolkcxd.com
+0.0.0.0 nikusegogopel.info
 0.0.0.0 nineninebra.cc
 0.0.0.0 ninetv.site
 0.0.0.0 ninetv.top
@@ -15171,6 +15298,7 @@
 0.0.0.0 novarecargatv.com.br
 0.0.0.0 novasports.bet
 0.0.0.0 novatvrecarga.com
+0.0.0.0 novaxqu.click
 0.0.0.0 nove.games
 0.0.0.0 nove666.com
 0.0.0.0 noveflix.app
@@ -15229,6 +15357,7 @@
 0.0.0.0 o23hr6tni6fq.kst14.click
 0.0.0.0 o2f9c9b.esglrfmxh.com
 0.0.0.0 o2t6.k6m2x9.com
+0.0.0.0 o331b22nse.locejuvicejaladi.info
 0.0.0.0 o34p6s2ifj4t.1cdn2604.online
 0.0.0.0 o3bsmednqzhz.longt.shop
 0.0.0.0 o3tsqaf0se.lefesuciherog.info
@@ -15255,6 +15384,7 @@
 0.0.0.0 oddsbet.vip
 0.0.0.0 odeonbet.vip
 0.0.0.0 odllnydf5hpk.kst14.click
+0.0.0.0 odod55.online
 0.0.0.0 oestepg.com
 0.0.0.0 offnl.cybgea5.top
 0.0.0.0 offsidepg.com
@@ -15380,11 +15510,13 @@
 0.0.0.0 ola3.win
 0.0.0.0 ola777.vip
 0.0.0.0 olaalfa.bet
+0.0.0.0 olala.guardsecurity.xyz
 0.0.0.0 ole777z.bet
 0.0.0.0 olhospg.com
 0.0.0.0 oliluk.space
 0.0.0.0 olim.bet
 0.0.0.0 oliveirabet.vip
+0.0.0.0 oluc36.online
 0.0.0.0 ome777.com
 0.0.0.0 omg7.bet
 0.0.0.0 omg777.vip
@@ -15494,6 +15626,7 @@
 0.0.0.0 openbets.bet
 0.0.0.0 operapg.com
 0.0.0.0 oppp.win
+0.0.0.0 or2mokk38z9b.cdnsmile1.top
 0.0.0.0 or7.bet
 0.0.0.0 orangebet.vip
 0.0.0.0 orcabra.bet
@@ -15574,6 +15707,7 @@
 0.0.0.0 oy75e.bet
 0.0.0.0 oy84024.bet
 0.0.0.0 oy9.bet
+0.0.0.0 ozj5lxxygr.lekubakuruhunu.info
 0.0.0.0 ozkw2t0sbuiz.iatech.fun
 0.0.0.0 ozooplay.site
 0.0.0.0 ozpt520bmwln.vivita.fun
@@ -15610,6 +15744,8 @@
 0.0.0.0 p777p.bet
 0.0.0.0 p7k4r9t2.bujufiniwaforogi.info
 0.0.0.0 p7k4r9t2.kivanalehife.info
+0.0.0.0 p7k4r9t2.nikusegogopel.info
+0.0.0.0 p7t1q4w8.topuhugarewukub.info
 0.0.0.0 p7u1x4o7.cdghf43c2.com
 0.0.0.0 p80club.xyz
 0.0.0.0 p8a3mnkdi2ie.cdncdn3.online
@@ -15629,8 +15765,11 @@
 0.0.0.0 padeiro777.bet
 0.0.0.0 pagodepg.com
 0.0.0.0 painel-aso.top
+0.0.0.0 painel.calcadoseureca.com
+0.0.0.0 painel.lojaderoupas.vip
 0.0.0.0 painelamsocial.com
 0.0.0.0 painelclientedezpila.site
+0.0.0.0 painelcoruja.shop
 0.0.0.0 painelwapptv.com.br
 0.0.0.0 pakclub.bet
 0.0.0.0 pakgames.bet
@@ -15648,7 +15787,9 @@
 0.0.0.0 panta66.fun
 0.0.0.0 paotang888.bet
 0.0.0.0 papagaio-777.bet
+0.0.0.0 papokqui.cfd
 0.0.0.0 parabet.vip
+0.0.0.0 paragus.sbs
 0.0.0.0 paranabet.vip
 0.0.0.0 parcabet.vip
 0.0.0.0 parebet.vip
@@ -15669,6 +15810,8 @@
 0.0.0.0 passaro777.bet
 0.0.0.0 pastapgcl.com
 0.0.0.0 pastelariaexpressinho.com.br
+0.0.0.0 pastelariasq.click
+0.0.0.0 pastelekqz.click
 0.0.0.0 paus-m9.bet
 0.0.0.0 pavao777.bet
 0.0.0.0 pavaoboi.bet
@@ -15851,6 +15994,7 @@
 0.0.0.0 pj5k5dd.com
 0.0.0.0 pj64tr8.com
 0.0.0.0 pj72pf.bet
+0.0.0.0 pja20.online
 0.0.0.0 pjlk80.com
 0.0.0.0 pk-batompg.bet
 0.0.0.0 pk-mascarapg.bet
@@ -16193,6 +16337,7 @@
 0.0.0.0 princesaspg.com
 0.0.0.0 privebet.vip
 0.0.0.0 prmais25.top
+0.0.0.0 pro-canais.sbs
 0.0.0.0 pro123.ddns.me
 0.0.0.0 pro2.premium-tv.org
 0.0.0.0 pro7s.bet
@@ -16778,6 +16923,7 @@
 0.0.0.0 ruyatv.com
 0.0.0.0 rvsdvcrwv.aless.fun
 0.0.0.0 rwd5yzcod5iv.cdncdn4.online
+0.0.0.0 rx11.feijuxa.sbs
 0.0.0.0 rx11.tribo.sbs
 0.0.0.0 rx12.babajys.lol
 0.0.0.0 rx12.coliseu.sbs
@@ -16788,6 +16934,7 @@
 0.0.0.0 rx12.quartashq.lol
 0.0.0.0 rx12.tabara.sbs
 0.0.0.0 rx12.taperaxq.cfd
+0.0.0.0 rx12.umxalaop.click
 0.0.0.0 rx12.vilasne.sbs
 0.0.0.0 rx13.aramburu.cfd
 0.0.0.0 rx13.babajys.lol
@@ -16798,18 +16945,22 @@
 0.0.0.0 rx13.nigerian.lol
 0.0.0.0 rx13.pastelekqz.click
 0.0.0.0 rx13.revolutsz.click
+0.0.0.0 rx13.umxalaop.click
 0.0.0.0 rx14.babajys.lol
 0.0.0.0 rx14.baguvix.click
+0.0.0.0 rx14.getouts1.sbs
 0.0.0.0 rx14.katsjh.sbs
 0.0.0.0 rx14.leonizq.cfd
 0.0.0.0 rx14.nigerian.lol
 0.0.0.0 rx14.quartashq.lol
+0.0.0.0 rx14.semqnhz.lol
 0.0.0.0 rx14.vilasne.sbs
 0.0.0.0 rx19.aramburu.cfd
 0.0.0.0 rx19.baguvix.click
 0.0.0.0 rx19.caspkjeuq.xyz
 0.0.0.0 rx19.coliseu.sbs
 0.0.0.0 rx19.devilza.sbs
+0.0.0.0 rx19.kapolaca.cfd
 0.0.0.0 rx19.masterysq.sbs
 0.0.0.0 rx19.nigerian.lol
 0.0.0.0 rx19.ploybbrox.xyz
@@ -16819,6 +16970,7 @@
 0.0.0.0 rx21.devilza.sbs
 0.0.0.0 rx21.norueguq.click
 0.0.0.0 rx21.tabara.sbs
+0.0.0.0 rx21.umxalaop.click
 0.0.0.0 rx28.aramburu.cfd
 0.0.0.0 rx28.coliseu.sbs
 0.0.0.0 rx28.devilza.sbs
@@ -16826,13 +16978,16 @@
 0.0.0.0 rx28.katsjh.sbs
 0.0.0.0 rx28.mahsyq.lol
 0.0.0.0 rx28.norueguq.click
+0.0.0.0 rx28.pastelekqz.click
 0.0.0.0 rx28.ploybbrox.xyz
 0.0.0.0 rx46.babajys.lol
 0.0.0.0 rx46.babaxuq.lol
 0.0.0.0 rx46.braumns.cfd
+0.0.0.0 rx46.copalido.lol
 0.0.0.0 rx46.devilza.sbs
 0.0.0.0 rx46.gugus1.click
 0.0.0.0 rx46.mahsyq.lol
+0.0.0.0 rx46.pastelariasq.click
 0.0.0.0 rx46.ploybbrox.xyz
 0.0.0.0 rx46.tribo.sbs
 0.0.0.0 rx47.aramburu.cfd
@@ -16842,19 +16997,24 @@
 0.0.0.0 rx47.mahsyq.lol
 0.0.0.0 rx47.maracasx.cfd
 0.0.0.0 rx47.norueguq.click
+0.0.0.0 rx47.pastelariasq.click
+0.0.0.0 rx48.pastelekqz.click
 0.0.0.0 rx48.rockproud.click
 0.0.0.0 rx48.topuraz.lol
 0.0.0.0 rx49.aramburu.cfd
 0.0.0.0 rx49.gugus1.click
 0.0.0.0 rx49.leonizq.cfd
 0.0.0.0 rx49.mahsyq.lol
+0.0.0.0 rx49.matusjq.lol
 0.0.0.0 rx49.rockproud.click
 0.0.0.0 rx49.shecxkj.cfd
 0.0.0.0 rx52.aramburu.cfd
 0.0.0.0 rx52.babajys.lol
 0.0.0.0 rx52.braumns.cfd
+0.0.0.0 rx52.getouts1.sbs
 0.0.0.0 rx52.mahsyq.lol
 0.0.0.0 rx52.malandrex.sbs
+0.0.0.0 rx52.matusjq.lol
 0.0.0.0 rx52.norueguq.click
 0.0.0.0 rx52.shecxkj.cfd
 0.0.0.0 rx52.zantamy.cfd
@@ -16866,13 +17026,16 @@
 0.0.0.0 rx54.revolutsz.click
 0.0.0.0 rx55.baguvix.click
 0.0.0.0 rx55.rockproud.click
+0.0.0.0 rx56.kapolaca.cfd
 0.0.0.0 rx56.malandrex.sbs
 0.0.0.0 rx56.masterysq.sbs
 0.0.0.0 rx56.shabakck.click
 0.0.0.0 rx56.zapsi.xyz
 0.0.0.0 rx57.babaxuq.lol
 0.0.0.0 rx57.braumns.cfd
+0.0.0.0 rx57.kiqoaz.click
 0.0.0.0 rx57.mahsyq.lol
+0.0.0.0 rx57.ploybbrox.xyz
 0.0.0.0 rx57.revolutsz.click
 0.0.0.0 rx59.braumns.cfd
 0.0.0.0 rx59.mahsyq.lol
@@ -16884,12 +17047,15 @@
 0.0.0.0 rx60.braumns.cfd
 0.0.0.0 rx60.feijuxa.sbs
 0.0.0.0 rx60.gugus1.click
+0.0.0.0 rx60.kiqoaz.click
 0.0.0.0 rx60.sabonetq.cfd
 0.0.0.0 rx60.topuraz.lol
 0.0.0.0 rx60.xamusj.lol
 0.0.0.0 rx62.katsjh.sbs
+0.0.0.0 rx62.masterysq.sbs
 0.0.0.0 rx62.vilasne.sbs
 0.0.0.0 rx64.babajys.lol
+0.0.0.0 rx64.braumns.cfd
 0.0.0.0 rx64.capaplouk.click
 0.0.0.0 rx64.feijuxa.sbs
 0.0.0.0 rx64.katsjh.sbs
@@ -16898,9 +17064,11 @@
 0.0.0.0 rx64.zantamy.cfd
 0.0.0.0 rx66.leonizq.cfd
 0.0.0.0 rx67.aramburu.cfd
+0.0.0.0 rx67.babajys.lol
 0.0.0.0 rx67.capaplouk.click
 0.0.0.0 rx67.feijuxa.sbs
 0.0.0.0 rx67.gugus1.click
+0.0.0.0 rx67.hyroxq.lol
 0.0.0.0 rx67.leonizq.cfd
 0.0.0.0 rx67.quartashq.lol
 0.0.0.0 rx67.sabonetq.cfd
@@ -16912,10 +17080,12 @@
 0.0.0.0 rx68.leonizq.cfd
 0.0.0.0 rx68.ploybbrox.xyz
 0.0.0.0 rx68.ssususq.cfd
+0.0.0.0 rx68.xamusj.lol
 0.0.0.0 rx69.aramburu.cfd
 0.0.0.0 rx69.babajys.lol
 0.0.0.0 rx69.feijuxa.sbs
 0.0.0.0 rx69.malandrex.sbs
+0.0.0.0 rx69.masterysq.sbs
 0.0.0.0 rx69.shabakck.click
 0.0.0.0 rx69.tabara.sbs
 0.0.0.0 rx70.babajys.lol
@@ -16924,11 +17094,13 @@
 0.0.0.0 rx70.leonizq.cfd
 0.0.0.0 rx70.ploybbrox.xyz
 0.0.0.0 rx70.revolutsz.click
+0.0.0.0 rx70.shecxkj.cfd
 0.0.0.0 rx70.ssususq.cfd
 0.0.0.0 rx70.taperaxq.cfd
 0.0.0.0 rx70.zapsi.xyz
 0.0.0.0 rx71.aramburu.cfd
 0.0.0.0 rx71.babajys.lol
+0.0.0.0 rx71.devilza.sbs
 0.0.0.0 rx71.maracasx.cfd
 0.0.0.0 rx71.masterysq.sbs
 0.0.0.0 rx71.sabonetq.cfd
@@ -16936,6 +17108,7 @@
 0.0.0.0 rx73.alemaons.cfd
 0.0.0.0 rx73.aramburu.cfd
 0.0.0.0 rx73.babajys.lol
+0.0.0.0 rx73.braumns.cfd
 0.0.0.0 rx73.katsjh.sbs
 0.0.0.0 rx73.leonizq.cfd
 0.0.0.0 rx73.revolutsz.click
@@ -16944,10 +17117,12 @@
 0.0.0.0 rx74.malandrex.sbs
 0.0.0.0 rx74.shecxkj.cfd
 0.0.0.0 rx75.aramburu.cfd
+0.0.0.0 rx75.babajys.lol
 0.0.0.0 rx75.malandrex.sbs
 0.0.0.0 rx75.rockproud.click
 0.0.0.0 rx75.shecxkj.cfd
 0.0.0.0 rx76.babajys.lol
+0.0.0.0 rx76.copalido.lol
 0.0.0.0 rx76.gugus1.click
 0.0.0.0 rx76.leonizq.cfd
 0.0.0.0 rx76.malandrex.sbs
@@ -16955,13 +17130,16 @@
 0.0.0.0 rx76.tribo.sbs
 0.0.0.0 rx76.umxalaop.lol
 0.0.0.0 rx76.xamusj.lol
+0.0.0.0 rx77.shecxkj.cfd
 0.0.0.0 rx79.babajys.lol
 0.0.0.0 rx79.braumns.cfd
+0.0.0.0 rx79.papokqui.cfd
 0.0.0.0 rx79.ssususq.cfd
 0.0.0.0 rx79.tribo.sbs
 0.0.0.0 rx79.zantamy.cfd
 0.0.0.0 rx8.babajys.lol
 0.0.0.0 rx8.babaxuq.lol
+0.0.0.0 rx8.fakenatyq.cfd
 0.0.0.0 rx8.getouts1.sbs
 0.0.0.0 rx8.masterysq.sbs
 0.0.0.0 rx8.nigerian.lol
@@ -16978,6 +17156,7 @@
 0.0.0.0 rx81.taperaxq.cfd
 0.0.0.0 rx81.zapsi.xyz
 0.0.0.0 rx82.aramburu.cfd
+0.0.0.0 rx82.caspkjeuq.xyz
 0.0.0.0 rx82.jshqo.click
 0.0.0.0 rx82.leonizq.cfd
 0.0.0.0 rx82.ploybbrox.xyz
@@ -16988,12 +17167,15 @@
 0.0.0.0 rx82.zapsi.xyz
 0.0.0.0 rx83.aramburu.cfd
 0.0.0.0 rx83.baguvix.click
+0.0.0.0 rx83.caspkjeuq.xyz
 0.0.0.0 rx83.katsjh.sbs
 0.0.0.0 rx83.sabarase.lol
+0.0.0.0 rx83.semqnhz.lol
 0.0.0.0 rx83.sertaxe.click
 0.0.0.0 rx84.alemaons.cfd
 0.0.0.0 rx84.babajys.lol
 0.0.0.0 rx84.baguvix.click
+0.0.0.0 rx84.caspkjeuq.xyz
 0.0.0.0 rx84.gugus1.click
 0.0.0.0 rx84.jshqo.click
 0.0.0.0 rx84.leonizq.cfd
@@ -17001,6 +17183,8 @@
 0.0.0.0 rx84.sertaxe.click
 0.0.0.0 rx84.zantamy.cfd
 0.0.0.0 rx9.babaxuq.lol
+0.0.0.0 rx9.feijuxa.sbs
+0.0.0.0 rx9.papokqui.cfd
 0.0.0.0 rx9.zantamy.cfd
 0.0.0.0 rxi552cc31iq.cdnkopy1.top
 0.0.0.0 rxjlr79i8ecz.cdncdn3.online
@@ -17145,6 +17329,7 @@
 0.0.0.0 segredo777.com
 0.0.0.0 segredopg.com
 0.0.0.0 seguirpg.bet
+0.0.0.0 segundavez.online
 0.0.0.0 seguro777.bet
 0.0.0.0 segurosbet.com
 0.0.0.0 seis.cdnslim.com
@@ -17155,6 +17340,7 @@
 0.0.0.0 selar777.bet
 0.0.0.0 semideus.bet
 0.0.0.0 semprepg.vip
+0.0.0.0 semqnhz.lol
 0.0.0.0 senegalbet.com
 0.0.0.0 senhapg.com
 0.0.0.0 senhorpg.com
@@ -17218,6 +17404,7 @@
 0.0.0.0 sharkz.bet
 0.0.0.0 shc5huampj9p.aberlado.shop
 0.0.0.0 she777.vip
+0.0.0.0 shecxkj.cfd
 0.0.0.0 shkbra.bet
 0.0.0.0 showpix.bet
 0.0.0.0 shrew777.bet
@@ -17377,6 +17564,8 @@
 0.0.0.0 sowin777.bet
 0.0.0.0 sp-66906890.eagcdn.lat
 0.0.0.0 sp-66906890.eagcdn.online
+0.0.0.0 sp-66906890.eagflix.lat
+0.0.0.0 sp-66906890.eagflix.sbs
 0.0.0.0 sp-66906890.eagradio.lat
 0.0.0.0 sp-66906890.eagradio.online
 0.0.0.0 sp-66906890.eagservice.site
@@ -17497,6 +17686,7 @@
 0.0.0.0 st05cdn2603reserva.online
 0.0.0.0 st05cdn260408.online
 0.0.0.0 st05j040626.online
+0.0.0.0 st05k10062026.online
 0.0.0.0 st05m170526.online
 0.0.0.0 st05n29042026.online
 0.0.0.0 st05new190426.online
@@ -17787,6 +17977,7 @@
 0.0.0.0 tch6g1cbse.lefesuciherog.info
 0.0.0.0 tchau777.bet
 0.0.0.0 tcn1qa8ugr.nenunurerunada.info
+0.0.0.0 tcrhiy39lm.funeduwoluvo.info
 0.0.0.0 td23aa.com
 0.0.0.0 tdevrocks.com.br
 0.0.0.0 teamoslot.cc
@@ -17912,6 +18103,7 @@
 0.0.0.0 tipopg.fun
 0.0.0.0 tipos777.com
 0.0.0.0 tipsbet.vip
+0.0.0.0 tipu57.online
 0.0.0.0 tiradentespg-dk.bet
 0.0.0.0 tiraibet.com
 0.0.0.0 tirasbet.com
@@ -17923,6 +18115,7 @@
 0.0.0.0 tj6pg.bet
 0.0.0.0 tjxsbbdbh9jt.cdnmore2.top
 0.0.0.0 tk1game.bet
+0.0.0.0 tk1rlg7dpq.funeduwoluvo.info
 0.0.0.0 tk7.bet
 0.0.0.0 tkb777.vip
 0.0.0.0 tkb777b.com
@@ -17984,6 +18177,7 @@
 0.0.0.0 topsportsx.bet
 0.0.0.0 topstr99.top
 0.0.0.0 toptouro.bet
+0.0.0.0 topuhugarewukub.info
 0.0.0.0 topuraz.lol
 0.0.0.0 topvip777.bet
 0.0.0.0 torches777.bet
@@ -18234,6 +18428,7 @@
 0.0.0.0 uj0mjn2u73kw.1cdn2604.online
 0.0.0.0 ujwlf16kodea.longt.shop
 0.0.0.0 uk.cinexio.top
+0.0.0.0 uk6zd7upfqh1.4np40i1z3383.shop
 0.0.0.0 ukkbet4.com
 0.0.0.0 ukkbet5.com
 0.0.0.0 ulkg5m.com
@@ -18293,6 +18488,7 @@
 0.0.0.0 umm9.com
 0.0.0.0 umq8t0f8.com
 0.0.0.0 umry3i7drdoo.longt.shop
+0.0.0.0 umxalaop.click
 0.0.0.0 umxalaop.lol
 0.0.0.0 unaxkfd4iw6k.vivita.fun
 0.0.0.0 unesp777.bet
@@ -18348,10 +18544,12 @@
 0.0.0.0 universityoftherockies.uk.com
 0.0.0.0 unjqkqtje3kd.cdnmore2.top
 0.0.0.0 unvg4.com
+0.0.0.0 uonu8yn50lqv.aless.fun
 0.0.0.0 uoqqlv8ow.com
 0.0.0.0 uovfsqkgab.mejipogepotu.info
 0.0.0.0 up7bet.bet
 0.0.0.0 upappcod.com
+0.0.0.0 upasu.online
 0.0.0.0 upload-sdk.tentvs.com
 0.0.0.0 uploads.faz-o-eli.online
 0.0.0.0 upnfg0u470l3.vbebiabfyevfqi.xyz
@@ -18382,6 +18580,7 @@
 0.0.0.0 usinamaua.com.br
 0.0.0.0 usjajc.tpjz6t1ul.com
 0.0.0.0 usl39c.bet
+0.0.0.0 usuario.lojaderoupas.vip
 0.0.0.0 utbet43.com
 0.0.0.0 utdz.ukrainealert.space
 0.0.0.0 utg925.bet
@@ -18436,6 +18635,7 @@
 0.0.0.0 v3wiie5geqas.vivita.fun
 0.0.0.0 v4.sportssonline.click
 0.0.0.0 v46w5cdiyybq.longt.shop
+0.0.0.0 v4n8j3m6.gagisetisuhuban.info
 0.0.0.0 v4t8m6.com
 0.0.0.0 v5-freepg.com
 0.0.0.0 v5gift.com
@@ -18516,6 +18716,7 @@
 0.0.0.0 vegas007.games
 0.0.0.0 vegetabet.com
 0.0.0.0 vegetaxx56.neryqil.cfd
+0.0.0.0 vejir.online
 0.0.0.0 velarpg.com
 0.0.0.0 velbet.vip
 0.0.0.0 veleiro777.com
@@ -19920,6 +20121,7 @@
 0.0.0.0 xj691bhy8jkw.hideaki.online
 0.0.0.0 xj6pg.bet
 0.0.0.0 xjbuej.6pmjt7wxzrp.com
+0.0.0.0 xjcaeorkwz.lowavedokajuli.info
 0.0.0.0 xju977.bet
 0.0.0.0 xjwinapp.org
 0.0.0.0 xkot2cyxcw4a.iatech.fun
@@ -20041,6 +20243,7 @@
 0.0.0.0 y582nhq3sbyi.cdncdn3.online
 0.0.0.0 y5a7.t7t1w0f.com
 0.0.0.0 y5gb0j9rxts4.iatech.fun
+0.0.0.0 y5h9v2n7.topuhugarewukub.info
 0.0.0.0 y651c.bet
 0.0.0.0 y6b9z4r7.rejakulonuwufumi.info
 0.0.0.0 y72wu.bet
@@ -20055,6 +20258,7 @@
 0.0.0.0 y8t7.b7x2m9.com
 0.0.0.0 y9pzend1rs.mulonajabenone.info
 0.0.0.0 y9ri1l3n4se6.kst14.click
+0.0.0.0 y9tkn0jvwz.lowavedokajuli.info
 0.0.0.0 ya73zvy2fok3.kst14.click
 0.0.0.0 ya9r9ytgnv1f.1cdn2604.online
 0.0.0.0 yacht777.bet
@@ -20187,6 +20391,7 @@
 0.0.0.0 z221.bet
 0.0.0.0 z2a3vvojbv57.cdncdn4.online
 0.0.0.0 z2byk9i6wz.winecifaloluw.info
+0.0.0.0 z2p5q9k1.nikusegogopel.info
 0.0.0.0 z2x8qv4yqou3.cdnmore2.top
 0.0.0.0 z3a5o9g.fxzknmgcq.com
 0.0.0.0 z3c.bet
@@ -20212,6 +20417,7 @@
 0.0.0.0 z7spgcw7se.cupetipiheten.info
 0.0.0.0 z884oh4k.g0e5yustmjx.com
 0.0.0.0 z8bd4h5r35.com
+0.0.0.0 z8e3c6f1.topuhugarewukub.info
 0.0.0.0 z8h9.u6b3c6l.com
 0.0.0.0 z8s1zz.com
 0.0.0.0 z8u3e7w2c5.najuconadufage.info
@@ -20297,6 +20503,7 @@
 0.0.0.0 zsq19.maranha.sbs
 0.0.0.0 zsq28.maranha.sbs
 0.0.0.0 zsq47.paragus.sbs
+0.0.0.0 zsq49.paragus.sbs
 0.0.0.0 zsq52.paragus.sbs
 0.0.0.0 zsq56.paragus.sbs
 0.0.0.0 zsq59.paragus.sbs
@@ -20310,6 +20517,7 @@
 0.0.0.0 zsq73.tocantinu.lol
 0.0.0.0 zsq76.tocantinu.lol
 0.0.0.0 zsq79.tocantinu.lol
+0.0.0.0 zsq81.tocantinu.lol
 0.0.0.0 zst777.com
 0.0.0.0 zsthew6hfns4.cdnmore2.top
 0.0.0.0 zswz57ar9w1u.cdnaabb2.top
