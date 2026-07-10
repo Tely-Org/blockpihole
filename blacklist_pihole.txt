@@ -97,6 +97,7 @@
 0.0.0.0 019betpg.com
 0.0.0.0 01bb.bet
 0.0.0.0 01betpg.com
+0.0.0.0 01maisumdominio.sbs
 0.0.0.0 01rr.bet
 0.0.0.0 01zteh2pno.gecocologikek.info
 0.0.0.0 02.pja20.online
@@ -367,6 +368,7 @@
 0.0.0.0 10pmbetpg.com
 0.0.0.0 10sgpfmvc40n.vivita.fun
 0.0.0.0 10win.com
+0.0.0.0 11.01maisumdominio.sbs
 0.0.0.0 11.5pilapagamento.site
 0.0.0.0 11.adigital.top
 0.0.0.0 11.alcateia10.top
@@ -474,6 +476,7 @@
 0.0.0.0 123-series.online
 0.0.0.0 123-series.pro
 0.0.0.0 123-series.space
+0.0.0.0 123.foxtv.store
 0.0.0.0 1231betpg.com
 0.0.0.0 1232betpg.com
 0.0.0.0 123321.bet
@@ -668,6 +671,7 @@
 0.0.0.0 14xaf7b749uz.54434687.net
 0.0.0.0 15.koktop.life
 0.0.0.0 15.prox55.top
+0.0.0.0 150-71-mia2.blobcdn88.net
 0.0.0.0 150bet.bet
 0.0.0.0 150betpg.com
 0.0.0.0 1516betpg.com
@@ -7313,6 +7317,7 @@
 0.0.0.0 blessingpg.com
 0.0.0.0 blex3c5ji6g9.aberlado.shop
 0.0.0.0 blinkpg.com
+0.0.0.0 blobcdn88.net
 0.0.0.0 blockmaster.com.br
 0.0.0.0 blogdotioben.com.br
 0.0.0.0 blogmcgames.com
@@ -8228,6 +8233,7 @@
 0.0.0.0 ccrx19.ccrxmia.click
 0.0.0.0 ccrx19.kikej.xyz
 0.0.0.0 ccrx21.ccrxmia.click
+0.0.0.0 ccrx23.loopgbfr.click
 0.0.0.0 ccrx28.ccrxmia.click
 0.0.0.0 ccrx28.kikej.xyz
 0.0.0.0 ccrx46.ccrxmia.click
@@ -9828,6 +9834,7 @@
 0.0.0.0 fudgepg.net
 0.0.0.0 fudgespg.com
 0.0.0.0 fufux56.ujxma01.click
+0.0.0.0 fufux59.ujxma01.click
 0.0.0.0 fufux67.jukilo1.click
 0.0.0.0 fulleletronicos.com
 0.0.0.0 fulleletronicos.uk
@@ -9929,6 +9936,7 @@
 0.0.0.0 fxfxbetpg.com
 0.0.0.0 fxpy03coo91m.cdnkopy4.top
 0.0.0.0 fxqqu3cc9nzv.cdnmore1.top
+0.0.0.0 fxvby5a0mlb1.nerihorizon.online
 0.0.0.0 fxx2.cc
 0.0.0.0 fxx42.com
 0.0.0.0 fy-chesspg.bet
@@ -10767,6 +10775,8 @@
 0.0.0.0 hypestore.shop
 0.0.0.0 hypetorrent.com
 0.0.0.0 hyph-555.com
+0.0.0.0 hyq56.pirkqz.click
+0.0.0.0 hyq84.narutiqk.lol
 0.0.0.0 hzf21.bet
 0.0.0.0 i05.bet
 0.0.0.0 i06pm44ivikpqg5hmfev.qp659715.cc
@@ -12065,6 +12075,7 @@
 0.0.0.0 lb03.solechuva.shop
 0.0.0.0 lb03.svtop.fun
 0.0.0.0 lb04-8t87m83z.golakq4.shop
+0.0.0.0 lb04-dwhwzuoq.grapkes.shop
 0.0.0.0 lb04-spfg820upqxw.nhynxal.shop
 0.0.0.0 lb04.cdndgplay.click
 0.0.0.0 lb04.chuvaesol.shop
@@ -12178,6 +12189,7 @@
 0.0.0.0 lb1.reridas.online
 0.0.0.0 lb1.romarila.online
 0.0.0.0 lb1.rulurim.online
+0.0.0.0 lb1.rurihit73.online
 0.0.0.0 lb1.selanivo.online
 0.0.0.0 lb1.sepiga.online
 0.0.0.0 lb1.sohabov25.online
@@ -12305,6 +12317,7 @@
 0.0.0.0 lb16.uzenule31.online
 0.0.0.0 lb16.vatuz.online
 0.0.0.0 lb16.veho.online
+0.0.0.0 lb16.vilov.online
 0.0.0.0 lb16.vokumej.online
 0.0.0.0 lb16.zamotusa.online
 0.0.0.0 lb16.zapil.online
@@ -13789,6 +13802,7 @@
 0.0.0.0 lb6.sofetafi8.online
 0.0.0.0 lb6.sohabov25.online
 0.0.0.0 lb6.sufice.online
+0.0.0.0 lb6.susece78.online
 0.0.0.0 lb6.tipu27.online
 0.0.0.0 lb6.tivedas.online
 0.0.0.0 lb6.tolahap.online
@@ -16920,6 +16934,7 @@
 0.0.0.0 ruckusmarket.com
 0.0.0.0 rugbi777.bet
 0.0.0.0 runoneseries.com
+0.0.0.0 rurihit73.online
 0.0.0.0 ruyatv.com
 0.0.0.0 rvsdvcrwv.aless.fun
 0.0.0.0 rwd5yzcod5iv.cdncdn4.online
@@ -16941,6 +16956,7 @@
 0.0.0.0 rx13.braumns.cfd
 0.0.0.0 rx13.coliseu.sbs
 0.0.0.0 rx13.gugus1.click
+0.0.0.0 rx13.jshqo.click
 0.0.0.0 rx13.masterysq.sbs
 0.0.0.0 rx13.nigerian.lol
 0.0.0.0 rx13.pastelekqz.click
@@ -16980,6 +16996,7 @@
 0.0.0.0 rx28.norueguq.click
 0.0.0.0 rx28.pastelekqz.click
 0.0.0.0 rx28.ploybbrox.xyz
+0.0.0.0 rx28.vilasne.sbs
 0.0.0.0 rx46.babajys.lol
 0.0.0.0 rx46.babaxuq.lol
 0.0.0.0 rx46.braumns.cfd
@@ -16987,6 +17004,7 @@
 0.0.0.0 rx46.devilza.sbs
 0.0.0.0 rx46.gugus1.click
 0.0.0.0 rx46.mahsyq.lol
+0.0.0.0 rx46.maracasx.cfd
 0.0.0.0 rx46.pastelariasq.click
 0.0.0.0 rx46.ploybbrox.xyz
 0.0.0.0 rx46.tribo.sbs
@@ -17790,6 +17808,7 @@
 0.0.0.0 surat91.com
 0.0.0.0 surpreso-pg.com
 0.0.0.0 surpresopg.bet
+0.0.0.0 susece78.online
 0.0.0.0 suspiropg.com
 0.0.0.0 suster777.com
 0.0.0.0 sutn42.bet
@@ -17997,6 +18016,7 @@
 0.0.0.0 tei74m.com
 0.0.0.0 tela777.bet
 0.0.0.0 telapremium.com
+0.0.0.0 telapreta.igplay.fun
 0.0.0.0 tele.chiatrm.xyz
 0.0.0.0 teleflixhd.club
 0.0.0.0 temp.psyfone.lat
@@ -18796,7 +18816,9 @@
 0.0.0.0 vigorpg.com
 0.0.0.0 vijaybet666.net
 0.0.0.0 vijft1q2uv.bitogogamasenuk.info
+0.0.0.0 vilasne.sbs
 0.0.0.0 villaarea777.bet
+0.0.0.0 vilov.online
 0.0.0.0 vimt1q77gk8o.iatech.fun
 0.0.0.0 vin777.vip
 0.0.0.0 vingadora.bet
@@ -20501,6 +20523,7 @@
 0.0.0.0 zsfzb1s1se.vohutebewili.info
 0.0.0.0 zsq13.maranha.sbs
 0.0.0.0 zsq19.maranha.sbs
+0.0.0.0 zsq21.maranha.sbs
 0.0.0.0 zsq28.maranha.sbs
 0.0.0.0 zsq47.paragus.sbs
 0.0.0.0 zsq49.paragus.sbs
