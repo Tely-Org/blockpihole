@@ -11305,6 +11305,7 @@
 0.0.0.0 jue.bet
 0.0.0.0 jugabet.vip
 0.0.0.0 juicepg.com
+0.0.0.0 juizofinal.org
 0.0.0.0 jujubepg.com
 0.0.0.0 jukagn9pwry3.kst14.click
 0.0.0.0 jukeboxpg.com
