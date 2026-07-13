@@ -6096,6 +6096,7 @@
 0.0.0.0 ap-m9.bet
 0.0.0.0 ap3h2b0rts4n.iatech.fun
 0.0.0.0 ap7.bet
+0.0.0.0 apachetorrent.xyz
 0.0.0.0 aperitivopg.app
 0.0.0.0 aperitivopg.bet
 0.0.0.0 aperitivopg.com
@@ -9648,6 +9649,7 @@
 0.0.0.0 filmeamanhecer.com
 0.0.0.0 filmefox.net
 0.0.0.0 filmehd.cc
+0.0.0.0 filmenoi-hd.net
 0.0.0.0 filmenvf.com
 0.0.0.0 filmes.life
 0.0.0.0 filmesdanet.com
@@ -15276,6 +15278,7 @@
 0.0.0.0 nhmrdahjvb34.cdnkopy3.top
 0.0.0.0 nhynxal.shop
 0.0.0.0 niagq.mhaolkcxd.com
+0.0.0.0 nickfilmestorrent.org
 0.0.0.0 nikusegogopel.info
 0.0.0.0 nineninebra.cc
 0.0.0.0 ninetv.site
@@ -19741,6 +19744,7 @@
 0.0.0.0 www.9nbet9.com
 0.0.0.0 www.abcd.bet
 0.0.0.0 www.amsocial.com
+0.0.0.0 www.apachetorrent.xyz
 0.0.0.0 www.atacadosbr.com
 0.0.0.0 www.baixarfilmeshd.xyz
 0.0.0.0 www.bar222bet.com
