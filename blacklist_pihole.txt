@@ -13688,6 +13688,7 @@
 0.0.0.0 betconfiavel.com
 0.0.0.0 betcre.com
 0.0.0.0 betdacopa.com
+0.0.0.0 betdasorte.bet.br
 0.0.0.0 betdasorte7.com
 0.0.0.0 betdelas.com
 0.0.0.0 betdemos.com
@@ -20919,6 +20920,7 @@
 0.0.0.0 ganhe888.bet
 0.0.0.0 ganheaqui.bet
 0.0.0.0 ganhei-br.bet
+0.0.0.0 ganhei.bet.br
 0.0.0.0 ganho-m99.com
 0.0.0.0 ganhorapido.bet
 0.0.0.0 ganhos777.org
@@ -31525,6 +31527,7 @@
 0.0.0.0 pix-m97.net
 0.0.0.0 pix-m98.net
 0.0.0.0 pix-m99.net
+0.0.0.0 pix.bet.br
 0.0.0.0 pix97.bet
 0.0.0.0 pix9x.bet
 0.0.0.0 pixbet-br.bet
