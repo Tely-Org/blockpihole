@@ -17697,6 +17697,7 @@
 0.0.0.0 canaisonlinetop.xyz
 0.0.0.0 canaisplay.shop
 0.0.0.0 canaistop.biz
+0.0.0.0 canaistop.casa
 0.0.0.0 canaistop.club
 0.0.0.0 canaistop1.digital
 0.0.0.0 canaistop1.live
@@ -17719,9 +17720,12 @@
 0.0.0.0 canaistoptv.top
 0.0.0.0 canaistoptv.world
 0.0.0.0 canaistoptv.xyz
+0.0.0.0 canaistvtop.casa
 0.0.0.0 canaistvtop.digital
 0.0.0.0 canaistvtop.live
 0.0.0.0 canaistvtop.shop
+0.0.0.0 canaistvtop.top
+0.0.0.0 canaistvtop.xyz
 0.0.0.0 canal24h.net
 0.0.0.0 canal24h.top
 0.0.0.0 canalplay.top
@@ -19941,6 +19945,7 @@
 0.0.0.0 dezpila.quest
 0.0.0.0 dezpila.singles
 0.0.0.0 dezpila.study
+0.0.0.0 dezpila.surf
 0.0.0.0 dezpila.world
 0.0.0.0 dezpilaoficial.digital
 0.0.0.0 dezpilasofc.com.br
@@ -31902,6 +31907,7 @@
 0.0.0.0 magnet777.com
 0.0.0.0 magnunmax.top
 0.0.0.0 mago777.fun
+0.0.0.0 magodosfilmes.net
 0.0.0.0 magoo.bet
 0.0.0.0 magstore.cc
 0.0.0.0 mahanakhongold.bet
@@ -32246,6 +32252,7 @@
 0.0.0.0 megafilmeshd50.reisen
 0.0.0.0 megafilmeshd50.space
 0.0.0.0 megafilmeshd50.study
+0.0.0.0 megafilmeshdflix.online
 0.0.0.0 megafirereality.com
 0.0.0.0 megaflix1.site
 0.0.0.0 megaflixapk.app
@@ -32985,12 +32992,14 @@
 0.0.0.0 multicanaishd.beauty
 0.0.0.0 multicanaishd.bio
 0.0.0.0 multicanaishd.boutique
+0.0.0.0 multicanaishd.builders
 0.0.0.0 multicanaishd.camp
 0.0.0.0 multicanaishd.capital
 0.0.0.0 multicanaishd.chat
 0.0.0.0 multicanaishd.cheap
 0.0.0.0 multicanaishd.church
 0.0.0.0 multicanaishd.date
+0.0.0.0 multicanaishd.dev
 0.0.0.0 multicanaishd.discount
 0.0.0.0 multicanaishd.enterprises
 0.0.0.0 multicanaishd.fan
@@ -32999,12 +33008,14 @@
 0.0.0.0 multicanaishd.golf
 0.0.0.0 multicanaishd.horse
 0.0.0.0 multicanaishd.io
+0.0.0.0 multicanaishd.loan
 0.0.0.0 multicanaishd.one
 0.0.0.0 multicanaishd.qpon
 0.0.0.0 multicanaishd.shop
 0.0.0.0 multicanaishd.surf
 0.0.0.0 multicanaishd.today
 0.0.0.0 multicanaishd.uno
+0.0.0.0 multicanaishd.video
 0.0.0.0 multicanaishd.win
 0.0.0.0 multicanaistv.sbs
 0.0.0.0 multisports.bet
@@ -38734,6 +38745,7 @@
 0.0.0.0 seriesflixtv.se
 0.0.0.0 seriesflixweb.ink
 0.0.0.0 seriesflv.sbs
+0.0.0.0 seriesonline.one
 0.0.0.0 serlepg.com
 0.0.0.0 serrado.click
 0.0.0.0 serrinha.lat
@@ -38777,6 +38789,7 @@
 0.0.0.0 seul5.bond
 0.0.0.0 seupg.vip
 0.0.0.0 seuseguro.bet
+0.0.0.0 seuseriados.art
 0.0.0.0 seuseriados.xyz
 0.0.0.0 seusonhonossocompromisso.com.br
 0.0.0.0 seusseriadostv.lol
@@ -39725,6 +39738,7 @@
 0.0.0.0 superflix43.lol
 0.0.0.0 superflix44.lol
 0.0.0.0 superflix45.lol
+0.0.0.0 superflixapi.baby
 0.0.0.0 superflixapi.fit
 0.0.0.0 superflixapi.online
 0.0.0.0 superflixapi.rest
