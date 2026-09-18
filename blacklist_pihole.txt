@@ -18967,6 +18967,7 @@
 0.0.0.0 auth.urltech.gy
 0.0.0.0 auth.wareztv.io
 0.0.0.0 authentic-x.online
+0.0.0.0 autlander.com.br
 0.0.0.0 autonomy777.com
 0.0.0.0 autopg.net
 0.0.0.0 autorizadabtv.com.br
