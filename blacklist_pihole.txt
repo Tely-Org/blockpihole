@@ -33450,6 +33450,7 @@
 0.0.0.0 currant777.com
 0.0.0.0 cursocentral.online
 0.0.0.0 cursocomandoseletricos.com.br
+0.0.0.0 cursoemgratuito.com.br
 0.0.0.0 cursoenemgratuito.com.br
 0.0.0.0 cursoforum.com.br
 0.0.0.0 cursopg.com
