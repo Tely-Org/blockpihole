@@ -24717,7 +24717,6 @@
 0.0.0.0 aplausos123.com
 0.0.0.0 aplaytv25.com
 0.0.0.0 aplica.lkfhshgsgdfffsd.uk
-0.0.0.0 apnews.com
 0.0.0.0 apollo777.bet
 0.0.0.0 apollo777.com
 0.0.0.0 apollo777.one
@@ -31276,7 +31275,6 @@
 0.0.0.0 casadopassarinholiberto.blog
 0.0.0.0 casadoslots.com
 0.0.0.0 casamananaahora.lol
-0.0.0.0 casamentos.com.br
 0.0.0.0 casaquarto.click
 0.0.0.0 casasbrazil.com.br
 0.0.0.0 cascades777.com
@@ -32557,7 +32555,6 @@
 0.0.0.0 clube777.org
 0.0.0.0 clubeall.top
 0.0.0.0 clubedabola.vip
-0.0.0.0 clubedaposta.com
 0.0.0.0 clubedasrecarga.app
 0.0.0.0 clubedasrecargaa.app
 0.0.0.0 clubedasrecargas.app
@@ -32743,7 +32740,6 @@
 0.0.0.0 cogkyr.qc7.game
 0.0.0.0 cogumelo777.bet
 0.0.0.0 coin365.bet
-0.0.0.0 cointelegraph.com
 0.0.0.0 coisapouca27.online
 0.0.0.0 coite75.top
 0.0.0.0 colamk.bet
@@ -32874,7 +32870,6 @@
 0.0.0.0 conquistapg.vip
 0.0.0.0 consolepg.app
 0.0.0.0 conta-m99.net
-0.0.0.0 contabeis.com.br
 0.0.0.0 contentvods.link
 0.0.0.0 conteudovip.info
 0.0.0.0 contrafilenabrasa.net
@@ -33450,8 +33445,6 @@
 0.0.0.0 currant777.com
 0.0.0.0 cursocentral.online
 0.0.0.0 cursocomandoseletricos.com.br
-0.0.0.0 cursoemgratuito.com.br
-0.0.0.0 cursoenemgratuito.com.br
 0.0.0.0 cursoforum.com.br
 0.0.0.0 cursopg.com
 0.0.0.0 cursoproxydngf.online
@@ -35941,7 +35934,6 @@
 0.0.0.0 esmeraldaslot.com
 0.0.0.0 esnb2esky1ai.cdnaabb2.top
 0.0.0.0 esp.cybgea5.top
-0.0.0.0 espacocasa.com
 0.0.0.0 espaconave777.com
 0.0.0.0 espacopg.vip
 0.0.0.0 espacorecargas.com
@@ -37291,7 +37283,6 @@
 0.0.0.0 flashrecargaiunitv.shop
 0.0.0.0 flashrecargas.com.br
 0.0.0.0 flashrecargas.online
-0.0.0.0 flashscore.com.br
 0.0.0.0 flashscorebr.com
 0.0.0.0 flashscores.pt
 0.0.0.0 flashtv.store
@@ -42958,8 +42949,6 @@
 0.0.0.0 jook777.com
 0.0.0.0 joox388.ai
 0.0.0.0 jopojej27.space
-0.0.0.0 jornaldafronteira.com.br
-0.0.0.0 jornaldenegocios.pt
 0.0.0.0 jornaldolagonorte.com.br
 0.0.0.0 jornaldorioo.net
 0.0.0.0 jornalpg.app
@@ -61888,7 +61877,6 @@
 0.0.0.0 trackfive.sbs
 0.0.0.0 trackfive.xyz
 0.0.0.0 tradicional.vip
-0.0.0.0 tradingview.com
 0.0.0.0 tradition-casino.bet
 0.0.0.0 tragabet.com
 0.0.0.0 tragabet.vip
@@ -62639,7 +62627,6 @@
 0.0.0.0 uff777.pro
 0.0.0.0 uff777.win
 0.0.0.0 ufiljr0gapt6.iatech.fun
-0.0.0.0 ufjf.br
 0.0.0.0 uflash.top
 0.0.0.0 ufmg777.bet
 0.0.0.0 ufmg777.cc
