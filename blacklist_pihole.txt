@@ -65920,7 +65920,6 @@
 0.0.0.0 pokerdomsite.bet
 0.0.0.0 pokerstars.ag
 0.0.0.0 pokerstars.cc
-0.0.0.0 pokerstars.com
 0.0.0.0 pokibr.com
 0.0.0.0 pokiesbet.vip
 0.0.0.0 politicsmaven.io
