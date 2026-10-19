@@ -38727,6 +38727,7 @@
 0.0.0.0 camtech.top
 0.0.0.0 camypg0.com
 0.0.0.0 canais-top.digital
+0.0.0.0 canais-top.shop
 0.0.0.0 canais.lat
 0.0.0.0 canais.top
 0.0.0.0 canais5.pro-canais.sbs
@@ -38735,6 +38736,7 @@
 0.0.0.0 canaisaovivotop.digital
 0.0.0.0 canaisaovivotop.world
 0.0.0.0 canaisaovivotop.xyz
+0.0.0.0 canaishdtop.casa
 0.0.0.0 canaishdtop.digital
 0.0.0.0 canaisonline.top
 0.0.0.0 canaisonlinetop.digital
@@ -38750,8 +38752,10 @@
 0.0.0.0 canaistop1.xyz
 0.0.0.0 canaistop2.shop
 0.0.0.0 canaistophd.beer
+0.0.0.0 canaistophd.casa
 0.0.0.0 canaistophd.digital
 0.0.0.0 canaistophd.shop
+0.0.0.0 canaistophd.xyz
 0.0.0.0 canaistoponline.digital
 0.0.0.0 canaistoponline.shop
 0.0.0.0 canaistoponline.world
@@ -45247,6 +45251,7 @@
 0.0.0.0 fill777.bet
 0.0.0.0 filletpg.com
 0.0.0.0 filletpg.net
+0.0.0.0 film-hd.org
 0.0.0.0 filmarpg.vip
 0.0.0.0 filme-gratis-online.info
 0.0.0.0 filme-machen.com
@@ -45311,6 +45316,7 @@
 0.0.0.0 filmestorrentplay2.com
 0.0.0.0 filmestorrentplay3.com
 0.0.0.0 filmestorrentplay4.com
+0.0.0.0 filmestorrentsmagnet.net
 0.0.0.0 filmesviatorrenthd.org
 0.0.0.0 filmesviatorrents.xyz
 0.0.0.0 filmesvideozer.net
@@ -59248,6 +59254,7 @@
 0.0.0.0 megtv.info
 0.0.0.0 mehupulawicuba.info
 0.0.0.0 meiagoiaba.top
+0.0.0.0 meigufilms.com
 0.0.0.0 meiopg.vip
 0.0.0.0 mel777bet.net
 0.0.0.0 mela777.com
@@ -60871,6 +60878,7 @@
 0.0.0.0 netcinebk.lat
 0.0.0.0 netcinebt.lat
 0.0.0.0 netcinebw.lat
+0.0.0.0 netcinecy.lat
 0.0.0.0 netcinefm.lat
 0.0.0.0 netcinehu.lat
 0.0.0.0 netcinelt.lat
@@ -60882,6 +60890,7 @@
 0.0.0.0 netcinevu.lat
 0.0.0.0 netcinewy.lat
 0.0.0.0 netcineye.lat
+0.0.0.0 netcinezz.lat
 0.0.0.0 netmovies.xyz
 0.0.0.0 netoapontaki.top
 0.0.0.0 netoplay.cfd
@@ -68944,6 +68953,7 @@
 0.0.0.0 seriesflixhub.com
 0.0.0.0 seriesflixlive.com
 0.0.0.0 seriesflixmax.ink
+0.0.0.0 seriesflixnet.com
 0.0.0.0 seriesflixnow.com
 0.0.0.0 seriesflixon.biz
 0.0.0.0 seriesflixon.com
@@ -71924,6 +71934,7 @@
 0.0.0.0 torrentdosfilmes1.site
 0.0.0.0 torrentfilmeshd.net
 0.0.0.0 torrentfilmeshd2.org
+0.0.0.0 torrentfilmeshdv2.org
 0.0.0.0 torrentfilmesx.com
 0.0.0.0 torrentgalaxy.hair
 0.0.0.0 torrentsfilmehd.net
@@ -77553,6 +77564,7 @@
 0.0.0.0 www.verpobreflix.net
 0.0.0.0 www.viatorrent.net
 0.0.0.0 www.viatorrent.org
+0.0.0.0 www.viatorrent02.net
 0.0.0.0 www.vinted.cz
 0.0.0.0 www.violao777.com
 0.0.0.0 www.visita777.com
