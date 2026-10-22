@@ -4836,6 +4836,7 @@
 0.0.0.0 122betpg.com.br
 0.0.0.0 122vip1.com
 0.0.0.0 122win.win
+0.0.0.0 123-movies-free.net
 0.0.0.0 123-movies.online
 0.0.0.0 123-series.online
 0.0.0.0 123-series.pro
@@ -4998,6 +4999,7 @@
 0.0.0.0 123movies.delivery
 0.0.0.0 123movies.fast
 0.0.0.0 123movies.host
+0.0.0.0 123movies.rodeo
 0.0.0.0 123movies.support
 0.0.0.0 123movies.surf
 0.0.0.0 123movies.vision
@@ -5040,6 +5042,7 @@
 0.0.0.0 123moviesapp.store
 0.0.0.0 123moviesarena.net
 0.0.0.0 123moviesbd.one
+0.0.0.0 123moviesbiz.com
 0.0.0.0 123moviesd.xyz
 0.0.0.0 123moviesdb.net
 0.0.0.0 123moviese.lol
@@ -5082,6 +5085,8 @@
 0.0.0.0 123moviespack.com
 0.0.0.0 123moviess.cloud
 0.0.0.0 123moviess.mov
+0.0.0.0 123moviessc.org
+0.0.0.0 123moviesseries.com
 0.0.0.0 123moviessite.info
 0.0.0.0 123moviessite.link
 0.0.0.0 123moviesto.fun
@@ -5090,6 +5095,7 @@
 0.0.0.0 123moviestola.com
 0.0.0.0 123moviesx.top
 0.0.0.0 123moviesy.xyz
+0.0.0.0 123moviesz.com.cv
 0.0.0.0 123movieszfree.day
 0.0.0.0 123movietoo.com
 0.0.0.0 123movieunlimited.com
@@ -42597,6 +42603,7 @@
 0.0.0.0 btvboxbr.com
 0.0.0.0 btvboxbrasil.com.br
 0.0.0.0 btvboxbrasiloficial.com
+0.0.0.0 btvboxplay.store
 0.0.0.0 btvboxplayoficial.com
 0.0.0.0 btvbr.com.br
 0.0.0.0 btvbrasil-oficial.com
@@ -46049,6 +46056,8 @@
 0.0.0.0 cuevana.you
 0.0.0.0 cuevana.zip
 0.0.0.0 cuevana03.cc
+0.0.0.0 cuevana1.cyou
+0.0.0.0 cuevana1.mom
 0.0.0.0 cuevana16.xyz
 0.0.0.0 cuevana22.com
 0.0.0.0 cuevana3-latino.com
@@ -46062,6 +46071,7 @@
 0.0.0.0 cuevana3.sbs
 0.0.0.0 cuevana3.sc
 0.0.0.0 cuevana3.st
+0.0.0.0 cuevana3.tokyo
 0.0.0.0 cuevana3.top
 0.0.0.0 cuevana3.vc
 0.0.0.0 cuevana365.live
@@ -46071,6 +46081,7 @@
 0.0.0.0 cuevana3i.lat
 0.0.0.0 cuevana3i.org
 0.0.0.0 cuevana3io.lat
+0.0.0.0 cuevana3play.pro
 0.0.0.0 cuevana3plus.com
 0.0.0.0 cuevana3s.lat
 0.0.0.0 cuevana3site.com
@@ -46085,6 +46096,7 @@
 0.0.0.0 cuevanaes.mom
 0.0.0.0 cuevanaes.one
 0.0.0.0 cuevanaes.xyz
+0.0.0.0 cuevanaespanol2.com
 0.0.0.0 cuevanalat.lat
 0.0.0.0 cuevanalat.mom
 0.0.0.0 cuevanalat.one
@@ -54841,6 +54853,7 @@
 0.0.0.0 himovies.com.cv
 0.0.0.0 himovies.gives
 0.0.0.0 himovies.help
+0.0.0.0 himovies.me.uk
 0.0.0.0 himovies.org.im
 0.0.0.0 himovies.page
 0.0.0.0 himovies.vg
@@ -65445,8 +65458,10 @@
 0.0.0.0 megafilmehdonline.art
 0.0.0.0 megafilmehdonline.com
 0.0.0.0 megafilmehdonline.live
+0.0.0.0 megafilmehdseries.xyz
 0.0.0.0 megafilmehdtvonline.art
 0.0.0.0 megafilmes.digital
+0.0.0.0 megafilmes.pics
 0.0.0.0 megafilmes.quest
 0.0.0.0 megafilmeseserieshd.vip
 0.0.0.0 megafilmeseserieshd.xyz
@@ -70111,6 +70126,7 @@
 0.0.0.0 pelisflix200.me
 0.0.0.0 pelisflixhd.win
 0.0.0.0 pelisiphone.lat
+0.0.0.0 pelisplus.garden
 0.0.0.0 pelisplus.hair
 0.0.0.0 pelisplus.ink
 0.0.0.0 pelisplus.lc
@@ -82191,6 +82207,7 @@
 0.0.0.0 vizer.beauty
 0.0.0.0 vizer.beer
 0.0.0.0 vizer.bid
+0.0.0.0 vizer.biz
 0.0.0.0 vizer.blog
 0.0.0.0 vizer.bond
 0.0.0.0 vizer.buzz
@@ -84418,6 +84435,7 @@
 0.0.0.0 ww5-fmovies.com
 0.0.0.0 ww555ww.com
 0.0.0.0 ww55ww.com
+0.0.0.0 ww6-fmovies.com
 0.0.0.0 ww7bb.com
 0.0.0.0 ww8.123moviesfree.net
 0.0.0.0 ww99.bet
@@ -85763,6 +85781,7 @@
 0.0.0.0 wwwaa222.com
 0.0.0.0 wwwabcd.bet
 0.0.0.0 wwwctg777.com
+0.0.0.0 wwwcuevana2.com
 0.0.0.0 wwwjogopg.com
 0.0.0.0 wwwok.bet
 0.0.0.0 wwwplayace.bet
