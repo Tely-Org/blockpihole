@@ -51787,6 +51787,7 @@
 0.0.0.0 cdnone.eagproxy.sbs
 0.0.0.0 cdnoxe.shop
 0.0.0.0 cdnplay.top
+0.0.0.0 cdnpr.hplay.tv
 0.0.0.0 cdnpro.fun
 0.0.0.0 cdnpro.space
 0.0.0.0 cdnpro1.top
@@ -63953,6 +63954,7 @@
 0.0.0.0 hphp999.com
 0.0.0.0 hphpnavi.com
 0.0.0.0 hphpz.com
+0.0.0.0 hplay.tv
 0.0.0.0 hpyi9v771rwn.cdnaabb1.top
 0.0.0.0 hq23ihxtm8ed.aberlado.shop
 0.0.0.0 hq777.vip
