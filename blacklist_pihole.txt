@@ -14138,6 +14138,7 @@
 0.0.0.0 2777bet.wine
 0.0.0.0 2777bet2777bet.com
 0.0.0.0 2777bet2777bet.net
+0.0.0.0 2778bet.app
 0.0.0.0 2778bet.bet
 0.0.0.0 2778bet.club
 0.0.0.0 2778bet.net
@@ -14503,6 +14504,7 @@
 0.0.0.0 2855bet.vip
 0.0.0.0 2857bet.com
 0.0.0.0 285bet.app
+0.0.0.0 285bet.app.br
 0.0.0.0 285bet.club
 0.0.0.0 285bet.co
 0.0.0.0 285bet.games
@@ -14716,6 +14718,7 @@
 0.0.0.0 28bet.casino
 0.0.0.0 28bet.cc
 0.0.0.0 28bet.cloud
+0.0.0.0 28bet.com
 0.0.0.0 28bet.dev
 0.0.0.0 28bet.name
 0.0.0.0 28bet.org
@@ -14924,6 +14927,7 @@
 0.0.0.0 2999bet.live
 0.0.0.0 2999bet.vip
 0.0.0.0 2999bet.win
+0.0.0.0 299b.app
 0.0.0.0 299b.biz
 0.0.0.0 299b.club
 0.0.0.0 299b.io
@@ -15622,6 +15626,7 @@
 0.0.0.0 30bet.mobi
 0.0.0.0 30bet.online
 0.0.0.0 30bet.pro
+0.0.0.0 30bet.shop
 0.0.0.0 30bet.site
 0.0.0.0 30bet.website
 0.0.0.0 30bet.win
@@ -16028,6 +16033,7 @@
 0.0.0.0 3191win.com
 0.0.0.0 3191z.app
 0.0.0.0 3191zbet.com
+0.0.0.0 3195bet.net
 0.0.0.0 319bet.app
 0.0.0.0 319bet.bet
 0.0.0.0 319bet.net
@@ -16205,6 +16211,7 @@
 0.0.0.0 3292b.me
 0.0.0.0 329bet.app
 0.0.0.0 329bet.net
+0.0.0.0 329bet.org
 0.0.0.0 32a.bet
 0.0.0.0 32abet.app
 0.0.0.0 32aziino777portal.top
@@ -16574,6 +16581,7 @@
 0.0.0.0 333bet.life
 0.0.0.0 333bet.live
 0.0.0.0 333bet.love
+0.0.0.0 333bet.mobi
 0.0.0.0 333bet.mx
 0.0.0.0 333bet.name
 0.0.0.0 333bet.net.br
@@ -16984,6 +16992,7 @@
 0.0.0.0 3388bet.bet
 0.0.0.0 3388bet.club
 0.0.0.0 3388bet.net
+0.0.0.0 3388bet.net.br
 0.0.0.0 3388bet.online
 0.0.0.0 3388bet.org
 0.0.0.0 3388bet.pro
@@ -17333,6 +17342,7 @@
 0.0.0.0 3444bet.cc
 0.0.0.0 3444bet.club
 0.0.0.0 3444bet.org
+0.0.0.0 3444bet.win
 0.0.0.0 3444win.com
 0.0.0.0 3446b.app
 0.0.0.0 3446b.com
@@ -17681,6 +17691,7 @@
 0.0.0.0 3535fbet.bet
 0.0.0.0 3536bet.bet
 0.0.0.0 3536bet.com
+0.0.0.0 3536bet.net
 0.0.0.0 3537.bet
 0.0.0.0 3537.com
 0.0.0.0 3537.online
@@ -17877,6 +17888,7 @@
 0.0.0.0 358bet969.com
 0.0.0.0 35915726.corplucratif.com
 0.0.0.0 35955f.com
+0.0.0.0 3598bet.org
 0.0.0.0 3598bet.vip
 0.0.0.0 359b.com
 0.0.0.0 359bet.club
@@ -18077,6 +18089,7 @@
 0.0.0.0 365bet-onwork.bet
 0.0.0.0 365bet.mx
 0.0.0.0 365bet.name
+0.0.0.0 365bet.net.br
 0.0.0.0 365bet.world
 0.0.0.0 365bet115.com
 0.0.0.0 365bet117.com
@@ -18131,6 +18144,7 @@
 0.0.0.0 365gg29.com
 0.0.0.0 365gg3.com
 0.0.0.0 365gg31.com
+0.0.0.0 365gg33.com
 0.0.0.0 365gg330.com
 0.0.0.0 365gg333.com
 0.0.0.0 365gg34.com
@@ -18342,6 +18356,7 @@
 0.0.0.0 3695bet.bet
 0.0.0.0 3695bet.club
 0.0.0.0 3695bet.co
+0.0.0.0 3695bet.pro
 0.0.0.0 36972.top
 0.0.0.0 3698b.top
 0.0.0.0 3699b.top
@@ -18593,6 +18608,7 @@
 0.0.0.0 378143.com
 0.0.0.0 3785bet.com
 0.0.0.0 3786bet.com
+0.0.0.0 3787bet.com
 0.0.0.0 3788bet-jogospg.com
 0.0.0.0 3788bet.org
 0.0.0.0 3789bet.vip
@@ -18952,6 +18968,7 @@
 0.0.0.0 3888bet.app
 0.0.0.0 3888bet.club
 0.0.0.0 3888bet.mobi
+0.0.0.0 3888bet.site
 0.0.0.0 3888bet.win
 0.0.0.0 3888win.bet
 0.0.0.0 3888win.net
@@ -19289,6 +19306,7 @@
 0.0.0.0 395bet.app
 0.0.0.0 395bet.bet
 0.0.0.0 395bet.cc
+0.0.0.0 395bet.club
 0.0.0.0 395bet.net
 0.0.0.0 395bet.win
 0.0.0.0 395bet10.com
@@ -19961,6 +19979,7 @@
 0.0.0.0 402bet.net
 0.0.0.0 4030bet.info
 0.0.0.0 4030bet.net
+0.0.0.0 4030bet.org
 0.0.0.0 403bet.net
 0.0.0.0 4040bet.net
 0.0.0.0 4045045.fluxivon.cc
@@ -20238,6 +20257,7 @@
 0.0.0.0 420593.com
 0.0.0.0 420bet.app
 0.0.0.0 420bet.org
+0.0.0.0 420bet.pro
 0.0.0.0 420bet1.com
 0.0.0.0 420bet1.vip
 0.0.0.0 420bet12.com
@@ -23892,6 +23912,7 @@
 0.0.0.0 55vv43.com
 0.0.0.0 55vv4433.com
 0.0.0.0 55vv45.com
+0.0.0.0 55vv46.com
 0.0.0.0 55vv47.com
 0.0.0.0 55vv48.com
 0.0.0.0 55vv50.com
@@ -30298,6 +30319,7 @@
 0.0.0.0 7755bet.co
 0.0.0.0 7755bet.net
 0.0.0.0 7755bet.org
+0.0.0.0 7755bet.pro
 0.0.0.0 7755bet.site
 0.0.0.0 7755bet.vip
 0.0.0.0 7755bet11.com
@@ -30727,6 +30749,7 @@
 0.0.0.0 777b.biz
 0.0.0.0 777b.club
 0.0.0.0 777b.co
+0.0.0.0 777b.dev
 0.0.0.0 777b.io
 0.0.0.0 777b.live
 0.0.0.0 777b.mobi
@@ -33421,6 +33444,7 @@
 0.0.0.0 78d60.com
 0.0.0.0 78d600.com
 0.0.0.0 78d65.com
+0.0.0.0 78d66.com
 0.0.0.0 78d666.com
 0.0.0.0 78d67.com
 0.0.0.0 78d69.com
@@ -35794,6 +35818,7 @@
 0.0.0.0 8438154.com
 0.0.0.0 843b.app
 0.0.0.0 843b.win
+0.0.0.0 843bet.net
 0.0.0.0 843bet.org
 0.0.0.0 843win.app
 0.0.0.0 843win.biz
@@ -35946,6 +35971,7 @@
 0.0.0.0 8524bet.net
 0.0.0.0 8524bet.org
 0.0.0.0 8524bet.vip
+0.0.0.0 8525bet.com
 0.0.0.0 8525bet.vip
 0.0.0.0 8525qj.serverninjatech.xyz
 0.0.0.0 852b.top
@@ -36048,6 +36074,7 @@
 0.0.0.0 8577b.tv
 0.0.0.0 8579win.com
 0.0.0.0 857b.tv
+0.0.0.0 857bet.net
 0.0.0.0 857bet.org
 0.0.0.0 857brl.vip
 0.0.0.0 857luck555.com
@@ -36061,6 +36088,7 @@
 0.0.0.0 8586bet.net
 0.0.0.0 8587d.com
 0.0.0.0 8587win.com
+0.0.0.0 8588b.tv
 0.0.0.0 8588b.vip
 0.0.0.0 8588bet.com
 0.0.0.0 8589bet.com
@@ -36144,6 +36172,7 @@
 0.0.0.0 85x6.com
 0.0.0.0 85xxx.vip
 0.0.0.0 85y.bet
+0.0.0.0 8600b.cc
 0.0.0.0 8600bet.app
 0.0.0.0 8600bet.com
 0.0.0.0 860bet.bet
@@ -36297,6 +36326,7 @@
 0.0.0.0 86bet.games
 0.0.0.0 86bet.gmbh
 0.0.0.0 86bet.hu.net
+0.0.0.0 86bet.info
 0.0.0.0 86bet.live
 0.0.0.0 86bet.me
 0.0.0.0 86bet.mobi
@@ -51636,6 +51666,7 @@
 0.0.0.0 brlbet3g.com
 0.0.0.0 brlbet3nn.com
 0.0.0.0 brlbet4.cc
+0.0.0.0 brlbet4.pro
 0.0.0.0 brlbet40.com
 0.0.0.0 brlbet41.com
 0.0.0.0 brlbet42.com
@@ -59247,6 +59278,7 @@
 0.0.0.0 ejcasino28.com
 0.0.0.0 ejcasino29.com
 0.0.0.0 ejcasino3.com
+0.0.0.0 ejcasino30.com
 0.0.0.0 ejcasino31.com
 0.0.0.0 ejcasino32.com
 0.0.0.0 ejcasino33.com
@@ -67459,6 +67491,7 @@
 0.0.0.0 iiyybet.bet
 0.0.0.0 iiyybet.com
 0.0.0.0 iiyybet.net
+0.0.0.0 ij10gn43.com
 0.0.0.0 ij2mp6awwvf8.tucunare.shop
 0.0.0.0 ij96498.com
 0.0.0.0 ijaha.online
@@ -91745,6 +91778,7 @@
 0.0.0.0 sssgamebrazil.bet
 0.0.0.0 sssjogo.com.br
 0.0.0.0 sssjogo.net
+0.0.0.0 sssjogos.cc
 0.0.0.0 sssloi.com
 0.0.0.0 sssok.bet
 0.0.0.0 sssok.club
@@ -96171,6 +96205,7 @@
 0.0.0.0 uwzes80u8x.com
 0.0.0.0 ux01tpe3wz0d.vivita.fun
 0.0.0.0 ux442n.com
+0.0.0.0 ux6j1s4.cc
 0.0.0.0 uxazs.com
 0.0.0.0 uxb3ud.com
 0.0.0.0 uxbet.bet
@@ -98515,6 +98550,7 @@
 0.0.0.0 w1-scorpioopg.com
 0.0.0.0 w1-scorpiopg.bet
 0.0.0.0 w1-screen-pg.com
+0.0.0.0 w1-screenpg.co
 0.0.0.0 w1-screnpg.com
 0.0.0.0 w1-shootingpg.bet
 0.0.0.0 w1-shootingpg.com
@@ -99865,6 +99901,7 @@
 0.0.0.0 winxx17.com
 0.0.0.0 winxx23.com
 0.0.0.0 winxx26.com
+0.0.0.0 winxx28.com
 0.0.0.0 winxx309.com
 0.0.0.0 winxx32.com
 0.0.0.0 winxx328.com
@@ -102143,6 +102180,7 @@
 0.0.0.0 x88000.com
 0.0.0.0 x8811.com
 0.0.0.0 x8849.com
+0.0.0.0 x8868.com
 0.0.0.0 x8877.com
 0.0.0.0 x8898.com
 0.0.0.0 x88vn.in.net
