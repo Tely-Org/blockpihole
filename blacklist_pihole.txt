@@ -8754,6 +8754,7 @@
 0.0.0.0 1xcassinos.app
 0.0.0.0 1xcassinos.bet
 0.0.0.0 1xcassinos.co
+0.0.0.0 1xgame8.com
 0.0.0.0 1xj.site
 0.0.0.0 1xlqv9.com
 0.0.0.0 1xn2q7l4nt09.iatech.fun
