@@ -47014,6 +47014,7 @@
 0.0.0.0 amp-karigarsoflucknow-pajaktoto.pages.dev
 0.0.0.0 amp-mdsportsmg-com-28072026.pages.dev
 0.0.0.0 amp-mizuslot.pages.dev
+0.0.0.0 amp-mulai288-x-cybersecurity-uap-bd-edu.pages.dev
 0.0.0.0 amp-swiftvpn.pages.dev
 0.0.0.0 amp-unitedwebservice-com-27072026.pages.dev
 0.0.0.0 amp3.cc
@@ -70416,6 +70417,7 @@
 0.0.0.0 interwinpg.org
 0.0.0.0 intesmart.live
 0.0.0.0 intexfacades.co.uk
+0.0.0.0 intihnya-bermain-di-sini-pasti-maxwin-123.pages.dev
 0.0.0.0 intocaveis.top
 0.0.0.0 intouchtvpro.com
 0.0.0.0 introcrim.com.br
@@ -93647,6 +93649,7 @@
 0.0.0.0 slofaroeste.store
 0.0.0.0 slot-deposit-bca.pages.dev
 0.0.0.0 slot-gacor-maishadihighschool-edu-bd.pages.dev
+0.0.0.0 slot-jackpot-bonus-visual-epik-topslot999org.pages.dev
 0.0.0.0 slot-olx188j.pages.dev
 0.0.0.0 slot-pg-soft.prodevreal.com.br
 0.0.0.0 slot-planchersgsmcom-el-republika.pages.dev
@@ -94186,6 +94189,7 @@
 0.0.0.0 soulgamb.com
 0.0.0.0 soumaisc.online
 0.0.0.0 soumaisc.xyz
+0.0.0.0 sound-slot-gates-of-olympus-multi-geo-kz-kk.pages.dev
 0.0.0.0 sounhaks.xyz
 0.0.0.0 souteciptvp2p2.top
 0.0.0.0 souzabet.com
