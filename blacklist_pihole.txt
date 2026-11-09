@@ -55748,12 +55748,15 @@
 0.0.0.0 canaistoponline.world
 0.0.0.0 canaistopplay.beer
 0.0.0.0 canaistopplay.digital
+0.0.0.0 canaistopplay.shop
 0.0.0.0 canaistops.beer
 0.0.0.0 canaistops.biz
 0.0.0.0 canaistops.club
 0.0.0.0 canaistops.fun
 0.0.0.0 canaistops.guru
 0.0.0.0 canaistops.world
+0.0.0.0 canaistops1.digital
+0.0.0.0 canaistops1.top
 0.0.0.0 canaistoptv.club
 0.0.0.0 canaistoptv.digital
 0.0.0.0 canaistoptv.fun
@@ -82905,6 +82908,8 @@
 0.0.0.0 net88ae.com
 0.0.0.0 netaxiom.online
 0.0.0.0 netbetcassino.top
+0.0.0.0 netcine.asia
+0.0.0.0 netcinebc.lat
 0.0.0.0 netcinebk.lat
 0.0.0.0 netcinebt.lat
 0.0.0.0 netcinebw.lat
@@ -105273,6 +105278,7 @@
 0.0.0.0 xilften.fr
 0.0.0.0 xilften.lovable.app
 0.0.0.0 xilften.stream
+0.0.0.0 xilftentv.lat
 0.0.0.0 xilofone777.app
 0.0.0.0 xilofone777.bet
 0.0.0.0 xilofone777.fun
