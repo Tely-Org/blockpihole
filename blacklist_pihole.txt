@@ -8527,6 +8527,7 @@
 0.0.0.0 123movie.xyz
 0.0.0.0 123movieday.org
 0.0.0.0 123moviees.com
+0.0.0.0 123moviefree.club
 0.0.0.0 123moviefreeze.net
 0.0.0.0 123moviego.com
 0.0.0.0 123moviehd.in
@@ -8536,6 +8537,7 @@
 0.0.0.0 123moviepad.com
 0.0.0.0 123movieplayer.com
 0.0.0.0 123movies-4k.me
+0.0.0.0 123movies-4u.com
 0.0.0.0 123movies-all.com
 0.0.0.0 123movies-cc.me
 0.0.0.0 123movies-free.site
@@ -8582,6 +8584,8 @@
 0.0.0.0 123movies9.hair
 0.0.0.0 123movies9.life
 0.0.0.0 123movies9.lol
+0.0.0.0 123movies9.makeup
+0.0.0.0 123movies9.monster
 0.0.0.0 123movies9.my
 0.0.0.0 123movies9.one
 0.0.0.0 123movies9.rest
@@ -8605,9 +8609,11 @@
 0.0.0.0 123moviese.lol
 0.0.0.0 123moviesfast.com
 0.0.0.0 123moviesfast.org
+0.0.0.0 123moviesflex.com
 0.0.0.0 123moviesfree.club
 0.0.0.0 123moviesfree.com.pl
 0.0.0.0 123moviesfree.gd
+0.0.0.0 123moviesfree.ink
 0.0.0.0 123moviesfree.website
 0.0.0.0 123moviesfree.yachts
 0.0.0.0 123moviesfree9.best
@@ -8621,6 +8627,7 @@
 0.0.0.0 123moviesgo.top
 0.0.0.0 123moviesgogo.com
 0.0.0.0 123movieshall.com
+0.0.0.0 123movieshd.buzz
 0.0.0.0 123movieshd.hair
 0.0.0.0 123movieshd.world
 0.0.0.0 123movieshdgo.com
@@ -8642,6 +8649,7 @@
 0.0.0.0 123moviespack.com
 0.0.0.0 123moviess.cloud
 0.0.0.0 123moviess.mov
+0.0.0.0 123moviess.vu
 0.0.0.0 123moviessc.org
 0.0.0.0 123moviesseries.com
 0.0.0.0 123moviessite.info
@@ -55788,6 +55796,7 @@
 0.0.0.0 bludv2.xyz
 0.0.0.0 bludvfilmes1.xyz
 0.0.0.0 bludvplay.online
+0.0.0.0 bludvplay2.xyz
 0.0.0.0 blue-tv.vercel.app
 0.0.0.0 blue4k.cc
 0.0.0.0 blue777.fun
@@ -60109,6 +60118,7 @@
 0.0.0.0 ccuevana3.bid
 0.0.0.0 ccuevana3.mov
 0.0.0.0 ccuevana3.sbs
+0.0.0.0 ccuevana3.wtf
 0.0.0.0 ccuipl.bet
 0.0.0.0 ccum99.com
 0.0.0.0 ccww.app
@@ -62338,6 +62348,7 @@
 0.0.0.0 cuevana1.mom
 0.0.0.0 cuevana16.xyz
 0.0.0.0 cuevana2.im
+0.0.0.0 cuevana2023.com
 0.0.0.0 cuevana22.com
 0.0.0.0 cuevana3-latino.com
 0.0.0.0 cuevana3.cl
@@ -62354,6 +62365,7 @@
 0.0.0.0 cuevana3.top
 0.0.0.0 cuevana3.vc
 0.0.0.0 cuevana365.live
+0.0.0.0 cuevana3a.pro
 0.0.0.0 cuevana3es.com
 0.0.0.0 cuevana3hd.lat
 0.0.0.0 cuevana3hd.one
@@ -62367,11 +62379,14 @@
 0.0.0.0 cuevana3site.com
 0.0.0.0 cuevana3tv.buzz
 0.0.0.0 cuevana3tv.lat
+0.0.0.0 cuevana4.space
 0.0.0.0 cuevana6.biz
 0.0.0.0 cuevana69.com
 0.0.0.0 cuevana8.lat
 0.0.0.0 cuevana8.net
 0.0.0.0 cuevana8.world
+0.0.0.0 cuevanae.ink
+0.0.0.0 cuevanae.net
 0.0.0.0 cuevanaes.buzz
 0.0.0.0 cuevanaes.lol
 0.0.0.0 cuevanaes.mom
@@ -70417,6 +70432,7 @@
 0.0.0.0 gcrown155kh.live
 0.0.0.0 gcrudygni407.cdnkopy3.top
 0.0.0.0 gcshahpur.in
+0.0.0.0 gcuevana8.com
 0.0.0.0 gd01jpofl6kc.aberlado.shop
 0.0.0.0 gd6pg.bet
 0.0.0.0 gd777.fun
@@ -72830,6 +72846,7 @@
 0.0.0.0 himovies.org.im
 0.0.0.0 himovies.page
 0.0.0.0 himovies.vg
+0.0.0.0 himoviessx.co
 0.0.0.0 himoviestv.lol
 0.0.0.0 himoviesx.my
 0.0.0.0 hindi777.bet
@@ -85006,6 +85023,8 @@
 0.0.0.0 megafilmeshd.beauty
 0.0.0.0 megafilmeshd.cl
 0.0.0.0 megafilmeshd.garden
+0.0.0.0 megafilmeshd.help
+0.0.0.0 megafilmeshd.host
 0.0.0.0 megafilmeshd.life
 0.0.0.0 megafilmeshd.live
 0.0.0.0 megafilmeshd.men
@@ -90859,12 +90878,14 @@
 0.0.0.0 pelisplus.hair
 0.0.0.0 pelisplus.ink
 0.0.0.0 pelisplus.lc
+0.0.0.0 pelisplus.si
 0.0.0.0 pelisplus.study
 0.0.0.0 pelisplus.yt
 0.0.0.0 pelisplus2.net
 0.0.0.0 pelisplus21.lat
 0.0.0.0 pelisplus24.me
 0.0.0.0 pelisplus2hd.online
+0.0.0.0 pelisplusflix.lat
 0.0.0.0 pelisplushd.at
 0.0.0.0 pelisplushd.boutique
 0.0.0.0 pelisplushd.coupons
@@ -95856,6 +95877,7 @@
 0.0.0.0 repelisplus.buzz
 0.0.0.0 repelisplus.cv
 0.0.0.0 repelisplus.im
+0.0.0.0 repelisplus.live
 0.0.0.0 repelisplus.my
 0.0.0.0 repelisplus.re
 0.0.0.0 repelisplus.top
@@ -102652,9 +102674,11 @@
 0.0.0.0 tvexpressapk.com.br
 0.0.0.0 tvexpressapk.pro
 0.0.0.0 tvexpressapp.pro
+0.0.0.0 tvexpressdownload.com
 0.0.0.0 tvexpresses.com
 0.0.0.0 tvexpressfranquia.com
 0.0.0.0 tvexpressmais.com
+0.0.0.0 tvexpresssapk.com
 0.0.0.0 tvf90.com
 0.0.0.0 tvfaciluni.me
 0.0.0.0 tvfenix.lat
@@ -105595,6 +105619,7 @@
 0.0.0.0 vizer.baby
 0.0.0.0 vizer.beauty
 0.0.0.0 vizer.beer
+0.0.0.0 vizer.best
 0.0.0.0 vizer.bid
 0.0.0.0 vizer.biz
 0.0.0.0 vizer.blog
@@ -105604,9 +105629,11 @@
 0.0.0.0 vizer.cl
 0.0.0.0 vizer.click
 0.0.0.0 vizer.digital
+0.0.0.0 vizer.fan
 0.0.0.0 vizer.forum
 0.0.0.0 vizer.garden
 0.0.0.0 vizer.hair
+0.0.0.0 vizer.host
 0.0.0.0 vizer.it.com
 0.0.0.0 vizer.life
 0.0.0.0 vizer.lol
@@ -107130,6 +107157,7 @@
 0.0.0.0 wcode.top
 0.0.0.0 wct0hua2vfre.longt.shop
 0.0.0.0 wctv952.top
+0.0.0.0 wcuevana.pro
 0.0.0.0 wcv6q2lx27ag.cdnmore1.top
 0.0.0.0 wd47d.bet
 0.0.0.0 wd9.bet
