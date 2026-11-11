@@ -58493,6 +58493,7 @@
 0.0.0.0 canaistophd.xyz
 0.0.0.0 canaistoplive.beer
 0.0.0.0 canaistoplive.digital
+0.0.0.0 canaistoplive.shop
 0.0.0.0 canaistoponline.digital
 0.0.0.0 canaistoponline.shop
 0.0.0.0 canaistoponline.world
@@ -86360,16 +86361,19 @@
 0.0.0.0 netaxiom.online
 0.0.0.0 netbetcassino.top
 0.0.0.0 netcine.asia
+0.0.0.0 netcine.mom
 0.0.0.0 netcinebc.lat
 0.0.0.0 netcinebk.lat
 0.0.0.0 netcinebt.lat
 0.0.0.0 netcinebw.lat
 0.0.0.0 netcinecy.lat
 0.0.0.0 netcinefm.lat
+0.0.0.0 netcinefy.lat
 0.0.0.0 netcinehu.lat
 0.0.0.0 netcinelt.lat
 0.0.0.0 netcinema.lat
 0.0.0.0 netcineph.lat
+0.0.0.0 netcinepo.lat
 0.0.0.0 netcinerave.site
 0.0.0.0 netcinesg.lat
 0.0.0.0 netcineva.lat
