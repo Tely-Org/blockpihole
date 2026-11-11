@@ -57689,6 +57689,7 @@
 0.0.0.0 brasilnavega11.com
 0.0.0.0 brasilplaytv.com
 0.0.0.0 brasilretro.bet
+0.0.0.0 brasilsofts.com
 0.0.0.0 brasiltv.buzz
 0.0.0.0 brasiltv.lol
 0.0.0.0 brasiltv.site
@@ -59905,6 +59906,7 @@
 0.0.0.0 canalplay.vip
 0.0.0.0 canalplus07.com
 0.0.0.0 canalpremium.com.br
+0.0.0.0 canalsoftwares.com
 0.0.0.0 canaltop.top
 0.0.0.0 canarinhobet-pg.com
 0.0.0.0 canarinhovip.sbs
@@ -63957,6 +63959,8 @@
 0.0.0.0 desertpg.com
 0.0.0.0 desi777.bet
 0.0.0.0 desiboyz.uk
+0.0.0.0 designer10.com
+0.0.0.0 designer10.com.br
 0.0.0.0 deskpg.com
 0.0.0.0 despierta.us.com
 0.0.0.0 desportopg.app
@@ -64077,6 +64081,8 @@
 0.0.0.0 dfek989.bid
 0.0.0.0 dff.bet
 0.0.0.0 dffe5e8e83e8819a88d5feb479b13.cloudflaire
+0.0.0.0 dfg.com.br
+0.0.0.0 dfgames.com.br
 0.0.0.0 dfk865.bet
 0.0.0.0 dfks-83-fsy30fs-38fsjif.xyz
 0.0.0.0 dfmfha.258.game
@@ -64385,6 +64391,7 @@
 0.0.0.0 dko57.bet
 0.0.0.0 dkrecargas.com.br
 0.0.0.0 dksdka8876.xyz
+0.0.0.0 dksoftwares.com
 0.0.0.0 dkt101.com
 0.0.0.0 dkwin.bet
 0.0.0.0 dkyutywferger.giotech.fun
@@ -78912,6 +78919,7 @@
 0.0.0.0 kingsbet.club
 0.0.0.0 kingsitptv.streamtv.to
 0.0.0.0 kingsnettv.com
+0.0.0.0 kingsoftwares.com
 0.0.0.0 kingstreaming.org
 0.0.0.0 kingtec.store
 0.0.0.0 kingtop10.net
@@ -83840,6 +83848,7 @@
 0.0.0.0 lojauniversovaporbrasilofc.com
 0.0.0.0 lojavirtualcc.store
 0.0.0.0 lojawarez.com.br
+0.0.0.0 lojinhadosoftware.com
 0.0.0.0 lok.bet
 0.0.0.0 loka777.com
 0.0.0.0 lokapeixe.live
@@ -85587,6 +85596,7 @@
 0.0.0.0 mblp0h.com
 0.0.0.0 mbmbet9.com
 0.0.0.0 mbmt13ec8.cc
+0.0.0.0 mbmti.com
 0.0.0.0 mbpsaoluisgf.top
 0.0.0.0 mbros.top
 0.0.0.0 mbtbybaw.com
@@ -92762,6 +92772,7 @@
 0.0.0.0 pixtv23.com
 0.0.0.0 pixtvs.sbs
 0.0.0.0 pixvera.bet
+0.0.0.0 pixz.com.br
 0.0.0.0 piym460.top
 0.0.0.0 piz368.bet
 0.0.0.0 pize50chqw.leredagojeropube.info
@@ -96789,6 +96800,7 @@
 0.0.0.0 revendadesucessoiptv.fun
 0.0.0.0 revendaflux.net
 0.0.0.0 revendaimperio.net
+0.0.0.0 revendasdesoftwares.com.br
 0.0.0.0 revendasuni.pro
 0.0.0.0 revendasuni.xyz
 0.0.0.0 revendaunitv.co
@@ -97173,6 +97185,8 @@
 0.0.0.0 robycasinos.bet
 0.0.0.0 rochak10.top
 0.0.0.0 rochapg.com
+0.0.0.0 rochasoftwares.com.br
+0.0.0.0 rochasotwares.com
 0.0.0.0 rochatv.top
 0.0.0.0 rochdi-ott.pro
 0.0.0.0 rocinha777.com
@@ -99866,6 +99880,7 @@
 0.0.0.0 sofatv.cyou
 0.0.0.0 sofilmesonline.com
 0.0.0.0 softabt1209.top
+0.0.0.0 softwaresprime.com.br
 0.0.0.0 sogbet.vip
 0.0.0.0 sogra.world
 0.0.0.0 sogrogrande.cf
