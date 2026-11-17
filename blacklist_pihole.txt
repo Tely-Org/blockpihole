@@ -66822,6 +66822,8 @@
 0.0.0.0 dividerpg.com
 0.0.0.0 divingpg.com
 0.0.0.0 divingpg.net
+0.0.0.0 divo.xn--q9jyb4c.com
+0.0.0.0 divo.xn--q9jyb4c.com.br
 0.0.0.0 divulgasocial.com
 0.0.0.0 divvy.bet
 0.0.0.0 diwa777.bet
@@ -75839,6 +75841,8 @@
 0.0.0.0 halte777.com
 0.0.0.0 ham66-slotgemilang.pages.dev
 0.0.0.0 hamburgerpg.bet
+0.0.0.0 hame.xn--q9jyb4c.com
+0.0.0.0 hame.xn--q9jyb4c.com.br
 0.0.0.0 hamis.romponalis.st
 0.0.0.0 hammockpg.com
 0.0.0.0 hamopen.xyz
