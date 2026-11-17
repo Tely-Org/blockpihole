@@ -64754,7 +64754,6 @@
 0.0.0.0 corcri.online
 0.0.0.0 cord-cutter.net
 0.0.0.0 cordalpg.com
-0.0.0.0 cordcuttersnews.com
 0.0.0.0 cordialspg.com
 0.0.0.0 core.kfsxdz.com
 0.0.0.0 core.nbgfbr.com
@@ -74059,7 +74058,6 @@
 0.0.0.0 getcassinobet.com
 0.0.0.0 getopenplay.xyz
 0.0.0.0 getouts1.sbs
-0.0.0.0 getsharepoint.com
 0.0.0.0 getunitvapp.com
 0.0.0.0 getvideo.com.br
 0.0.0.0 getvideo.su
@@ -77124,7 +77122,6 @@
 0.0.0.0 hu777br.com
 0.0.0.0 hu7jw.com
 0.0.0.0 hu888.bet
-0.0.0.0 hub.la
 0.0.0.0 hub4.bet
 0.0.0.0 hubbet.online
 0.0.0.0 hubbet.vip
@@ -86705,7 +86702,6 @@
 0.0.0.0 liderbr.bet
 0.0.0.0 liderhdbr.store
 0.0.0.0 lidersports.vip
-0.0.0.0 lidertv.com
 0.0.0.0 lidertv23.com
 0.0.0.0 lidlcasino.net
 0.0.0.0 lido777.com
@@ -88975,7 +88971,6 @@
 0.0.0.0 maxfunone.top
 0.0.0.0 maxhd.club
 0.0.0.0 maxi4.myurus.top
-0.0.0.0 maxima.net
 0.0.0.0 maximalbet9.com
 0.0.0.0 maximastream.site
 0.0.0.0 maximutv.top
@@ -90597,7 +90592,6 @@
 0.0.0.0 mrplaycasino.bet
 0.0.0.0 mrqp2r.com
 0.0.0.0 mrsbats.pro
-0.0.0.0 mrsharepoint.com
 0.0.0.0 mrsportsbrasil.com
 0.0.0.0 mrsportsdigital.com
 0.0.0.0 mrtbox.xyz
@@ -100351,8 +100345,6 @@
 0.0.0.0 redplayofficial.io
 0.0.0.0 redplayplus.top
 0.0.0.0 redrabbit777.bet
-0.0.0.0 redragon.com
-0.0.0.0 redragonshop.com
 0.0.0.0 redroad.top
 0.0.0.0 redzone.zip
 0.0.0.0 reebet.vip
@@ -106720,7 +106712,6 @@
 0.0.0.0 tomixe.in
 0.0.0.0 tomorrow.pinkgeneral.org
 0.0.0.0 tomreys.top
-0.0.0.0 tomsguide.com
 0.0.0.0 ton3bdq9ulmu.aberlado.shop
 0.0.0.0 tonesbr.wales
 0.0.0.0 toneslt.lat
@@ -107437,7 +107428,6 @@
 0.0.0.0 tv-335158.ipf.to
 0.0.0.0 tv-carioca.net
 0.0.0.0 tv-express.biz
-0.0.0.0 tv-programme.com
 0.0.0.0 tv.bobbins.xyz
 0.0.0.0 tv.botinternet.com.br
 0.0.0.0 tv.coreplayer.io
@@ -109829,7 +109819,6 @@
 0.0.0.0 ver777.win
 0.0.0.0 ver777bet.com
 0.0.0.0 vera.bet
-0.0.0.0 vera.com
 0.0.0.0 vera.site
 0.0.0.0 verabet.vip
 0.0.0.0 verabetbr.net
