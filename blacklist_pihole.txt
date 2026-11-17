@@ -82456,6 +82456,8 @@
 0.0.0.0 katak22.club
 0.0.0.0 katakjepe.net
 0.0.0.0 kateprime.site
+0.0.0.0 kato.xn--q9jyb4c.com
+0.0.0.0 kato.xn--q9jyb4c.com.br
 0.0.0.0 katons.top
 0.0.0.0 katsjh.sbs
 0.0.0.0 katsu5t2.com
@@ -92477,6 +92479,8 @@
 0.0.0.0 nadia01eo.tn76degree12ec3out.cfd
 0.0.0.0 nadia21bc.mp77g69ainei3gx2voxygen.ru
 0.0.0.0 nadifor.xyz
+0.0.0.0 nafa.xn--tckwe.com
+0.0.0.0 nafa.xn--tckwe.com.br
 0.0.0.0 nafaixatv.top
 0.0.0.0 nafet.online
 0.0.0.0 nag777.bet
@@ -108318,6 +108322,8 @@
 0.0.0.0 tibashd.top
 0.0.0.0 tibiaotserv.org
 0.0.0.0 tibsitesorgu-4oi.pages.dev
+0.0.0.0 tibu.xn--tckwe.br
+0.0.0.0 tibu.xn--tckwe.com
 0.0.0.0 tibug1.top
 0.0.0.0 tic88.art
 0.0.0.0 tic88.boats
