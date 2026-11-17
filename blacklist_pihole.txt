@@ -7846,7 +7846,10 @@
 0.0.0.0 11rioc.vip
 0.0.0.0 11riod.vip
 0.0.0.0 11rioh.vip
+0.0.0.0 11rioi.vip
+0.0.0.0 11rioj.vip
 0.0.0.0 11riom.vip
+0.0.0.0 11rior.vip
 0.0.0.0 11rios.vip
 0.0.0.0 11rrbet.com
 0.0.0.0 11rs.bet
@@ -14274,6 +14277,7 @@
 0.0.0.0 1wcsml.life
 0.0.0.0 1wcwlx.life
 0.0.0.0 1wdaiv.life
+0.0.0.0 1wdklg.life
 0.0.0.0 1wdknb.com
 0.0.0.0 1wdpkcj.com
 0.0.0.0 1wecqj.com
@@ -27423,6 +27427,7 @@
 0.0.0.0 4wooh4.bet
 0.0.0.0 4x-ss.bet
 0.0.0.0 4x-ww.com
+0.0.0.0 4x-yy.com
 0.0.0.0 4x-zz.com
 0.0.0.0 4x11.vip
 0.0.0.0 4x4u29c.autos
@@ -34292,6 +34297,7 @@
 0.0.0.0 687win.win
 0.0.0.0 687win1.com
 0.0.0.0 688-luck.bet
+0.0.0.0 688-v8.com
 0.0.0.0 688-win.com
 0.0.0.0 6883bet.app
 0.0.0.0 6883bet.cc
@@ -35974,6 +35980,7 @@
 0.0.0.0 743win.co
 0.0.0.0 743win.com
 0.0.0.0 743win.fun
+0.0.0.0 743win.me
 0.0.0.0 743win.site
 0.0.0.0 743win.top
 0.0.0.0 743win.vip
@@ -41699,6 +41706,7 @@
 0.0.0.0 808boi.one
 0.0.0.0 808boi.top
 0.0.0.0 808sorte.com
+0.0.0.0 808sorte.vip
 0.0.0.0 808win.club
 0.0.0.0 808win1.vip
 0.0.0.0 809-win.com
@@ -43409,6 +43417,7 @@
 0.0.0.0 8787bet-win.com
 0.0.0.0 8787bet.app
 0.0.0.0 8787bet3.com
+0.0.0.0 8787bet6.com
 0.0.0.0 8787bet7.com
 0.0.0.0 8787bet8.com
 0.0.0.0 8787bet9.com
@@ -49578,6 +49587,7 @@
 0.0.0.0 a-70a.com
 0.0.0.0 a-777bet.com
 0.0.0.0 a-flowdarts.com
+0.0.0.0 a.bingoem.casa
 0.0.0.0 a.dyn-alias.org
 0.0.0.0 a.hd4k.space
 0.0.0.0 a.kaza.click
@@ -51920,6 +51930,7 @@
 0.0.0.0 allwin-bet.com.ua
 0.0.0.0 allwin-bet.net.ua
 0.0.0.0 allwin777bet.com
+0.0.0.0 allwinbet.bet
 0.0.0.0 almaroof.com
 0.0.0.0 almocopg.app
 0.0.0.0 almocopg.cc
@@ -52676,6 +52687,7 @@
 0.0.0.0 apostavip.net.br
 0.0.0.0 apostavip.xyz
 0.0.0.0 apostbet.vip
+0.0.0.0 aposteagora.co
 0.0.0.0 aposteagorabrasil.bet
 0.0.0.0 aposteaki.us
 0.0.0.0 apostebrasilbr.bet
@@ -56253,7 +56265,9 @@
 0.0.0.0 betaya-br.club
 0.0.0.0 betaya-br.live
 0.0.0.0 betaya-br.work
+0.0.0.0 betaya-br.xyz
 0.0.0.0 betaya-game.xyz
+0.0.0.0 betaya.vip
 0.0.0.0 betaya.xyz
 0.0.0.0 betaya1.xyz
 0.0.0.0 betaya2.bet
@@ -56299,6 +56313,7 @@
 0.0.0.0 betblast.com
 0.0.0.0 betbluff10.io
 0.0.0.0 betboa.com
+0.0.0.0 betboa.net.br
 0.0.0.0 betboas.com
 0.0.0.0 betboca.com
 0.0.0.0 betbom.com.br
@@ -56370,6 +56385,7 @@
 0.0.0.0 betd8.app.br
 0.0.0.0 betd8.cc
 0.0.0.0 betdacopa.com
+0.0.0.0 betdagalera.com
 0.0.0.0 betdaq.com
 0.0.0.0 betdasorte-br.com
 0.0.0.0 betdasorte.bet.br
@@ -62726,6 +62742,7 @@
 0.0.0.0 cbetbb.com
 0.0.0.0 cbettt.com
 0.0.0.0 cbexs.com.br
+0.0.0.0 cbf2a.com
 0.0.0.0 cbf365.com
 0.0.0.0 cbf365.online
 0.0.0.0 cbf365ss.com
@@ -64771,6 +64788,7 @@
 0.0.0.0 coringatvfive.store
 0.0.0.0 corinned.ru.com
 0.0.0.0 cork.bet
+0.0.0.0 coroa-27kkpg.com
 0.0.0.0 coroa-88aapg.com
 0.0.0.0 coroa-ssttpg.com
 0.0.0.0 coroa.top
@@ -68539,6 +68557,7 @@
 0.0.0.0 ede777.win
 0.0.0.0 edehc.gpsappio.xyz
 0.0.0.0 edes.click
+0.0.0.0 edg-aloe.com
 0.0.0.0 edge-2.skylineac.site
 0.0.0.0 edge-446b8981.azuleamarelo.sbs
 0.0.0.0 edge-ca01.edgefabric.fit
@@ -70325,6 +70344,7 @@
 0.0.0.0 fa-evo-777.com
 0.0.0.0 fa-evo.com
 0.0.0.0 fa-fiel777.vip
+0.0.0.0 fa-flutuar.com
 0.0.0.0 fa-futebolarte777.vip
 0.0.0.0 fa-garfo777.bet
 0.0.0.0 fa-iate.com
@@ -72225,6 +72245,7 @@
 0.0.0.0 frogdns.me
 0.0.0.0 frogdns.pro
 0.0.0.0 froggybet.bet
+0.0.0.0 frogslot.com
 0.0.0.0 fromzp.shop
 0.0.0.0 frontcdn.me
 0.0.0.0 fronteirabet.vip
@@ -74368,6 +74389,7 @@
 0.0.0.0 giro779.bet
 0.0.0.0 girobet.vip
 0.0.0.0 girobetpg.com
+0.0.0.0 girocerto.io
 0.0.0.0 girododinheiro.bet
 0.0.0.0 giromax.com
 0.0.0.0 girosbet.bet
@@ -75062,6 +75084,7 @@
 0.0.0.0 grao777.net
 0.0.0.0 grao777.top
 0.0.0.0 grao777.vip
+0.0.0.0 graoopg.vip
 0.0.0.0 graopg.co
 0.0.0.0 graopg.net
 0.0.0.0 grapebetwin7.com
@@ -76756,6 +76779,7 @@
 0.0.0.0 hms-sleepover.com
 0.0.0.0 hms-sleepover.vip
 0.0.0.0 hms-tiradentesday.bet
+0.0.0.0 hms-toucanpg.com
 0.0.0.0 hms-trunk.bet
 0.0.0.0 hms-vinylpg.bet
 0.0.0.0 hms-vinylpg.com
@@ -77100,6 +77124,7 @@
 0.0.0.0 hu777br.com
 0.0.0.0 hu7jw.com
 0.0.0.0 hu888.bet
+0.0.0.0 hub.la
 0.0.0.0 hub4.bet
 0.0.0.0 hubbet.online
 0.0.0.0 hubbet.vip
@@ -87004,6 +87029,7 @@
 0.0.0.0 lkonline.top
 0.0.0.0 lkos82.online
 0.0.0.0 lkoshvos.top
+0.0.0.0 lkpb.cc
 0.0.0.0 lkplay96.top
 0.0.0.0 lks-9901.bet
 0.0.0.0 ll.1xcassino.com
@@ -87556,6 +87582,7 @@
 0.0.0.0 luck3659.com
 0.0.0.0 luck3671.com
 0.0.0.0 luck368.com
+0.0.0.0 luck371.com
 0.0.0.0 luck377.com
 0.0.0.0 luck389.com
 0.0.0.0 luck3slots.com
@@ -88827,6 +88854,7 @@
 0.0.0.0 masal92.bet
 0.0.0.0 masca.fun
 0.0.0.0 maschi.top
+0.0.0.0 maschmellow777.com
 0.0.0.0 maserati777.net.br
 0.0.0.0 masihh-dikasiii.pages.dev
 0.0.0.0 masrisapp.top
@@ -91307,6 +91335,7 @@
 0.0.0.0 nakesijikopo.info
 0.0.0.0 naldotvon.top
 0.0.0.0 nalibu777.vip
+0.0.0.0 nallu.bet
 0.0.0.0 naloja.site
 0.0.0.0 name-ports.to
 0.0.0.0 namecheap.deals
@@ -93540,6 +93569,7 @@
 0.0.0.0 okokteam.com
 0.0.0.0 okoktt.com
 0.0.0.0 okoktt.win
+0.0.0.0 okoktt10.com
 0.0.0.0 okoktt4.com
 0.0.0.0 okoktt8.com
 0.0.0.0 okoktt9.com
@@ -94586,6 +94616,7 @@
 0.0.0.0 p79vdl.com
 0.0.0.0 p7a3ks.com
 0.0.0.0 p7a6t6.com
+0.0.0.0 p7bet6.xyz
 0.0.0.0 p7c6.top
 0.0.0.0 p7e2l.bet
 0.0.0.0 p7h8w9x.com
@@ -94606,6 +94637,7 @@
 0.0.0.0 p80bet.org
 0.0.0.0 p80bet5.xyz
 0.0.0.0 p80club.xyz
+0.0.0.0 p80games.xyz
 0.0.0.0 p80p80.shop
 0.0.0.0 p82trqbc.com
 0.0.0.0 p86bet.bet
@@ -96379,6 +96411,7 @@
 0.0.0.0 pixcash.online
 0.0.0.0 pixcerto.bet
 0.0.0.0 pixdasorte.bet
+0.0.0.0 pixdasorte.vip
 0.0.0.0 pixdasortebet.com
 0.0.0.0 pixel360.top
 0.0.0.0 pixgreen.bet
@@ -97702,6 +97735,7 @@
 0.0.0.0 popyapps26.site
 0.0.0.0 porati.me
 0.0.0.0 porcoaranha.top
+0.0.0.0 porcokk22.com
 0.0.0.0 porcopunk.bet
 0.0.0.0 pordosol.top
 0.0.0.0 poretum.cfd
@@ -99388,6 +99422,7 @@
 0.0.0.0 r1p7.jingtan526.com
 0.0.0.0 r1t7g6r2.com
 0.0.0.0 r1ufabet.bet
+0.0.0.0 r1wlulu.life
 0.0.0.0 r1wnbepa.life
 0.0.0.0 r1wqahjs.life
 0.0.0.0 r1wwnvc.life
@@ -99509,6 +99544,7 @@
 0.0.0.0 r7-arale.com
 0.0.0.0 r7-boogie.com
 0.0.0.0 r7-gazelle.com
+0.0.0.0 r7-sunset.com
 0.0.0.0 r728y706b61e.cdnmore2.top
 0.0.0.0 r75mr4.com
 0.0.0.0 r7602.com
@@ -102980,6 +103016,7 @@
 0.0.0.0 share777.bet
 0.0.0.0 shark5.bet
 0.0.0.0 sharkiptvpro.xyz
+0.0.0.0 sharkpgcl.com
 0.0.0.0 sharkplay.top
 0.0.0.0 sharkpro.top
 0.0.0.0 sharktool.com
@@ -104540,6 +104577,7 @@
 0.0.0.0 staticc.s21-cloudfront-net.lat
 0.0.0.0 station-pg.com
 0.0.0.0 statistics.radio.fm
+0.0.0.0 statshub.com.br
 0.0.0.0 stavanger.click
 0.0.0.0 stavo.bet
 0.0.0.0 stavobet.xyz
@@ -105088,6 +105126,7 @@
 0.0.0.0 suvpg.bet
 0.0.0.0 suvpg.com
 0.0.0.0 suwaremevete.info
+0.0.0.0 suzuki-777.com
 0.0.0.0 sv-br01-cloudfront-net.lat
 0.0.0.0 sv388betwin.com
 0.0.0.0 sv665.bet
@@ -106847,6 +106886,7 @@
 0.0.0.0 topx14.com
 0.0.0.0 topz.lat
 0.0.0.0 topzer1.top
+0.0.0.0 topzinho.com
 0.0.0.0 toquepg.vip
 0.0.0.0 toquioallp2.com
 0.0.0.0 torches777.bet
@@ -111677,6 +111717,7 @@
 0.0.0.0 w1-hikingpg1.com
 0.0.0.0 w1-hockeypg.com
 0.0.0.0 w1-hockeypg.top
+0.0.0.0 w1-hockeypgg.com
 0.0.0.0 w1-hotdog-pg.com
 0.0.0.0 w1-hotdogpg.com
 0.0.0.0 w1-hotdogpg1.com
@@ -111704,6 +111745,7 @@
 0.0.0.0 w1-lionspg.app
 0.0.0.0 w1-luckilypg.com
 0.0.0.0 w1-lulapg.com
+0.0.0.0 w1-luqxq9.com
 0.0.0.0 w1-milhopg.com
 0.0.0.0 w1-minkpg.com
 0.0.0.0 w1-nochinespg.com
@@ -111781,6 +111823,7 @@
 0.0.0.0 w1-waxsealpg.vip
 0.0.0.0 w1-woolpg.top
 0.0.0.0 w1-woolpg.vip
+0.0.0.0 w1-zonax88.com
 0.0.0.0 w1.embedtv.cc
 0.0.0.0 w1.embedtv.lat
 0.0.0.0 w1.embedtv.live
@@ -112012,6 +112055,7 @@
 0.0.0.0 w9r2m8.com
 0.0.0.0 w9x53q.com
 0.0.0.0 wa-caneta.bet
+0.0.0.0 wa-mouse.bet
 0.0.0.0 wa002.derick26vo.shop
 0.0.0.0 wa002.jvrkt.online
 0.0.0.0 wa002.mangacomsalvod3.shop
@@ -114153,6 +114197,7 @@
 0.0.0.0 www.ajuda777.com
 0.0.0.0 www.alanotibk.com
 0.0.0.0 www.albshipe.com
+0.0.0.0 www.alegriapgcl.com
 0.0.0.0 www.aliado777.com
 0.0.0.0 www.allslotwin777.online
 0.0.0.0 www.along7777.com
@@ -115231,6 +115276,7 @@
 0.0.0.0 www.vaso777.com
 0.0.0.0 www.veedeeo.me
 0.0.0.0 www.vejauni.shop
+0.0.0.0 www.velvetspin.io
 0.0.0.0 www.verde777.vip
 0.0.0.0 www.verpobreflix.net
 0.0.0.0 www.viatorrent.net
@@ -116675,6 +116721,7 @@
 0.0.0.0 yallegojulio.hnsefpop.top
 0.0.0.0 yalpinu.click
 0.0.0.0 yalpinu.org
+0.0.0.0 yamaha-777.com
 0.0.0.0 yamalicia.click
 0.0.0.0 yandexpay.top
 0.0.0.0 yang777pg.com
