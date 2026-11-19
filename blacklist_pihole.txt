@@ -90416,6 +90416,9 @@
 0.0.0.0 leonbet.uno
 0.0.0.0 leonbet.vin
 0.0.0.0 leonbet.win
+0.0.0.0 leonbet.xn.com
+0.0.0.0 leonbet.xn.com.br
+0.0.0.0 leonbet.xn.net
 0.0.0.0 leonbet11.in
 0.0.0.0 leonbetbet.com
 0.0.0.0 leonbetjogo.com
