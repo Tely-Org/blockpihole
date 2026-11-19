@@ -111352,6 +111352,9 @@
 0.0.0.0 trds.top
 0.0.0.0 treadmill777.bet
 0.0.0.0 treebee.in
+0.0.0.0 treeganhebonusparajogarfortunetige.com
+0.0.0.0 treeganhebonusparajogarfortunetige.com.br
+0.0.0.0 treeganhebonusparajogarfortunetige.net
 0.0.0.0 treim.site
 0.0.0.0 treinarpg.com
 0.0.0.0 treinogt.cfd
@@ -120378,7 +120381,7 @@
 0.0.0.0 xbet.bj
 0.0.0.0 xbet.cam
 0.0.0.0 xbet.cd
-0.0.0.0 xbet.ceo.com
+0.0.0.0 xbet.ceo
 0.0.0.0 xbet.ci
 0.0.0.0 xbet.cl
 0.0.0.0 xbet.company
