@@ -85,6 +85,7 @@
 0.0.0.0 0000777.cc
 0.0.0.0 00007777.com
 0.0.0.0 00007777.vip
+0.0.0.0 0000888.cc
 0.0.0.0 00008888.vip
 0.0.0.0 000089.vip
 0.0.0.0 0000a1.com
@@ -227,6 +228,7 @@
 0.0.0.0 000569.com
 0.0.0.0 000574.com
 0.0.0.0 000588.cc
+0.0.0.0 0005888.com
 0.0.0.0 000594.cc
 0.0.0.0 0005bet.app
 0.0.0.0 0005bet.net
@@ -298,6 +300,7 @@
 0.0.0.0 0008-bet.com
 0.0.0.0 000878.me
 0.0.0.0 0008888.net
+0.0.0.0 000888x.com
 0.0.0.0 000888xinpujing.com
 0.0.0.0 0008betpg.com
 0.0.0.0 00097-bet.com
@@ -360,6 +363,7 @@
 0.0.0.0 001-winbet.com
 0.0.0.0 001.jvrkt.online
 0.0.0.0 00101bet.com
+0.0.0.0 0010betapp.com
 0.0.0.0 0010betapp.net
 0.0.0.0 0011bet-7.com
 0.0.0.0 0011bet-9.com
@@ -381,7 +385,10 @@
 0.0.0.0 001777.cc
 0.0.0.0 00177712.com
 0.0.0.0 0017777.com
+0.0.0.0 001888.co
+0.0.0.0 001888.org
 0.0.0.0 001888.vip
+0.0.0.0 0018881.com
 0.0.0.0 001888b.com
 0.0.0.0 0018betapp.com
 0.0.0.0 0018win.com
@@ -896,6 +903,7 @@
 0.0.0.0 00322.xyz
 0.0.0.0 0033-bet.com
 0.0.0.0 00335777.com
+0.0.0.0 00335888.com
 0.0.0.0 003391.xyz
 0.0.0.0 0033bet-7.com
 0.0.0.0 0033bet-8.com
@@ -996,6 +1004,7 @@
 0.0.0.0 003betl7.com
 0.0.0.0 003bingo.com
 0.0.0.0 003gb777.com
+0.0.0.0 003pg.top
 0.0.0.0 003pg88.com
 0.0.0.0 003win.cc
 0.0.0.0 003win.org
@@ -1007,6 +1016,7 @@
 0.0.0.0 003winng.com
 0.0.0.0 003wins.com
 0.0.0.0 003winvip.com
+0.0.0.0 0040betapp.com
 0.0.0.0 0044bet-bet.com
 0.0.0.0 0044bet.app
 0.0.0.0 0044bet.bet
@@ -1020,6 +1030,7 @@
 0.0.0.0 0044bets.com
 0.0.0.0 0044betuu.com
 0.0.0.0 0044betvip.com
+0.0.0.0 0044pgdz.com
 0.0.0.0 0044win.com
 0.0.0.0 004777.top
 0.0.0.0 0048win.com
@@ -1030,6 +1041,7 @@
 0.0.0.0 004betw.com
 0.0.0.0 004bingo.com
 0.0.0.0 004gb777.com
+0.0.0.0 004pg.top
 0.0.0.0 004pg88.com
 0.0.0.0 004win.cc
 0.0.0.0 004win.org
@@ -1192,6 +1204,7 @@
 0.0.0.0 0055pg.ee
 0.0.0.0 0055pg.im
 0.0.0.0 0055pg.in
+0.0.0.0 0055pg.info
 0.0.0.0 0055pg.net.br
 0.0.0.0 0055pg.org
 0.0.0.0 0055pg.vip
@@ -1204,23 +1217,30 @@
 0.0.0.0 0055pg22.com
 0.0.0.0 0055pg2k.com
 0.0.0.0 0055pg33.com
+0.0.0.0 0055pg44.com
 0.0.0.0 0055pg5.com
+0.0.0.0 0055pg55.com
 0.0.0.0 0055pg6.com
 0.0.0.0 0055pg9.com
 0.0.0.0 0055pga5.com
 0.0.0.0 0055pga6.com
+0.0.0.0 0055pgapp.com
+0.0.0.0 0055pgcom.com
 0.0.0.0 0055pgd.com
 0.0.0.0 0055pgdz.com
+0.0.0.0 0055pggame.com
 0.0.0.0 0055pgi1.com
 0.0.0.0 0055pgi2.com
 0.0.0.0 0055pgi3.com
 0.0.0.0 0055pgjogo.com
+0.0.0.0 0055pglogin.com
 0.0.0.0 0055pglogin.com.br
 0.0.0.0 0055pgoi.com
 0.0.0.0 0055pgonline.com
 0.0.0.0 0055pgp.com
 0.0.0.0 0055pgr.com
 0.0.0.0 0055pgslots.com
+0.0.0.0 0055pgt1.com
 0.0.0.0 0055pgta.com
 0.0.0.0 0055pgu.com
 0.0.0.0 0055pgv9.com
@@ -1384,6 +1404,7 @@
 0.0.0.0 0066betao.com
 0.0.0.0 0066betapk.com.br
 0.0.0.0 0066betaposta.com
+0.0.0.0 0066betapp.club
 0.0.0.0 0066betapp.info
 0.0.0.0 0066betapp.org
 0.0.0.0 0066betapp6.com
@@ -1550,6 +1571,7 @@
 0.0.0.0 0078betapp.com
 0.0.0.0 0078betbet.com
 0.0.0.0 0078betpg.com
+0.0.0.0 0078pg.com
 0.0.0.0 0078win.com
 0.0.0.0 007bet-02.com
 0.0.0.0 007bet-03.com
@@ -1592,6 +1614,7 @@
 0.0.0.0 007casino.co.uk
 0.0.0.0 007casino.vip
 0.0.0.0 007casinoroyale.lv
+0.0.0.0 007casinoroyale.net
 0.0.0.0 007game-01.com
 0.0.0.0 007game-02.com
 0.0.0.0 007game-03.com
@@ -1656,6 +1679,8 @@
 0.0.0.0 007gb777.com
 0.0.0.0 007jl777.com
 0.0.0.0 007jlbet.com
+0.0.0.0 007pga.com
+0.0.0.0 007pgjili.com
 0.0.0.0 007superbet.com
 0.0.0.0 007win-jit.com
 0.0.0.0 007win.app
@@ -1812,6 +1837,7 @@
 0.0.0.0 0087betapp.com
 0.0.0.0 0088-bet.com
 0.0.0.0 0088-bet.org
+0.0.0.0 00888.tv
 0.0.0.0 00888006.com
 0.0.0.0 00888074.com
 0.0.0.0 00888076.com
@@ -1819,9 +1845,17 @@
 0.0.0.0 00888331.com
 0.0.0.0 00888332.com
 0.0.0.0 00888989.com
+0.0.0.0 00888b.tv
+0.0.0.0 00888c.tv
+0.0.0.0 00888e.tv
+0.0.0.0 00888g.tv
+0.0.0.0 00888h.tv
+0.0.0.0 00888l.tv
 0.0.0.0 00888n.tv
 0.0.0.0 00888p.tv
 0.0.0.0 00888s.tv
+0.0.0.0 00888t.tv
+0.0.0.0 00888wt.com
 0.0.0.0 00888xp.com
 0.0.0.0 0088bet-02.com
 0.0.0.0 0088bet-03.com
@@ -1864,6 +1898,7 @@
 0.0.0.0 0088bet8m.com
 0.0.0.0 0088betapp.info
 0.0.0.0 0088betbet.com
+0.0.0.0 0088betbonus.com
 0.0.0.0 0088betbr.com
 0.0.0.0 0088betbrasil.com
 0.0.0.0 0088betbrazil.com
@@ -1877,6 +1912,7 @@
 0.0.0.0 0088betpp.com
 0.0.0.0 0088betpwa.com
 0.0.0.0 0088betsp.com
+0.0.0.0 0088betspg.com
 0.0.0.0 0088betxx.com
 0.0.0.0 0088betxxx.com
 0.0.0.0 0088betzz.com
@@ -2234,6 +2270,7 @@
 0.0.0.0 00kdg.com
 0.0.0.0 00l777.vip
 0.0.0.0 00l7777.vip
+0.0.0.0 00maxbet.click
 0.0.0.0 00me777.com
 0.0.0.0 00mgm777.com
 0.0.0.0 00mm88loginbet.com
@@ -2314,7 +2351,9 @@
 0.0.0.0 0101bet89.com
 0.0.0.0 0101bet9.vip
 0.0.0.0 0101betapp.com
+0.0.0.0 0101betapp.com.br
 0.0.0.0 0101betapp.net
+0.0.0.0 0101betapp.org
 0.0.0.0 0101betapps.com
 0.0.0.0 0101betbet.com
 0.0.0.0 0101betbet.com.br
@@ -2334,6 +2373,7 @@
 0.0.0.0 0101betpix.com.br
 0.0.0.0 0101betplataforma.com
 0.0.0.0 0101betpp.com
+0.0.0.0 0101betspa.com
 0.0.0.0 0101betx.com
 0.0.0.0 0101betx3.com
 0.0.0.0 0101betxx.com
@@ -2347,11 +2387,13 @@
 0.0.0.0 0101pg.com
 0.0.0.0 0101winbet.com
 0.0.0.0 0106.cdn10embed.xyz
+0.0.0.0 0107casino.team
 0.0.0.0 010bet1.com
 0.0.0.0 010betapp.com
 0.0.0.0 010betapp.net
 0.0.0.0 010betbet.com
 0.0.0.0 010betbr.com
+0.0.0.0 010betbrasil.com
 0.0.0.0 010betpc.com
 0.0.0.0 011-bet.com
 0.0.0.0 0118777.com
@@ -2601,6 +2643,7 @@
 0.0.0.0 013betyy.com
 0.0.0.0 013betzz.com
 0.0.0.0 013pg.com
+0.0.0.0 013pg.top
 0.0.0.0 013tv.com
 0.0.0.0 013wines.com
 0.0.0.0 014895.bet
@@ -2615,6 +2658,7 @@
 0.0.0.0 0158bet8600.vip
 0.0.0.0 015973.com
 0.0.0.0 015pg.com
+0.0.0.0 015pg.top
 0.0.0.0 015win.app
 0.0.0.0 015win.bet
 0.0.0.0 015win.cam
@@ -2668,6 +2712,7 @@
 0.0.0.0 017betbet8.com
 0.0.0.0 017betbet9.com
 0.0.0.0 017betbets.com
+0.0.0.0 017betbonus.com
 0.0.0.0 017betbr.com
 0.0.0.0 017betjogo.com
 0.0.0.0 017betm1.com
@@ -2800,18 +2845,22 @@
 0.0.0.0 01betaposta.com
 0.0.0.0 01betapostas.com
 0.0.0.0 01betapp.app
+0.0.0.0 01betapp.com
 0.0.0.0 01betapp.net
 0.0.0.0 01betapp.org
 0.0.0.0 01betappbr.com
+0.0.0.0 01betapplogin.com
 0.0.0.0 01betappp.com
 0.0.0.0 01betappvip.com
 0.0.0.0 01betappwin.com
 0.0.0.0 01betbet.com
 0.0.0.0 01betbetbr.com
 0.0.0.0 01betbets.com
+0.0.0.0 01betbonus.com
 0.0.0.0 01betbr.org
 0.0.0.0 01betbra.com
 0.0.0.0 01betbrapp.com
+0.0.0.0 01betbrasil.net
 0.0.0.0 01betbrazil.com
 0.0.0.0 01betbrcom.com
 0.0.0.0 01betbrl.com
@@ -2843,6 +2892,7 @@
 0.0.0.0 01betsbet.net
 0.0.0.0 01betsbets.com
 0.0.0.0 01betsp.com
+0.0.0.0 01betspg.com
 0.0.0.0 01betx.com
 0.0.0.0 01bety.com
 0.0.0.0 01betzero.com
@@ -2903,7 +2953,10 @@
 0.0.0.0 020bet8.com
 0.0.0.0 020betapp.com
 0.0.0.0 020betapp.net
+0.0.0.0 020betbonus.com
 0.0.0.0 020betbr.com
+0.0.0.0 020betbrasil.com
+0.0.0.0 020betbrazil.com
 0.0.0.0 020betjogo.com
 0.0.0.0 020betml.com
 0.0.0.0 020betpg.com
@@ -2941,13 +2994,16 @@
 0.0.0.0 023betml.com
 0.0.0.0 023betpg.com
 0.0.0.0 023betpix.com
+0.0.0.0 023pg.top
 0.0.0.0 02461974.com
 0.0.0.0 02468.biz
 0.0.0.0 02468bet10.com
 0.0.0.0 024bet.cc
 0.0.0.0 024bet.net
 0.0.0.0 024bet.org
+0.0.0.0 024pg.top
 0.0.0.0 025pg.com
+0.0.0.0 025pg.top
 0.0.0.0 0260betbr.com
 0.0.0.0 0261271.bet
 0.0.0.0 0276win.com
@@ -2973,6 +3029,7 @@
 0.0.0.0 027winpg.com
 0.0.0.0 027wins.com
 0.0.0.0 027winvip.com
+0.0.0.0 0285pg.cc
 0.0.0.0 0285win.com
 0.0.0.0 0288bet.love
 0.0.0.0 0288bet11.com
@@ -3121,6 +3178,7 @@
 0.0.0.0 032bet.xyz
 0.0.0.0 032win.org
 0.0.0.0 032win55.com
+0.0.0.0 0333pg.com
 0.0.0.0 0333win.com
 0.0.0.0 0333win.net
 0.0.0.0 0333win.org
@@ -3205,6 +3263,7 @@
 0.0.0.0 03betbet.com
 0.0.0.0 03betbets.com
 0.0.0.0 03betbr.net
+0.0.0.0 03betbrasil.com
 0.0.0.0 03betjogos.com
 0.0.0.0 03betm.com
 0.0.0.0 03betml.com
@@ -3219,6 +3278,7 @@
 0.0.0.0 03pg.vip
 0.0.0.0 03pg88.com
 0.0.0.0 03pg88.vip
+0.0.0.0 03pgdz.com
 0.0.0.0 03q87.vip
 0.0.0.0 03r123.com
 0.0.0.0 03rrbet.com
@@ -3340,6 +3400,7 @@
 0.0.0.0 042bet.com.br
 0.0.0.0 0433win.com
 0.0.0.0 04397340.com
+0.0.0.0 043pg.top
 0.0.0.0 044brbets.com
 0.0.0.0 0451bet.com
 0.0.0.0 0456.bet
@@ -3436,6 +3497,7 @@
 0.0.0.0 04joinbet.com
 0.0.0.0 04l77.com
 0.0.0.0 04pg777.com
+0.0.0.0 04pgdz.com
 0.0.0.0 04pgjp.com
 0.0.0.0 04pk888.com
 0.0.0.0 04popvai.com
@@ -3472,6 +3534,7 @@
 0.0.0.0 050bet2k.com
 0.0.0.0 050bet6.com
 0.0.0.0 050bet66.com
+0.0.0.0 050betapp.com
 0.0.0.0 050betjogo.com
 0.0.0.0 050betjogos.com
 0.0.0.0 050betmm.com
@@ -3630,6 +3693,7 @@
 0.0.0.0 05pbetwin.com
 0.0.0.0 05pg28.com
 0.0.0.0 05pg777.com
+0.0.0.0 05pgdz.com
 0.0.0.0 05pgg.com
 0.0.0.0 05pgo.com
 0.0.0.0 05pk888.com
@@ -3697,12 +3761,14 @@
 0.0.0.0 0657d.com
 0.0.0.0 0657f.com
 0.0.0.0 065pg.com
+0.0.0.0 065pg.top
 0.0.0.0 066-bet.com
 0.0.0.0 0660betapp.com
 0.0.0.0 0660betbr.com
 0.0.0.0 0660betjogo.com
 0.0.0.0 0660betpix.com
 0.0.0.0 0663pg.cc
+0.0.0.0 0663pg.cn
 0.0.0.0 066bet-bet.com
 0.0.0.0 066bet-jogospg.com
 0.0.0.0 066bet-win.com
@@ -3712,6 +3778,7 @@
 0.0.0.0 066bet2a.com
 0.0.0.0 066bet8.com
 0.0.0.0 066betapp.com
+0.0.0.0 066betbr.com
 0.0.0.0 066betbra.com
 0.0.0.0 066betml.com
 0.0.0.0 066betpg.com
@@ -3747,6 +3814,7 @@
 0.0.0.0 0697win.com
 0.0.0.0 0697y.com
 0.0.0.0 069bet-jogospg.com
+0.0.0.0 069betapp.com
 0.0.0.0 069betm.com
 0.0.0.0 069betp.com
 0.0.0.0 069betpg.com
@@ -3779,6 +3847,7 @@
 0.0.0.0 06betapp.com
 0.0.0.0 06betapp.net
 0.0.0.0 06betbet.com
+0.0.0.0 06betbr.com
 0.0.0.0 06betjogos.com
 0.0.0.0 06betml.com
 0.0.0.0 06betpg.com
@@ -3807,6 +3876,7 @@
 0.0.0.0 0700bet6.com
 0.0.0.0 0700bet8.com
 0.0.0.0 0700beta.com
+0.0.0.0 0700betapp.com
 0.0.0.0 0700betapps.com
 0.0.0.0 0700betbet.com
 0.0.0.0 0700betbet.com.br
@@ -3928,6 +3998,7 @@
 0.0.0.0 074betfb.com
 0.0.0.0 074betvg.com
 0.0.0.0 074pg.com
+0.0.0.0 074pg.top
 0.0.0.0 0753wine.com
 0.0.0.0 075pg.com
 0.0.0.0 076-bet.com
@@ -3991,6 +4062,7 @@
 0.0.0.0 0777bet.top
 0.0.0.0 0777bet.xyz
 0.0.0.0 0777betapp.cam
+0.0.0.0 0777betapp.com
 0.0.0.0 0777betbr8.com
 0.0.0.0 077bet-bet.com
 0.0.0.0 077bet12.com
@@ -4044,6 +4116,7 @@
 0.0.0.0 077wins.com
 0.0.0.0 077winvip.com
 0.0.0.0 077winwin.com
+0.0.0.0 078betapp.com
 0.0.0.0 078betpg.com
 0.0.0.0 078win.app
 0.0.0.0 078win.bet
@@ -4093,6 +4166,7 @@
 0.0.0.0 079betavi.com
 0.0.0.0 079betbet.com
 0.0.0.0 079betbet.com.br
+0.0.0.0 079betbonus.com
 0.0.0.0 079betbrazil.com
 0.0.0.0 079betml.com
 0.0.0.0 079betmm.com
@@ -4250,6 +4324,7 @@
 0.0.0.0 0806winvip.com
 0.0.0.0 0806winwin.com
 0.0.0.0 0807-bet.com
+0.0.0.0 0808betapp.com
 0.0.0.0 0808win.com
 0.0.0.0 0814bet.com
 0.0.0.0 0815login.com
@@ -4320,6 +4395,7 @@
 0.0.0.0 085betpg.com
 0.0.0.0 085lbet.com
 0.0.0.0 085pg.com
+0.0.0.0 085pg.top
 0.0.0.0 085win-a.com
 0.0.0.0 085win-vip.com
 0.0.0.0 085win.app
@@ -4398,6 +4474,7 @@
 0.0.0.0 0877bet2k.com
 0.0.0.0 0877bet687.com
 0.0.0.0 0877bet6k.com
+0.0.0.0 0877betapp.com
 0.0.0.0 0877betml.com
 0.0.0.0 087bet.bet
 0.0.0.0 087betbet.com
@@ -4578,6 +4655,7 @@
 0.0.0.0 090betbr.com.br
 0.0.0.0 090betbr9.com
 0.0.0.0 090betbra.com
+0.0.0.0 090betbrazil.com
 0.0.0.0 090betjogos.com.br
 0.0.0.0 090betmm.com
 0.0.0.0 090betp.com
@@ -4609,10 +4687,12 @@
 0.0.0.0 0933bet.com
 0.0.0.0 0933win.com
 0.0.0.0 093pg.com
+0.0.0.0 093pg.top
 0.0.0.0 0941bet.cc
 0.0.0.0 0941bet.com
 0.0.0.0 094bet.cc
 0.0.0.0 094bet.com.br
+0.0.0.0 094pg.top
 0.0.0.0 094ub6.com
 0.0.0.0 095-bet.com
 0.0.0.0 095-bet.org
@@ -4641,6 +4721,7 @@
 0.0.0.0 095betapps.com
 0.0.0.0 095betbet.com.br
 0.0.0.0 095betbets.com
+0.0.0.0 095betbr.com
 0.0.0.0 095betcp.com
 0.0.0.0 095betml.com
 0.0.0.0 095betms.com
@@ -4763,8 +4844,11 @@
 0.0.0.0 099betapp.com.br
 0.0.0.0 099betappapk.com
 0.0.0.0 099betappapk.net
+0.0.0.0 099betappvip.com
 0.0.0.0 099betbet.com
 0.0.0.0 099betbet.website
+0.0.0.0 099betbr.com.br
+0.0.0.0 099betbrasil.com
 0.0.0.0 099betjogos.com.br
 0.0.0.0 099betml.com
 0.0.0.0 099betpelada.com
@@ -4817,10 +4901,12 @@
 0.0.0.0 09betapp.org
 0.0.0.0 09betapp.pro
 0.0.0.0 09betappapk.com
+0.0.0.0 09betapps.com
 0.0.0.0 09betbet.com
 0.0.0.0 09betbr.com
 0.0.0.0 09betbr9.com
 0.0.0.0 09betbrac.com
+0.0.0.0 09betbrasil.com
 0.0.0.0 09betmines.com
 0.0.0.0 09betml.com
 0.0.0.0 09betp.com
@@ -4865,6 +4951,7 @@
 0.0.0.0 09viplinkbet.com
 0.0.0.0 09viploginbet.com
 0.0.0.0 09vvqkushagt.cdnsmile2.top
+0.0.0.0 09xxbet.com
 0.0.0.0 0a51bup9jba6.vivita.fun
 0.0.0.0 0abcbet.com
 0.0.0.0 0ag45k3hixz7.longt.shop
@@ -5642,6 +5729,8 @@
 0.0.0.0 100betapostas.com
 0.0.0.0 100betapps.com
 0.0.0.0 100betbets.com
+0.0.0.0 100betbrasil.com
+0.0.0.0 100betbrl.com
 0.0.0.0 100betjogo.com
 0.0.0.0 100betm1.com
 0.0.0.0 100betmax.com
@@ -5703,6 +5792,7 @@
 0.0.0.0 1010bet2a.com
 0.0.0.0 1010bet2k.com
 0.0.0.0 1010betaposta.com
+0.0.0.0 1010betapp.com
 0.0.0.0 1010betapp.net
 0.0.0.0 1010betapp1.com
 0.0.0.0 1010betbr.com
@@ -5750,6 +5840,7 @@
 0.0.0.0 1012betmn.com
 0.0.0.0 1012betpg.com
 0.0.0.0 1012betpix.com.br
+0.0.0.0 1012betspa.com
 0.0.0.0 1012betxx.com
 0.0.0.0 1012betyy.com
 0.0.0.0 1012betzz.com
@@ -5762,9 +5853,11 @@
 0.0.0.0 101bet101.com
 0.0.0.0 101bet2a.com
 0.0.0.0 101bet2k.com
+0.0.0.0 101betapp.com
 0.0.0.0 101betbet.com
 0.0.0.0 101betbets.com
 0.0.0.0 101betbra.com
+0.0.0.0 101betbrazil.com
 0.0.0.0 101betm1.com
 0.0.0.0 101betml.com
 0.0.0.0 101betpg.com
@@ -5799,6 +5892,7 @@
 0.0.0.0 1020bet.net
 0.0.0.0 1020bet.org
 0.0.0.0 1020bet850.com
+0.0.0.0 1020betapp.com
 0.0.0.0 1020betbet.com
 0.0.0.0 1020betbra.com
 0.0.0.0 1020betpg.com
@@ -5962,6 +6056,7 @@
 0.0.0.0 1071bet.vip
 0.0.0.0 1071betapp.com
 0.0.0.0 1071betbet.com
+0.0.0.0 1071betbra.com
 0.0.0.0 1071betpg.com
 0.0.0.0 1071tempobet.com
 0.0.0.0 1072tempobet.com
@@ -6053,6 +6148,8 @@
 0.0.0.0 1093win.com
 0.0.0.0 1094bets10.com
 0.0.0.0 1094tempobet.com
+0.0.0.0 1095pg.co
+0.0.0.0 1095pg11.com
 0.0.0.0 1095pg22.com
 0.0.0.0 1095tempobet.com
 0.0.0.0 1096b.cc
@@ -6148,6 +6245,7 @@
 0.0.0.0 10bet6.com
 0.0.0.0 10bet888.com
 0.0.0.0 10betapostas.com
+0.0.0.0 10betapp.asia
 0.0.0.0 10betapp.cc
 0.0.0.0 10betapp.cn
 0.0.0.0 10betapp.com
@@ -6155,6 +6253,7 @@
 0.0.0.0 10betapp10.com
 0.0.0.0 10betappbet.com
 0.0.0.0 10betbet.com
+0.0.0.0 10betbonus.de
 0.0.0.0 10betbrasil.info
 0.0.0.0 10betbrazil.bet
 0.0.0.0 10betcasinobet.com
@@ -7104,6 +7203,7 @@
 0.0.0.0 111betbrazil.com
 0.0.0.0 111betmm.com
 0.0.0.0 111betpg.com
+0.0.0.0 111betpix.com
 0.0.0.0 111betsbets.com
 0.0.0.0 111betsp.com
 0.0.0.0 111betspk.com
@@ -7200,6 +7300,7 @@
 0.0.0.0 111xbet.bet
 0.0.0.0 111xbet.bid
 0.0.0.0 111xbet.club
+0.0.0.0 111xbet.com.br
 0.0.0.0 111xbet.games
 0.0.0.0 111xbet.net
 0.0.0.0 111xbet.org
@@ -7381,6 +7482,7 @@
 0.0.0.0 113betml.com
 0.0.0.0 113betpg.com
 0.0.0.0 113hokibet228.site
+0.0.0.0 113pg.top
 0.0.0.0 113win.app
 0.0.0.0 113win.bet
 0.0.0.0 113win.cam
@@ -7397,6 +7499,7 @@
 0.0.0.0 1143tempobet.com
 0.0.0.0 1144bet.top
 0.0.0.0 1144betgit.com
+0.0.0.0 1144pgdz.com
 0.0.0.0 1144tempobet.com
 0.0.0.0 1145tempobet.com
 0.0.0.0 1146tempobet.com
@@ -7580,6 +7683,7 @@
 0.0.0.0 1166bet.bet
 0.0.0.0 1166bet.vip
 0.0.0.0 1166bet6.com
+0.0.0.0 1166betbrasil.com
 0.0.0.0 1166betml.com
 0.0.0.0 1166betpg.com
 0.0.0.0 1166betx.com
@@ -8009,6 +8113,8 @@
 0.0.0.0 119betmq.com
 0.0.0.0 119betpg.com.br
 0.0.0.0 119bets.net
+0.0.0.0 119betsp.com
+0.0.0.0 119betspa.com
 0.0.0.0 119betspg.com
 0.0.0.0 119betspk.com
 0.0.0.0 119betx.com
@@ -8056,6 +8162,7 @@
 0.0.0.0 11bestpg.com
 0.0.0.0 11bet-1.com
 0.0.0.0 11bet-pg.com
+0.0.0.0 11bet-pix.com
 0.0.0.0 11bet-win.com
 0.0.0.0 11bet.bar
 0.0.0.0 11bet.cloud
@@ -8089,7 +8196,9 @@
 0.0.0.0 11betapp.cam
 0.0.0.0 11betapp.club
 0.0.0.0 11betapp.vu
+0.0.0.0 11betapp.xyz
 0.0.0.0 11betapp11.com
+0.0.0.0 11betbrasil.com
 0.0.0.0 11betcasinobet.com
 0.0.0.0 11betcassino.com
 0.0.0.0 11betjogo.com
@@ -8106,6 +8215,7 @@
 0.0.0.0 11betsbet.com
 0.0.0.0 11betsp.com
 0.0.0.0 11betspg.com
+0.0.0.0 11betsports.com
 0.0.0.0 11bettop.com
 0.0.0.0 11betx.co
 0.0.0.0 11betz.art
@@ -8462,8 +8572,10 @@
 0.0.0.0 11xbet.com.br
 0.0.0.0 11xbet.site
 0.0.0.0 11xbet.win
+0.0.0.0 11xbet24.com
 0.0.0.0 11xbeta.com
 0.0.0.0 11xbetapp.com
+0.0.0.0 11xbetbhai.com
 0.0.0.0 11xbetbhai.net
 0.0.0.0 11xbetbr.com
 0.0.0.0 11xbetc.com
@@ -8541,6 +8653,7 @@
 0.0.0.0 120betpg.com
 0.0.0.0 120betpix.com
 0.0.0.0 120betsp.com
+0.0.0.0 120betsport.com
 0.0.0.0 120betxa.com
 0.0.0.0 120betxc.com
 0.0.0.0 120betxxx.com
@@ -8584,6 +8697,7 @@
 0.0.0.0 1213betm.com
 0.0.0.0 1213betpg.com
 0.0.0.0 1213betpix.com
+0.0.0.0 1213betspa.com
 0.0.0.0 1213betx.com
 0.0.0.0 1213betxo.com
 0.0.0.0 1213bety.com
@@ -8608,6 +8722,7 @@
 0.0.0.0 1218betm.com
 0.0.0.0 1218betpg.com
 0.0.0.0 1218betplay.com
+0.0.0.0 1218betspa.com
 0.0.0.0 1218betx.com
 0.0.0.0 1218betxc.com
 0.0.0.0 1218bety.com
@@ -8724,6 +8839,7 @@
 0.0.0.0 121betmz.com
 0.0.0.0 121betpg.com
 0.0.0.0 121betpix.com
+0.0.0.0 121betsorte.com
 0.0.0.0 121betsp.com
 0.0.0.0 121betxx.com
 0.0.0.0 121betyt.com
@@ -8902,6 +9018,7 @@
 0.0.0.0 122betpix.com
 0.0.0.0 122betpix.com.br
 0.0.0.0 122betsp.com
+0.0.0.0 122betspa.com
 0.0.0.0 122betspg.com
 0.0.0.0 122betxc.com
 0.0.0.0 122betxg.com
@@ -9071,10 +9188,12 @@
 0.0.0.0 123betapp.vu
 0.0.0.0 123betapp.win
 0.0.0.0 123betapp.xyz
+0.0.0.0 123betapp123.com
 0.0.0.0 123betappapk.com
 0.0.0.0 123betappapk.net
 0.0.0.0 123betapplogin.net
 0.0.0.0 123betbonus.com
+0.0.0.0 123betbrasil.com
 0.0.0.0 123betbrazil.com
 0.0.0.0 123betcassino.info
 0.0.0.0 123betcassino.org
@@ -9146,6 +9265,7 @@
 0.0.0.0 123goallinkbet.com
 0.0.0.0 123golinkbet.com
 0.0.0.0 123gomovie.net
+0.0.0.0 123hdr.com
 0.0.0.0 123herolinkbet.com
 0.0.0.0 123kbet.net
 0.0.0.0 123kbet.org
@@ -9331,6 +9451,7 @@
 0.0.0.0 123pg37f.com
 0.0.0.0 123pg55.com
 0.0.0.0 123pg6f.com
+0.0.0.0 123pg7f.com
 0.0.0.0 123pg88.com
 0.0.0.0 123pg88.vip
 0.0.0.0 123pg99.com
@@ -9699,7 +9820,10 @@
 0.0.0.0 124bet.bet
 0.0.0.0 124bet.org
 0.0.0.0 124bet.pro
+0.0.0.0 124betapp.com
+0.0.0.0 124betbrasil.com
 0.0.0.0 124betpg.com
+0.0.0.0 124betpix.com
 0.0.0.0 124pg.com
 0.0.0.0 124pg.net
 0.0.0.0 124win.net
@@ -9767,6 +9891,7 @@
 0.0.0.0 126bet6.net
 0.0.0.0 126bet7.com
 0.0.0.0 126betapp.net
+0.0.0.0 126betbrasil.com
 0.0.0.0 126betbrazil.com
 0.0.0.0 126betlinkbet.com
 0.0.0.0 126betpg.com
@@ -9847,8 +9972,10 @@
 0.0.0.0 128bet7.com
 0.0.0.0 128bet9.com
 0.0.0.0 128betapp.net
+0.0.0.0 128betbra.com
 0.0.0.0 128betjogos.com
 0.0.0.0 128betpg.com
+0.0.0.0 128betspa.com
 0.0.0.0 128betx.com
 0.0.0.0 128betxz.com
 0.0.0.0 128bety1.com
@@ -9885,6 +10012,7 @@
 0.0.0.0 12belinkbet.com
 0.0.0.0 12bet-br.com
 0.0.0.0 12bet-oficial.com
+0.0.0.0 12bet-pix.com
 0.0.0.0 12bet.bet
 0.0.0.0 12bet.net
 0.0.0.0 12bet.online
@@ -9911,6 +10039,7 @@
 0.0.0.0 12betbet.com
 0.0.0.0 12betbonus.com
 0.0.0.0 12betbr.com
+0.0.0.0 12betbra.com
 0.0.0.0 12betbrazil.com
 0.0.0.0 12betcassino.com
 0.0.0.0 12betlink12bet.com
@@ -9920,6 +10049,7 @@
 0.0.0.0 12betpg.com
 0.0.0.0 12betpix.com
 0.0.0.0 12betspace.com
+0.0.0.0 12betsport-mobi.com
 0.0.0.0 12betsport.com
 0.0.0.0 12betsport.net
 0.0.0.0 12betsports-mobi.com
@@ -10265,6 +10395,7 @@
 0.0.0.0 131bet9.com
 0.0.0.0 131betbra.com
 0.0.0.0 131betpg.com
+0.0.0.0 131betspa.com
 0.0.0.0 131betx.com
 0.0.0.0 131bety.com
 0.0.0.0 131betz.com
@@ -10336,6 +10467,7 @@
 0.0.0.0 1333betbonus.com
 0.0.0.0 1333betbrac.com
 0.0.0.0 1333betpg.com
+0.0.0.0 1333betpix.com
 0.0.0.0 1333bety.com
 0.0.0.0 1334bet.com
 0.0.0.0 1334bet.net
@@ -10504,6 +10636,7 @@
 0.0.0.0 136betpg.com
 0.0.0.0 136betpix.com
 0.0.0.0 136betsp.com
+0.0.0.0 136betspa.com
 0.0.0.0 136betsports.com
 0.0.0.0 136betx.com
 0.0.0.0 136betxc.com
@@ -10647,6 +10780,7 @@
 0.0.0.0 137bet7.com
 0.0.0.0 137bet8.com
 0.0.0.0 137bet9.com
+0.0.0.0 137betbrasil.com
 0.0.0.0 137betjogos.com
 0.0.0.0 137betpg.com
 0.0.0.0 137bety.com
@@ -10719,6 +10853,7 @@
 0.0.0.0 139bet12.com
 0.0.0.0 139bet5.com
 0.0.0.0 139bet8.com
+0.0.0.0 139betbrasil.com
 0.0.0.0 139betcassino.com
 0.0.0.0 139betjogo.com
 0.0.0.0 139betpg.com
@@ -10809,7 +10944,10 @@
 0.0.0.0 13merhabet647.com
 0.0.0.0 13no777.com
 0.0.0.0 13o.com
+0.0.0.0 13pg.org
+0.0.0.0 13pg1.club
 0.0.0.0 13pg777.com
+0.0.0.0 13pg8.top
 0.0.0.0 13pg88.top
 0.0.0.0 13rooksbet4.com
 0.0.0.0 13rrbet.com
@@ -11023,6 +11161,7 @@
 0.0.0.0 1444bet.app
 0.0.0.0 1444bet.club
 0.0.0.0 1444bet.net
+0.0.0.0 1444pg.com
 0.0.0.0 1446b.com
 0.0.0.0 144bet-pg.com
 0.0.0.0 144bet.app.br
@@ -11063,6 +11202,7 @@
 0.0.0.0 144betbr8.com
 0.0.0.0 144betjogo.com
 0.0.0.0 144betpg.com
+0.0.0.0 144betpix.com
 0.0.0.0 144betsportmp.com
 0.0.0.0 144betx1.com
 0.0.0.0 144betxa.com
@@ -11103,6 +11243,7 @@
 0.0.0.0 146bet677.com
 0.0.0.0 146bet7.com
 0.0.0.0 146betbrasil.com
+0.0.0.0 146betspa.com
 0.0.0.0 146bety.com
 0.0.0.0 146win.bet
 0.0.0.0 146win.win
@@ -11184,32 +11325,49 @@
 0.0.0.0 14pg-o.com
 0.0.0.0 14pg-paga.com
 0.0.0.0 14pg.app.br
+0.0.0.0 14pg.asia
 0.0.0.0 14pg.bid
 0.0.0.0 14pg.cam
 0.0.0.0 14pg.com
+0.0.0.0 14pg.com.br
 0.0.0.0 14pg.vip
+0.0.0.0 14pg.website
 0.0.0.0 14pg001.com
 0.0.0.0 14pg01.com
 0.0.0.0 14pg02.com
 0.0.0.0 14pg11.com
 0.0.0.0 14pg111.com
 0.0.0.0 14pg1b.com
+0.0.0.0 14pg1c.com
 0.0.0.0 14pg1k.com
 0.0.0.0 14pg1m.com
 0.0.0.0 14pg22.com
+0.0.0.0 14pg24.com
 0.0.0.0 14pg2a.com
 0.0.0.0 14pg2k.com
+0.0.0.0 14pg3.com
 0.0.0.0 14pg33.com
+0.0.0.0 14pg4.com
+0.0.0.0 14pg40.com
+0.0.0.0 14pg42.com
 0.0.0.0 14pg4g.com
+0.0.0.0 14pg5.com
+0.0.0.0 14pg56.com
 0.0.0.0 14pg58.com
+0.0.0.0 14pg60.com
 0.0.0.0 14pg66.com
+0.0.0.0 14pg7.com
 0.0.0.0 14pg71.com
+0.0.0.0 14pg76.com
+0.0.0.0 14pg77.com
 0.0.0.0 14pg777.com
+0.0.0.0 14pg8.com
 0.0.0.0 14pg88.app
 0.0.0.0 14pg88.com
 0.0.0.0 14pg88.net
 0.0.0.0 14pg88.top
 0.0.0.0 14pg8g.com
+0.0.0.0 14pg9.com
 0.0.0.0 14pg99.com
 0.0.0.0 14pga1.com
 0.0.0.0 14pgaa.com
@@ -11219,11 +11377,18 @@
 0.0.0.0 14pgbonus.com
 0.0.0.0 14pgbr.com
 0.0.0.0 14pgbr8.com
+0.0.0.0 14pgbra.com
+0.0.0.0 14pgcp.com
+0.0.0.0 14pge.com
+0.0.0.0 14pgee.com
 0.0.0.0 14pgfc.com
 0.0.0.0 14pgff.com
+0.0.0.0 14pgfun.com
 0.0.0.0 14pggg.com
+0.0.0.0 14pgi.com
 0.0.0.0 14pgjj.com
 0.0.0.0 14pgk.com
+0.0.0.0 14pgk1.com
 0.0.0.0 14pgl.com
 0.0.0.0 14pglogin.com.br
 0.0.0.0 14pgml.com
@@ -11457,6 +11622,7 @@
 0.0.0.0 1516bet.vip
 0.0.0.0 1516bet1.vip
 0.0.0.0 1516betpg.com
+0.0.0.0 1516betsp.com
 0.0.0.0 1516betx.com
 0.0.0.0 1516bety.com
 0.0.0.0 1516betz.com
@@ -11491,6 +11657,7 @@
 0.0.0.0 153bet.me
 0.0.0.0 153bet.net
 0.0.0.0 153bet.org
+0.0.0.0 153pg.top
 0.0.0.0 154101.00jd9domain2405.space
 0.0.0.0 154101.12890832109domain1605.shop
 0.0.0.0 154101.28y89d2domain2105.shop
@@ -11507,6 +11674,7 @@
 0.0.0.0 154bet7.com
 0.0.0.0 154pg.top
 0.0.0.0 1553bet.bet
+0.0.0.0 15555betbra.com
 0.0.0.0 15555betpg.com
 0.0.0.0 15555betx.com
 0.0.0.0 15555bety.com
@@ -11670,6 +11838,7 @@
 0.0.0.0 156bet96.com
 0.0.0.0 156bet99.com
 0.0.0.0 156betbra.com
+0.0.0.0 156betbrasil.com
 0.0.0.0 156betbrazil.com
 0.0.0.0 156betpg.com
 0.0.0.0 156betpix.com
@@ -11728,6 +11897,7 @@
 0.0.0.0 158bet99.com
 0.0.0.0 158betbonus.com
 0.0.0.0 158betbra.com
+0.0.0.0 158betbrasil.com
 0.0.0.0 158betpg.com
 0.0.0.0 158betuu.com
 0.0.0.0 158betxz.com
@@ -11808,6 +11978,8 @@
 0.0.0.0 15no777.com
 0.0.0.0 15pg88.top
 0.0.0.0 15pgbetuu.com
+0.0.0.0 15pgvip.com
+0.0.0.0 15pgzhiying.com
 0.0.0.0 15q.bet
 0.0.0.0 15q.com.br
 0.0.0.0 15q.fun
@@ -11999,6 +12171,7 @@
 0.0.0.0 164betjogos.com
 0.0.0.0 164betpg.com
 0.0.0.0 164betpg.com.br
+0.0.0.0 164betpix.com
 0.0.0.0 164pg.com
 0.0.0.0 164pg.top
 0.0.0.0 1650bet.com
@@ -12521,6 +12694,7 @@
 0.0.0.0 169bet8.com
 0.0.0.0 169bet850.com
 0.0.0.0 169bet969.com
+0.0.0.0 169betbonus.com
 0.0.0.0 169betpaga.com
 0.0.0.0 169betpg.com
 0.0.0.0 169betx.com
@@ -12641,6 +12815,7 @@
 0.0.0.0 16betag.com
 0.0.0.0 16betaposta.com
 0.0.0.0 16betapostas.com
+0.0.0.0 16betbonus.com
 0.0.0.0 16betcassino.com
 0.0.0.0 16betjogo.com
 0.0.0.0 16betjogoapp.com
@@ -12652,6 +12827,7 @@
 0.0.0.0 16betpg.com
 0.0.0.0 16betpg.org
 0.0.0.0 16betpix.com
+0.0.0.0 16betpix.com.br
 0.0.0.0 16betpix.net
 0.0.0.0 16betpixvip.com
 0.0.0.0 16bets.vip
@@ -12874,6 +13050,7 @@
 0.0.0.0 175betjogo.com
 0.0.0.0 175betpg.com
 0.0.0.0 175betpg.com.br
+0.0.0.0 175pg.top
 0.0.0.0 175um.bet
 0.0.0.0 175win.app
 0.0.0.0 175win.cc
@@ -13309,6 +13486,7 @@
 0.0.0.0 181bet81.com
 0.0.0.0 181betbrazil.com
 0.0.0.0 181betjogo.com
+0.0.0.0 181betpix.com
 0.0.0.0 181win.bet
 0.0.0.0 181win.net
 0.0.0.0 181win.vip
@@ -13377,6 +13555,7 @@
 0.0.0.0 185bet.org
 0.0.0.0 185bet1.com
 0.0.0.0 185bet7.com
+0.0.0.0 185pg.top
 0.0.0.0 185win.app
 0.0.0.0 185win.bet
 0.0.0.0 185win.cc
@@ -13409,6 +13588,7 @@
 0.0.0.0 186bet317.com
 0.0.0.0 186bet969.com
 0.0.0.0 186betao.com
+0.0.0.0 186betbra.com
 0.0.0.0 186betjogos.com.br
 0.0.0.0 186betpg.com
 0.0.0.0 186betpix.com.br
@@ -13571,6 +13751,8 @@
 0.0.0.0 188bet99.com
 0.0.0.0 188betaposta.com
 0.0.0.0 188betappbet.com
+0.0.0.0 188betbonus.com
+0.0.0.0 188betbonus30k.cyou
 0.0.0.0 188betbrazil.com
 0.0.0.0 188bethiphopbet.com
 0.0.0.0 188betjogo.com
@@ -13578,7 +13760,9 @@
 0.0.0.0 188betpaga.com
 0.0.0.0 188betsignupbet.com
 0.0.0.0 188betsport-mobi.com
+0.0.0.0 188betsports-mobi.com
 0.0.0.0 188betsports.net
+0.0.0.0 188betsports378693.com
 0.0.0.0 188betsportsbet.com
 0.0.0.0 188betwayvn.bet
 0.0.0.0 188betx.click
@@ -13787,6 +13971,7 @@
 0.0.0.0 18bet9.com
 0.0.0.0 18beta2.com
 0.0.0.0 18beta4.com
+0.0.0.0 18betbonus.com
 0.0.0.0 18betbrazil.com
 0.0.0.0 18betcassino.com
 0.0.0.0 18betpg.com
@@ -13917,6 +14102,7 @@
 0.0.0.0 1919bet95.com
 0.0.0.0 1919betbr9.com
 0.0.0.0 1919betpg.com
+0.0.0.0 1919betpix.com
 0.0.0.0 1919betsport.com
 0.0.0.0 1919betsports.com
 0.0.0.0 1919bety1.com
@@ -13935,8 +14121,10 @@
 0.0.0.0 191bet7.com
 0.0.0.0 191bet850.com
 0.0.0.0 191bet9.com
+0.0.0.0 191betbrazil.com
 0.0.0.0 191betjogo.com
 0.0.0.0 191betpg.com
+0.0.0.0 191betpix.com
 0.0.0.0 191bety.com
 0.0.0.0 1920bet.com
 0.0.0.0 1923bet.com
@@ -14039,6 +14227,7 @@
 0.0.0.0 195bet.bet
 0.0.0.0 195bet.net
 0.0.0.0 195bet8.com
+0.0.0.0 195betbrasil.com
 0.0.0.0 195betpg.com
 0.0.0.0 1960bet.casino
 0.0.0.0 1963bet.app.br
@@ -14056,6 +14245,7 @@
 0.0.0.0 1963betbrasil.com
 0.0.0.0 1963betjogos.com
 0.0.0.0 1963betpg.com
+0.0.0.0 1963betx1.com
 0.0.0.0 1963bety.com
 0.0.0.0 1963betz.com
 0.0.0.0 1964bet.app.br
@@ -14081,6 +14271,7 @@
 0.0.0.0 1977-win.com
 0.0.0.0 1977703.com
 0.0.0.0 1977bet.app
+0.0.0.0 1977betbrasil.com
 0.0.0.0 1977jogo.com
 0.0.0.0 1977jogos.com
 0.0.0.0 1977win-jogospg.com
@@ -14094,6 +14285,7 @@
 0.0.0.0 197bet.shop
 0.0.0.0 197bet.top
 0.0.0.0 197bet.win
+0.0.0.0 197betspa.com
 0.0.0.0 197vipbet.com
 0.0.0.0 197vipvn.pro
 0.0.0.0 197win.net
@@ -14104,6 +14296,7 @@
 0.0.0.0 1984pg.net
 0.0.0.0 1984pg.vip
 0.0.0.0 1984pg.win
+0.0.0.0 1984pg1984.com
 0.0.0.0 1984pga.com
 0.0.0.0 1984pgapp.com
 0.0.0.0 1984pgf.com
@@ -14112,6 +14305,7 @@
 0.0.0.0 1984pgvip.com
 0.0.0.0 19852367.com
 0.0.0.0 1985pg.com.br
+0.0.0.0 1985pgp.com
 0.0.0.0 1985pgw.com
 0.0.0.0 1987bet.bet
 0.0.0.0 1987pg.com.br
@@ -14174,6 +14368,7 @@
 0.0.0.0 1992bet-win.com
 0.0.0.0 1992bet.bet
 0.0.0.0 1992bet.org
+0.0.0.0 1992betbrasil.com
 0.0.0.0 1992betjogo.com
 0.0.0.0 1992betjogos.com
 0.0.0.0 1992betpg.com
@@ -14188,6 +14383,7 @@
 0.0.0.0 1993bet.net.br
 0.0.0.0 1993bet.website
 0.0.0.0 1993betao.com
+0.0.0.0 1993betbrasil.com
 0.0.0.0 1993betyy.com
 0.0.0.0 1993betzz.com
 0.0.0.0 1993mk.bet
@@ -14218,6 +14414,7 @@
 0.0.0.0 1994betpg.com
 0.0.0.0 1994betpg.com.br
 0.0.0.0 1994betpix.com.br
+0.0.0.0 1994betspa.com
 0.0.0.0 1994betyy.com
 0.0.0.0 1994mk.com
 0.0.0.0 1994mk.org
@@ -14225,6 +14422,7 @@
 0.0.0.0 1994mk.vip
 0.0.0.0 1995bet.app
 0.0.0.0 1995bet.net
+0.0.0.0 1995pg204.top
 0.0.0.0 1996bet.bet
 0.0.0.0 1996bet.net
 0.0.0.0 1996jogo.app
@@ -14297,6 +14495,7 @@
 0.0.0.0 1999betbrazil.com
 0.0.0.0 1999betjogos.com
 0.0.0.0 1999betpg.com
+0.0.0.0 1999betpix.com
 0.0.0.0 1999betyy.com
 0.0.0.0 1999betzz.com
 0.0.0.0 1999bra.bet
@@ -14332,6 +14531,7 @@
 0.0.0.0 199betjogo.com
 0.0.0.0 199betpaga.com
 0.0.0.0 199betpg.com
+0.0.0.0 199betpix.com
 0.0.0.0 199betsp.com
 0.0.0.0 199pg.app
 0.0.0.0 199pg.cc
@@ -14461,6 +14661,7 @@
 0.0.0.0 19bet97.com
 0.0.0.0 19bet999.vip
 0.0.0.0 19betaposta.com
+0.0.0.0 19betbonus.com
 0.0.0.0 19betjogo.com
 0.0.0.0 19betjogos.com
 0.0.0.0 19betpaga.com
@@ -14895,6 +15096,7 @@
 0.0.0.0 1migtqysua.com
 0.0.0.0 1mlnbet-br.com
 0.0.0.0 1mlnbetbonus.com
+0.0.0.0 1mlnbetbonusmaroc.org
 0.0.0.0 1mmotv4gslkv.cdncdn4.online
 0.0.0.0 1mn9tk4.com
 0.0.0.0 1mulherbetpg.com
@@ -14923,6 +15125,7 @@
 0.0.0.0 1pgslot.net
 0.0.0.0 1pgslotgame.com
 0.0.0.0 1pgslotth.com
+0.0.0.0 1phbetbonus.com
 0.0.0.0 1phbetpg.com
 0.0.0.0 1pk888.com
 0.0.0.0 1play.cool
@@ -14976,6 +15179,7 @@
 0.0.0.0 1rtpbet.online
 0.0.0.0 1rzzhc.com
 0.0.0.0 1s91grg9.com
+0.0.0.0 1sbobetspin.pro
 0.0.0.0 1sepg.app
 0.0.0.0 1sepg.win
 0.0.0.0 1sk2lpo4mqil.jgoausyhx1ng.online
@@ -15670,6 +15874,8 @@
 0.0.0.0 1xbbetwin.com
 0.0.0.0 1xbet----casino.ru
 0.0.0.0 1xbet--bd.com
+0.0.0.0 1xbet--top.ink
+0.0.0.0 1xbet-074.online
 0.0.0.0 1xbet-09.com
 0.0.0.0 1xbet-0f1p.top
 0.0.0.0 1xbet-0f1s.top
@@ -15718,28 +15924,47 @@
 0.0.0.0 1xbet-winnet.org
 0.0.0.0 1xbet-winplay.com
 0.0.0.0 1xbet-zz.top
+0.0.0.0 1xbet.agency
+0.0.0.0 1xbet.app.br
 0.0.0.0 1xbet.associates
 0.0.0.0 1xbet.beer
+0.0.0.0 1xbet.biz.pl
+0.0.0.0 1xbet.biz.tr
+0.0.0.0 1xbet.bz.it
 0.0.0.0 1xbet.capetown
 0.0.0.0 1xbet.charity
 0.0.0.0 1xbet.ck.ua
+0.0.0.0 1xbet.click
 0.0.0.0 1xbet.club
 0.0.0.0 1xbet.co.it
+0.0.0.0 1xbet.co.ua
+0.0.0.0 1xbet.codes
 0.0.0.0 1xbet.com
 0.0.0.0 1xbet.com.ci
+0.0.0.0 1xbet.com.im
 0.0.0.0 1xbet.com.lv
 0.0.0.0 1xbet.com.ph
+0.0.0.0 1xbet.com.se
 0.0.0.0 1xbet.cool
 0.0.0.0 1xbet.date
+0.0.0.0 1xbet.day
+0.0.0.0 1xbet.delivery
 0.0.0.0 1xbet.direct
+0.0.0.0 1xbet.eco.br
 0.0.0.0 1xbet.fit
+0.0.0.0 1xbet.food
+0.0.0.0 1xbet.foundation
 0.0.0.0 1xbet.fun
 0.0.0.0 1xbet.futbol
 0.0.0.0 1xbet.gift
 0.0.0.0 1xbet.global
 0.0.0.0 1xbet.gripe
+0.0.0.0 1xbet.how
+0.0.0.0 1xbet.if.ua
 0.0.0.0 1xbet.indones.top
 0.0.0.0 1xbet.info.tr
+0.0.0.0 1xbet.ink
+0.0.0.0 1xbet.kred
 0.0.0.0 1xbet.ks.ua
 0.0.0.0 1xbet.lifestyle
 0.0.0.0 1xbet.link
@@ -15752,12 +15977,18 @@
 0.0.0.0 1xbet.net.nz
 0.0.0.0 1xbet.net.ua
 0.0.0.0 1xbet.nyc
+0.0.0.0 1xbet.one
+0.0.0.0 1xbet.onl
+0.0.0.0 1xbet.org.pl
+0.0.0.0 1xbet.org.ua
 0.0.0.0 1xbet.pictures
 0.0.0.0 1xbet.qpon
 0.0.0.0 1xbet.rent
+0.0.0.0 1xbet.rest
 0.0.0.0 1xbet.rsvp
 0.0.0.0 1xbet.rv.ua
 0.0.0.0 1xbet.sarl
+0.0.0.0 1xbet.social
 0.0.0.0 1xbet.space
 0.0.0.0 1xbet.support
 0.0.0.0 1xbet.tools
@@ -15768,6 +15999,7 @@
 0.0.0.0 1xbet.vn.ua
 0.0.0.0 1xbet.wang
 0.0.0.0 1xbet.win
+0.0.0.0 1xbet.wtf
 0.0.0.0 1xbet.xin
 0.0.0.0 1xbet.xyz
 0.0.0.0 1xbet.zt.ua
@@ -15788,17 +16020,31 @@
 0.0.0.0 1xbetazerbaijan.online
 0.0.0.0 1xbetbonus-cn.org
 0.0.0.0 1xbetbonus-india.com
+0.0.0.0 1xbetbonus.ca
 0.0.0.0 1xbetbonus.club
+0.0.0.0 1xbetbonus.co.uk
+0.0.0.0 1xbetbonus.de
+0.0.0.0 1xbetbonus.dk
 0.0.0.0 1xbetbonus.eu
 0.0.0.0 1xbetbonus.fr
 0.0.0.0 1xbetbonus.ie
 0.0.0.0 1xbetbonus.in
 0.0.0.0 1xbetbonus.mn
 0.0.0.0 1xbetbonus.shop
+0.0.0.0 1xbetbonus2025.com
+0.0.0.0 1xbetbonus20k.shop
+0.0.0.0 1xbetbonus30k-5.sbs
+0.0.0.0 1xbetbonus30ribu.cyou
+0.0.0.0 1xbetbonusaz.com
 0.0.0.0 1xbetbonuses.org
+0.0.0.0 1xbetbonusguncel.com
 0.0.0.0 1xbetbonuskod.com
+0.0.0.0 1xbetbonuskodu.com
+0.0.0.0 1xbetbonusuz.com
+0.0.0.0 1xbetbonusz30ribu.cyou
 0.0.0.0 1xbetbrapp.com
 0.0.0.0 1xbetbrasil.info
+0.0.0.0 1xbetbrazil.biz
 0.0.0.0 1xbetbrazil.com
 0.0.0.0 1xbetbrazilian.com
 0.0.0.0 1xbetcassino.com
@@ -15809,13 +16055,17 @@
 0.0.0.0 1xbetmongolia.mn
 0.0.0.0 1xbetng.xyz
 0.0.0.0 1xbetpilipinas.com
+0.0.0.0 1xbetpix.com
+0.0.0.0 1xbetplaytw.com
 0.0.0.0 1xbetscanada.com
 0.0.0.0 1xbetsingapore.com
 0.0.0.0 1xbetspain.es
 0.0.0.0 1xbetsph.com
 0.0.0.0 1xbetspiele.app
+0.0.0.0 1xbetspielen.com.de
 0.0.0.0 1xbetspielen.de
 0.0.0.0 1xbetspil.dk
+0.0.0.0 1xbetspinmax.shop
 0.0.0.0 1xbetsplus.bar
 0.0.0.0 1xbetsplus.cam
 0.0.0.0 1xbetsplus.club
@@ -15826,7 +16076,9 @@
 0.0.0.0 1xbetsplus.win
 0.0.0.0 1xbetsplus.ws
 0.0.0.0 1xbetspluslogin.com
+0.0.0.0 1xbetsports-web.com
 0.0.0.0 1xbetsportsbet-bd.net
+0.0.0.0 1xbetsportsbetting.in
 0.0.0.0 1xbetsportsc.com
 0.0.0.0 1xbetsportwetten.com
 0.0.0.0 1xbetsportwetten.de
@@ -16106,6 +16358,7 @@
 0.0.0.0 2014bet.bet
 0.0.0.0 2014bet.org
 0.0.0.0 2014betpg.com
+0.0.0.0 2014betpix.com
 0.0.0.0 2014bra.bet
 0.0.0.0 2014bra.com
 0.0.0.0 2014bra.win
@@ -16219,6 +16472,8 @@
 0.0.0.0 2025jogo5.com
 0.0.0.0 2025jogopg.com
 0.0.0.0 2025pg.com
+0.0.0.0 2025pg.net
+0.0.0.0 2025pg.org
 0.0.0.0 2025pg88.cc
 0.0.0.0 2025pg88.club
 0.0.0.0 2025pg88.com
@@ -16232,6 +16487,8 @@
 0.0.0.0 2025pg99.net
 0.0.0.0 2025pg99.online
 0.0.0.0 2025pg99.vip
+0.0.0.0 2025pgcom.com
+0.0.0.0 2025pgcsvip.com
 0.0.0.0 2025pglogin.com.br
 0.0.0.0 2025pgoi.com
 0.0.0.0 2025pu.bet
@@ -16330,6 +16587,7 @@
 0.0.0.0 202bet20.com
 0.0.0.0 202bet3.com
 0.0.0.0 202bet7.com
+0.0.0.0 202betbrasil.com
 0.0.0.0 202betpg.com
 0.0.0.0 203-r7casino.casino
 0.0.0.0 2031242.com
@@ -16347,6 +16605,7 @@
 0.0.0.0 204bet.pro
 0.0.0.0 204bet.win
 0.0.0.0 204pg.com
+0.0.0.0 204pg.top
 0.0.0.0 204win.bet
 0.0.0.0 204win.com
 0.0.0.0 204win.net
@@ -16482,6 +16741,7 @@
 0.0.0.0 20bet-jogospg.com
 0.0.0.0 20bet-luck.com
 0.0.0.0 20bet-luckx.com
+0.0.0.0 20bet-pix.com
 0.0.0.0 20bet.ai
 0.0.0.0 20bet.cloud
 0.0.0.0 20bet.poker
@@ -16499,15 +16759,22 @@
 0.0.0.0 20beta.com
 0.0.0.0 20beta.org
 0.0.0.0 20betaposta.com
+0.0.0.0 20betbonus.com.br
+0.0.0.0 20betbrasil.com
+0.0.0.0 20betbrasilia.com
 0.0.0.0 20betcassinobrasil.com
 0.0.0.0 20betgame.com
 0.0.0.0 20betjogos.com
 0.0.0.0 20betpaga.com
+0.0.0.0 20betpix.com
 0.0.0.0 20bets.app
 0.0.0.0 20betscommesse.bet
 0.0.0.0 20betsp.com
 0.0.0.0 20betspg.com
+0.0.0.0 20betspielen.com.de
 0.0.0.0 20betspl.com
+0.0.0.0 20betsports.biz
+0.0.0.0 20betsports.com
 0.0.0.0 20bett.net
 0.0.0.0 20betvipx.com
 0.0.0.0 20betx24.com
@@ -16701,6 +16968,7 @@
 0.0.0.0 213bet.net
 0.0.0.0 213bet.org
 0.0.0.0 213bet1.com
+0.0.0.0 213pg.top
 0.0.0.0 213win.bet
 0.0.0.0 213win.net
 0.0.0.0 213win.win
@@ -16721,6 +16989,7 @@
 0.0.0.0 2155betjogos.com
 0.0.0.0 2155betjogos.com.br
 0.0.0.0 2155betpix.com.br
+0.0.0.0 2155betspa.com
 0.0.0.0 2156bet.com
 0.0.0.0 2157b.com
 0.0.0.0 2158b.com
@@ -16879,6 +17148,7 @@
 0.0.0.0 221bet22.com
 0.0.0.0 221bet7.com
 0.0.0.0 221betbra.com
+0.0.0.0 221betbrasil.com
 0.0.0.0 221betjogo.com
 0.0.0.0 221betpix.com
 0.0.0.0 221eoo.com
@@ -17170,6 +17440,8 @@
 0.0.0.0 2233bet.org
 0.0.0.0 2233bet.vip
 0.0.0.0 2233betjogos.com
+0.0.0.0 2233betpix.com
+0.0.0.0 2233pgdz.com
 0.0.0.0 2233pro.bet
 0.0.0.0 2233win.bet
 0.0.0.0 2233win.com
@@ -17231,6 +17503,7 @@
 0.0.0.0 223bet96.com
 0.0.0.0 223betbrazil.com
 0.0.0.0 223luck.bet
+0.0.0.0 223pg.top
 0.0.0.0 223pgvip.com
 0.0.0.0 223vvbet.com
 0.0.0.0 223win.app
@@ -17242,12 +17515,14 @@
 0.0.0.0 2244bet.org
 0.0.0.0 2244betjogo.com
 0.0.0.0 2244pg.com
+0.0.0.0 2244pgdz.com
 0.0.0.0 224bet.bet
 0.0.0.0 224bet.net
 0.0.0.0 224bet2.com
 0.0.0.0 224bet6.com
 0.0.0.0 224betpix.com
 0.0.0.0 224pg.net
+0.0.0.0 224pg.top
 0.0.0.0 2250b.cc
 0.0.0.0 2252b.cc
 0.0.0.0 2252bet.com
@@ -17409,6 +17684,7 @@
 0.0.0.0 2288betjogos.com
 0.0.0.0 2288betjogos.com.br
 0.0.0.0 2288betpaga.com
+0.0.0.0 2288betpix.com
 0.0.0.0 2288betpix.com.br
 0.0.0.0 2288betsp.com
 0.0.0.0 2288betwin.com
@@ -17523,13 +17799,17 @@
 0.0.0.0 22betbonus.cz
 0.0.0.0 22betbonus.gr
 0.0.0.0 22betbonus.ng
+0.0.0.0 22betbrasil.app
 0.0.0.0 22betbrasil.com
 0.0.0.0 22betbrasil.net
+0.0.0.0 22betbrasilia.com
 0.0.0.0 22betbrasilia.com.br
+0.0.0.0 22betbrazil.com.br
 0.0.0.0 22betjogo.com
 0.0.0.0 22betoficial.com
 0.0.0.0 22betpaga.com
 0.0.0.0 22betpg.net
+0.0.0.0 22betsp.com
 0.0.0.0 22betspins.com
 0.0.0.0 22betx1.com
 0.0.0.0 22betx2.com
@@ -17818,6 +18098,7 @@
 0.0.0.0 2335bet.org
 0.0.0.0 2335bet.vip
 0.0.0.0 2335bet111.com
+0.0.0.0 2335betpix.com
 0.0.0.0 2336win.com
 0.0.0.0 2337win.com
 0.0.0.0 233bet.app
@@ -17954,6 +18235,7 @@
 0.0.0.0 234jk.bet
 0.0.0.0 234kvip.com
 0.0.0.0 234pbet.com
+0.0.0.0 234pg.com.br
 0.0.0.0 234pgbet.com
 0.0.0.0 234pgoi.com
 0.0.0.0 234ppbet.com
@@ -18053,6 +18335,7 @@
 0.0.0.0 235bet.org
 0.0.0.0 235bet.site
 0.0.0.0 235betbrasil.com
+0.0.0.0 235betpix.com
 0.0.0.0 235win.bet
 0.0.0.0 235win.win
 0.0.0.0 23655pp.com
@@ -18088,6 +18371,7 @@
 0.0.0.0 236betbr8.com
 0.0.0.0 236betbrazil.com
 0.0.0.0 236betjogo.com
+0.0.0.0 236betpix.com
 0.0.0.0 236win.bet
 0.0.0.0 236win.win
 0.0.0.0 236win11.com
@@ -18221,6 +18505,7 @@
 0.0.0.0 23jogopg.com.br
 0.0.0.0 23lv8ib0pbl0.cdnkopy4.top
 0.0.0.0 23pg.com.br
+0.0.0.0 23pg.org
 0.0.0.0 23r6tr27.me
 0.0.0.0 23rio.vip
 0.0.0.0 23riot.vip
@@ -18310,6 +18595,7 @@
 0.0.0.0 24-luckyboom.nl
 0.0.0.0 24.cybgea5.top
 0.0.0.0 2400bet.net
+0.0.0.0 2400betpix.com
 0.0.0.0 2406.cdn10embed.xyz
 0.0.0.0 240bet.net
 0.0.0.0 240win.bet
@@ -18355,6 +18641,7 @@
 0.0.0.0 244bet88.com
 0.0.0.0 244bet9.com
 0.0.0.0 244bet99.com
+0.0.0.0 244betbrasil.com
 0.0.0.0 244betjogos.com
 0.0.0.0 244betpix.com
 0.0.0.0 244luck.bet
@@ -18770,6 +19057,7 @@
 0.0.0.0 256bet850.com
 0.0.0.0 256bet974.com
 0.0.0.0 256betao.com
+0.0.0.0 256betbonus.com
 0.0.0.0 256betbrazil.com
 0.0.0.0 256betcassino1.com
 0.0.0.0 256betpix.com.br
@@ -18884,6 +19172,7 @@
 0.0.0.0 258betao.com
 0.0.0.0 258betaocs.com
 0.0.0.0 258betaposta.com
+0.0.0.0 258betpix.com
 0.0.0.0 258betwin.com
 0.0.0.0 258betwin.vip
 0.0.0.0 258jogo.com
@@ -19020,6 +19309,7 @@
 0.0.0.0 25s25a.com
 0.0.0.0 25saaa.com
 0.0.0.0 25sbbb.com
+0.0.0.0 25sortebet.com
 0.0.0.0 25st7.com
 0.0.0.0 25st8.com
 0.0.0.0 25win.bet
@@ -19648,6 +19938,7 @@
 0.0.0.0 277bet93.com
 0.0.0.0 277bet97.com
 0.0.0.0 277bet99.com
+0.0.0.0 277betpix.com
 0.0.0.0 277betpix.com.br
 0.0.0.0 277br8.com
 0.0.0.0 277br9.com
@@ -20973,6 +21264,7 @@
 0.0.0.0 2rbet-pg.com
 0.0.0.0 2rbet-win.com
 0.0.0.0 2rbet.co
+0.0.0.0 2rbetpix.com
 0.0.0.0 2rbetpix.com.br
 0.0.0.0 2rdbnub0yp3o.cdnkopy3.top
 0.0.0.0 2rgly5.bet
@@ -21737,10 +22029,13 @@
 0.0.0.0 321bet77.com
 0.0.0.0 321bet979.com
 0.0.0.0 321betaposta.com
+0.0.0.0 321betbrasil.com
 0.0.0.0 321betsite.com
 0.0.0.0 321betx1.space
+0.0.0.0 321betx1.website
 0.0.0.0 321win.vip
 0.0.0.0 3220b.vip
+0.0.0.0 3220r7casino.top
 0.0.0.0 3222bet.app
 0.0.0.0 3222bet.club
 0.0.0.0 3222bet.pro
@@ -21807,6 +22102,7 @@
 0.0.0.0 323bet88.com
 0.0.0.0 323bet9.com
 0.0.0.0 323bet99.com
+0.0.0.0 323betbrasil.com
 0.0.0.0 3245bet.com
 0.0.0.0 3245v1.com
 0.0.0.0 3245win.com
@@ -21818,12 +22114,14 @@
 0.0.0.0 324bet6.com
 0.0.0.0 324bet8.com
 0.0.0.0 324betbr8.com
+0.0.0.0 324betpix.com
 0.0.0.0 3254bet.com
 0.0.0.0 3256bet.com
 0.0.0.0 3258bet.com
 0.0.0.0 325b.com
 0.0.0.0 325bet.bet
 0.0.0.0 325bet.net
+0.0.0.0 325betbrasil.com
 0.0.0.0 3267bet.com
 0.0.0.0 326bet.bet
 0.0.0.0 326bet.net
@@ -22107,6 +22405,7 @@
 0.0.0.0 330bet5.com
 0.0.0.0 330bet850.com
 0.0.0.0 330betaposta.com
+0.0.0.0 330betbrazil.com
 0.0.0.0 330betpix.com
 0.0.0.0 330ml.net
 0.0.0.0 3311bet.bet
@@ -22125,6 +22424,7 @@
 0.0.0.0 332255ww.com
 0.0.0.0 3322bet.app.br
 0.0.0.0 3322bet.bet
+0.0.0.0 3322betbrasil.com
 0.0.0.0 3323bet.com
 0.0.0.0 3323betpix.com
 0.0.0.0 332bet.app
@@ -22185,6 +22485,7 @@
 0.0.0.0 3333bet333.com
 0.0.0.0 3333bet3333bet.net
 0.0.0.0 3333betbr8.com
+0.0.0.0 3333betbrasil.com
 0.0.0.0 3333betcassino.com
 0.0.0.0 3333betpaga.com
 0.0.0.0 3333betpix.com.br
@@ -22204,6 +22505,7 @@
 0.0.0.0 3334bet.pro
 0.0.0.0 3334bet.win
 0.0.0.0 33355bet-jogospg.com
+0.0.0.0 33355d.com
 0.0.0.0 33355pp.com
 0.0.0.0 3335bet.app.br
 0.0.0.0 3335bet.bet
@@ -22347,6 +22649,7 @@
 0.0.0.0 333betlogin.app
 0.0.0.0 333betpix.com
 0.0.0.0 333betpix.com.br
+0.0.0.0 333betpix.vip
 0.0.0.0 333bets.bet
 0.0.0.0 333betsbet.com
 0.0.0.0 333betwin7.com
@@ -22469,6 +22772,7 @@
 0.0.0.0 334bet.online
 0.0.0.0 334bet.win
 0.0.0.0 334bet7.com
+0.0.0.0 334betbrasil.com
 0.0.0.0 334hdh3l.com
 0.0.0.0 3353bet.com
 0.0.0.0 3353betpix.com
@@ -22498,6 +22802,7 @@
 0.0.0.0 3355bet6.app
 0.0.0.0 3355betao.com
 0.0.0.0 3355betbrasil.com
+0.0.0.0 3355betbrasil.com.br
 0.0.0.0 3355betpix.com.br
 0.0.0.0 3355nnbet.me
 0.0.0.0 3355win-jogospg.com
@@ -22535,6 +22840,7 @@
 0.0.0.0 3366bet.cc
 0.0.0.0 3366bet.vip
 0.0.0.0 3366bet.win
+0.0.0.0 3366betpix.com
 0.0.0.0 3366win.bet
 0.0.0.0 3366win.net
 0.0.0.0 3366win.win
@@ -22677,6 +22983,7 @@
 0.0.0.0 337bet97.com
 0.0.0.0 337bet98.com
 0.0.0.0 337betbr8.com
+0.0.0.0 337betbrasil.com
 0.0.0.0 337betee.com
 0.0.0.0 337betpix.com.br
 0.0.0.0 337j.vip
@@ -22866,6 +23173,7 @@
 0.0.0.0 33queridopg.com
 0.0.0.0 33r.bet
 0.0.0.0 33rbetlogin.com
+0.0.0.0 33rbetpix.com
 0.0.0.0 33rc11.com
 0.0.0.0 33rcp.com
 0.0.0.0 33rs.bet
@@ -23382,6 +23690,7 @@
 0.0.0.0 34bet99.com
 0.0.0.0 34betaposta.com
 0.0.0.0 34betbonus.com
+0.0.0.0 34betbrasil.com
 0.0.0.0 34betpix.com
 0.0.0.0 34br669.com
 0.0.0.0 34c.bet
@@ -23423,6 +23732,7 @@
 0.0.0.0 350bet3.com
 0.0.0.0 350bet350.com
 0.0.0.0 350bet969.com
+0.0.0.0 350betbrazil.com
 0.0.0.0 350betbrl.com
 0.0.0.0 3510b.com
 0.0.0.0 3514b.com
@@ -23493,6 +23803,7 @@
 0.0.0.0 3555bet.games
 0.0.0.0 3555bet.net
 0.0.0.0 3555bet.xyz
+0.0.0.0 3555betbrasil.com
 0.0.0.0 3558510632.click
 0.0.0.0 3558bet.com
 0.0.0.0 355b.cc
@@ -23660,6 +23971,7 @@
 0.0.0.0 359bet.club
 0.0.0.0 359bet1.com
 0.0.0.0 359bet3.com
+0.0.0.0 359betbrasil.com
 0.0.0.0 359jogopg.com
 0.0.0.0 359winpg.vip
 0.0.0.0 35a.bet
@@ -23809,6 +24121,7 @@
 0.0.0.0 362bet362.com
 0.0.0.0 362bet8.com
 0.0.0.0 362bet850.com
+0.0.0.0 362betpix.com
 0.0.0.0 3633bet-jogospg.com
 0.0.0.0 3633bet.app.br
 0.0.0.0 3633bet.bet
@@ -23825,6 +24138,7 @@
 0.0.0.0 3633bet.win
 0.0.0.0 3633betaposta.com
 0.0.0.0 3633betcassino.com
+0.0.0.0 3633betpix.com
 0.0.0.0 3633betpix.com.br
 0.0.0.0 3635bet.com
 0.0.0.0 3635bet.org
@@ -25236,6 +25550,7 @@
 0.0.0.0 393betao.com
 0.0.0.0 393betbonus.com
 0.0.0.0 393betfaq.com
+0.0.0.0 393betpix.com
 0.0.0.0 393betpix.com.br
 0.0.0.0 393brlbet.net
 0.0.0.0 393brlbet1.com
@@ -25427,6 +25742,7 @@
 0.0.0.0 39b.club
 0.0.0.0 39b.pro
 0.0.0.0 39bb19.com
+0.0.0.0 39bet-pix.com
 0.0.0.0 39bet.app.br
 0.0.0.0 39bet.club
 0.0.0.0 39bet.pro
@@ -25665,6 +25981,7 @@
 0.0.0.0 3d1e6f.j0n2a8f.net
 0.0.0.0 3d269i.l948728p57nx.net
 0.0.0.0 3d777bet.com
+0.0.0.0 3d777casino.com
 0.0.0.0 3d777casino.net
 0.0.0.0 3d777casino.ph
 0.0.0.0 3d8scv3czspu.cdnkopy2.top
@@ -25732,6 +26049,7 @@
 0.0.0.0 3k1mmm.com
 0.0.0.0 3k777bet.com
 0.0.0.0 3kbetaposta.com
+0.0.0.0 3kbetpix.com
 0.0.0.0 3kjogo.com
 0.0.0.0 3krdg1bq9v.com
 0.0.0.0 3krdpzhvwz.jepijibujelodihe.info
@@ -25790,6 +26108,7 @@
 0.0.0.0 3paywuj7u.com
 0.0.0.0 3petalapg.com
 0.0.0.0 3pf3oqmig.com
+0.0.0.0 3pg.app
 0.0.0.0 3pg.bar
 0.0.0.0 3pg.best
 0.0.0.0 3pg.bet
@@ -25797,6 +26116,7 @@
 0.0.0.0 3pg.cam
 0.0.0.0 3pg.club
 0.0.0.0 3pg.lat
+0.0.0.0 3pg.me
 0.0.0.0 3pg.one
 0.0.0.0 3pg.onl
 0.0.0.0 3pg.vin
@@ -26086,6 +26406,7 @@
 0.0.0.0 400bet90.com
 0.0.0.0 400bet92.com
 0.0.0.0 400bet99.com
+0.0.0.0 400betpix.com
 0.0.0.0 400jogopg.com
 0.0.0.0 400sepg.org
 0.0.0.0 400win.net
@@ -26150,6 +26471,7 @@
 0.0.0.0 40bet6.com
 0.0.0.0 40bet888.com
 0.0.0.0 40bet9.com
+0.0.0.0 40betbrasil.com
 0.0.0.0 40betpix.com
 0.0.0.0 40modal777.net
 0.0.0.0 40pmbet-jogospg.com
@@ -27327,6 +27649,7 @@
 0.0.0.0 4567bet.top
 0.0.0.0 456app.bet
 0.0.0.0 456app.vip
+0.0.0.0 456appbet.com.br
 0.0.0.0 456b.biz
 0.0.0.0 456b.club
 0.0.0.0 456b.io
@@ -27413,6 +27736,7 @@
 0.0.0.0 456betao.com
 0.0.0.0 456betaposta.com
 0.0.0.0 456betapostas.com
+0.0.0.0 456betappbet.com
 0.0.0.0 456betbonus.com
 0.0.0.0 456betbrasil.com
 0.0.0.0 456betcassino.info
@@ -27748,6 +28072,7 @@
 0.0.0.0 468bet77.com
 0.0.0.0 468bet88.com
 0.0.0.0 468bet99.com
+0.0.0.0 468betpix.com
 0.0.0.0 468betwin.com
 0.0.0.0 468br468.com
 0.0.0.0 469-luck.com
@@ -28414,6 +28739,8 @@
 0.0.0.0 49bet999.fun
 0.0.0.0 49bet999.vip
 0.0.0.0 49betaposta.com
+0.0.0.0 49betbrazil.com
+0.0.0.0 49betpix.com
 0.0.0.0 49e1.com
 0.0.0.0 49e26.bet
 0.0.0.0 49en.kh8ek0uy.com
@@ -28607,8 +28934,13 @@
 0.0.0.0 4jd1rhalaq.cibapuvisukemogi.info
 0.0.0.0 4jgoq21mqw.gekuwirehukivosa.info
 0.0.0.0 4jj.bet
+0.0.0.0 4jj10.com
 0.0.0.0 4jj13.com
+0.0.0.0 4jj15.com
+0.0.0.0 4jj16.com
 0.0.0.0 4jj17.com
+0.0.0.0 4jj18.com
+0.0.0.0 4jj19.com
 0.0.0.0 4jjbet.com
 0.0.0.0 4jju9r5.com
 0.0.0.0 4joz0g.bet
@@ -28676,6 +29008,7 @@
 0.0.0.0 4pcuzm54nit8.kst14.click
 0.0.0.0 4pg.click
 0.0.0.0 4pg.com.br
+0.0.0.0 4pg.me
 0.0.0.0 4pg88pg88.com
 0.0.0.0 4pgbet.com
 0.0.0.0 4pkf8cgn.com
@@ -28864,6 +29197,7 @@
 0.0.0.0 5000bet.club
 0.0.0.0 5000bet.co
 0.0.0.0 5000bet.org
+0.0.0.0 5000betbrazil.com
 0.0.0.0 5005be77.com
 0.0.0.0 5005bet.app
 0.0.0.0 5005bet.bet
@@ -28907,6 +29241,7 @@
 0.0.0.0 500bet.club
 0.0.0.0 500bet.win
 0.0.0.0 500betaposta.com
+0.0.0.0 500betbonus.com
 0.0.0.0 500betpix.com
 0.0.0.0 500brl.bet
 0.0.0.0 500casino-de.de
@@ -28920,7 +29255,9 @@
 0.0.0.0 501bet.me
 0.0.0.0 501bet.win
 0.0.0.0 501betbrasil.com
+0.0.0.0 501betbrazil.com
 0.0.0.0 501betpix.com
+0.0.0.0 501betpix.com.br
 0.0.0.0 5027win.com
 0.0.0.0 503bet.app
 0.0.0.0 5050bet.bet
@@ -28967,6 +29304,7 @@
 0.0.0.0 508win.vip
 0.0.0.0 508win.win
 0.0.0.0 50960921.com
+0.0.0.0 5099betpix.com
 0.0.0.0 5099betpix.com.br
 0.0.0.0 509bet.co
 0.0.0.0 509bet.com.br
@@ -29030,6 +29368,7 @@
 0.0.0.0 50bet95.com
 0.0.0.0 50bet96.com
 0.0.0.0 50bet99.com
+0.0.0.0 50betbonus.com
 0.0.0.0 50betcas.com
 0.0.0.0 50betcassino.com
 0.0.0.0 50betpix.com
@@ -29055,9 +29394,11 @@
 0.0.0.0 511.d9.game
 0.0.0.0 5111bet.app
 0.0.0.0 511bet-jogospg.com
+0.0.0.0 511bet-pix.com
 0.0.0.0 511bet.bet
 0.0.0.0 511bet.win
 0.0.0.0 511betbrasil.com
+0.0.0.0 511betbrazil.com
 0.0.0.0 511xqx.com
 0.0.0.0 5123win.com
 0.0.0.0 5123win.net
@@ -29077,6 +29418,7 @@
 0.0.0.0 513bet0.com
 0.0.0.0 513bet2.com
 0.0.0.0 513bet5.com
+0.0.0.0 513betpix.com.br
 0.0.0.0 5146297.seravixx.cc
 0.0.0.0 515.games
 0.0.0.0 5151b.app
@@ -29104,6 +29446,7 @@
 0.0.0.0 5161b6.cc
 0.0.0.0 5161d2.cc
 0.0.0.0 5161e3.cc
+0.0.0.0 516bet-pix.com
 0.0.0.0 516bet.fun
 0.0.0.0 516bet.info
 0.0.0.0 516bet.net
@@ -29276,6 +29619,7 @@
 0.0.0.0 5237520.fluxivon.cc
 0.0.0.0 5237520.norvixal.cc
 0.0.0.0 523bet.app
+0.0.0.0 523betbrasil.com
 0.0.0.0 523betpix.com
 0.0.0.0 5247aaa.com
 0.0.0.0 5247h.com
@@ -29293,6 +29637,10 @@
 0.0.0.0 52655pp.com
 0.0.0.0 52655ww.com
 0.0.0.0 526bet.app
+0.0.0.0 526betbonus30k-1.sbs
+0.0.0.0 526betbonus30ribu.cyou
+0.0.0.0 526betbonuse30ribu.cyou
+0.0.0.0 526betbonuss30ribu.cyou
 0.0.0.0 526betbrasil.com
 0.0.0.0 527-win.com
 0.0.0.0 52777bet.club
@@ -29337,6 +29685,7 @@
 0.0.0.0 52bet52.com
 0.0.0.0 52bet6.com
 0.0.0.0 52betapp.com
+0.0.0.0 52betpix.com
 0.0.0.0 52betpix.com.br
 0.0.0.0 52betwin7.com
 0.0.0.0 52d.com
@@ -29657,6 +30006,7 @@
 0.0.0.0 54z2mu.pro
 0.0.0.0 55-55ww.com
 0.0.0.0 5500-win.com
+0.0.0.0 5500appbet.com
 0.0.0.0 5500bet-jogospg.com
 0.0.0.0 5500bet-pg.com
 0.0.0.0 5500bet.app
@@ -29913,6 +30263,8 @@
 0.0.0.0 555betbookiebet.com
 0.0.0.0 555betcassino.info
 0.0.0.0 555betloginbet.com
+0.0.0.0 555betpix.com.br
+0.0.0.0 555betsorte.com
 0.0.0.0 555betx1.com
 0.0.0.0 555br.bet
 0.0.0.0 555br528.com
@@ -30125,6 +30477,7 @@
 0.0.0.0 556bet.top
 0.0.0.0 556betaposta.com
 0.0.0.0 556betpaga.com
+0.0.0.0 556betpix.com.br
 0.0.0.0 556betwin8.com
 0.0.0.0 556brlbet.com
 0.0.0.0 556luck.bet
@@ -30194,6 +30547,7 @@
 0.0.0.0 5588bet-br.app
 0.0.0.0 5588bet-brasil.app
 0.0.0.0 5588bet-jogospg.com
+0.0.0.0 5588bet-pix.com
 0.0.0.0 5588bet-win.com
 0.0.0.0 5588bet.club
 0.0.0.0 5588bet.fit
@@ -30283,6 +30637,8 @@
 0.0.0.0 5597-win.com
 0.0.0.0 5597069.com
 0.0.0.0 5597brbet.com
+0.0.0.0 5597casino.com
+0.0.0.0 5597casino.com.br
 0.0.0.0 5597h03.com
 0.0.0.0 5597h04.com
 0.0.0.0 5597h05.com
@@ -30421,6 +30777,7 @@
 0.0.0.0 55betaposta.com
 0.0.0.0 55betcassino.org
 0.0.0.0 55betpaga.com
+0.0.0.0 55betpix.com
 0.0.0.0 55bom.app
 0.0.0.0 55bom.bet
 0.0.0.0 55bom.com
@@ -31618,6 +31975,7 @@
 0.0.0.0 56bet99.com
 0.0.0.0 56betaposta.com
 0.0.0.0 56betpix.com
+0.0.0.0 56betsorte.com
 0.0.0.0 56bmw.win
 0.0.0.0 56br1.com
 0.0.0.0 56br28.com
@@ -32031,6 +32389,7 @@
 0.0.0.0 57pg.com.br
 0.0.0.0 57pgbet.com.br
 0.0.0.0 57pgslots.com
+0.0.0.0 57qbet-pix.com
 0.0.0.0 57qd6py.cc
 0.0.0.0 57rr19.com
 0.0.0.0 57sbet.bet
@@ -32192,6 +32551,7 @@
 0.0.0.0 5858bet-win.com
 0.0.0.0 5858bet.bet
 0.0.0.0 5858bet22.com
+0.0.0.0 5858betpix.com
 0.0.0.0 5858betpix.com.br
 0.0.0.0 5858betwin.com
 0.0.0.0 5858betwin.com.br
@@ -32279,6 +32639,7 @@
 0.0.0.0 586bet1.com
 0.0.0.0 586bet2.com
 0.0.0.0 586bet3.com
+0.0.0.0 586betpix.com
 0.0.0.0 587bet.app
 0.0.0.0 587bet.top
 0.0.0.0 587bet.win
@@ -32299,6 +32660,7 @@
 0.0.0.0 5888bet.com.br
 0.0.0.0 5888bet.net
 0.0.0.0 5888bet.net.br
+0.0.0.0 5888betpix.com
 0.0.0.0 5888betplay.com
 0.0.0.0 5888betwin.com
 0.0.0.0 5888jogo.com
@@ -32656,6 +33018,7 @@
 0.0.0.0 5999bet.app
 0.0.0.0 5999betbonus.com
 0.0.0.0 599bet.app
+0.0.0.0 599betpix.com
 0.0.0.0 599brl.bet
 0.0.0.0 599brlbet.com
 0.0.0.0 599k.bet
@@ -33235,6 +33598,7 @@
 0.0.0.0 5gbetbrazil.bet
 0.0.0.0 5gbetbrazil.com
 0.0.0.0 5gbetbrazil.com.br
+0.0.0.0 5gbetplay-br.com
 0.0.0.0 5gbets.app
 0.0.0.0 5gbetslot.net
 0.0.0.0 5gbetsnake.vip
@@ -33468,6 +33832,7 @@
 0.0.0.0 5n9dh.com
 0.0.0.0 5n9s7qsg.com
 0.0.0.0 5nbet.bet
+0.0.0.0 5nbetpix.com
 0.0.0.0 5nbetpix.com.br
 0.0.0.0 5nbq6.wnvurygcq.com
 0.0.0.0 5nbr.bet
@@ -33495,6 +33860,8 @@
 0.0.0.0 5pabc4.com
 0.0.0.0 5pabc5.com
 0.0.0.0 5pf1k5rld7g7.kst14.click
+0.0.0.0 5pg.app.br
+0.0.0.0 5pg.com.br
 0.0.0.0 5pg.ge
 0.0.0.0 5pg.net.br
 0.0.0.0 5pg.top
@@ -33956,6 +34323,8 @@
 0.0.0.0 60bet96.com
 0.0.0.0 60bet99.com
 0.0.0.0 60betaposta.com
+0.0.0.0 60betbrazil.com
+0.0.0.0 60betpix.com
 0.0.0.0 60betx1.com
 0.0.0.0 60ex61.com
 0.0.0.0 60ex88.com
@@ -34014,6 +34383,7 @@
 0.0.0.0 615brabet.org
 0.0.0.0 615brasil.com
 0.0.0.0 6161bet.bet
+0.0.0.0 6161betbrazil.com
 0.0.0.0 6167-win.com
 0.0.0.0 6167.bet
 0.0.0.0 6167444.com
@@ -34055,6 +34425,7 @@
 0.0.0.0 617win.net
 0.0.0.0 617win1.com
 0.0.0.0 618bet.bet
+0.0.0.0 618betbrazil.com
 0.0.0.0 618betwin.com
 0.0.0.0 618hduhajei2pdajda.top
 0.0.0.0 618slot.net
@@ -34491,7 +34862,9 @@
 0.0.0.0 64win555.com
 0.0.0.0 64win63.com
 0.0.0.0 64winpg.com
+0.0.0.0 6500betbrazil.com
 0.0.0.0 650bet.bet
+0.0.0.0 650betbrazil.com
 0.0.0.0 650kyvz4mn.pudugitebowici.info
 0.0.0.0 651winpg.vip
 0.0.0.0 6520win.com
@@ -34500,6 +34873,7 @@
 0.0.0.0 654648.xyz
 0.0.0.0 654alfa.vip
 0.0.0.0 654bet.win
+0.0.0.0 654betbrazil.com
 0.0.0.0 6553bet.vip
 0.0.0.0 65558h.cc
 0.0.0.0 6555bet.app
@@ -34558,6 +34932,7 @@
 0.0.0.0 65699726a3c601b9f31bf04019c8593c.s21-cloudfront-net.lat
 0.0.0.0 656bet.bet
 0.0.0.0 656bet.win
+0.0.0.0 656betbrazil.com
 0.0.0.0 657-win.com
 0.0.0.0 6571805.xenovrix.cc
 0.0.0.0 6573win.com
@@ -34710,6 +35085,7 @@
 0.0.0.0 662bet.app
 0.0.0.0 662bet.win
 0.0.0.0 662betbonus.com
+0.0.0.0 662betbrazil.com
 0.0.0.0 662betplay.com
 0.0.0.0 662ola2.com
 0.0.0.0 663-j.com
@@ -34733,6 +35109,7 @@
 0.0.0.0 664betplay.com
 0.0.0.0 6654tv.com
 0.0.0.0 66558h.com
+0.0.0.0 6655bet-pix.com
 0.0.0.0 6655bet.net
 0.0.0.0 6655bet.org
 0.0.0.0 6655bet8.com
@@ -34743,6 +35120,7 @@
 0.0.0.0 665a.bet
 0.0.0.0 665a.top
 0.0.0.0 665bet.app
+0.0.0.0 665betbrazil.com
 0.0.0.0 665betcassino.info
 0.0.0.0 665ola67.com
 0.0.0.0 665win.net
@@ -35393,6 +35771,7 @@
 0.0.0.0 673344.com
 0.0.0.0 6733aa.com
 0.0.0.0 6733betapostas.com
+0.0.0.0 6733betbrazil.com
 0.0.0.0 6733ee.com
 0.0.0.0 6733ff.com
 0.0.0.0 6733luck.com
@@ -36293,6 +36672,7 @@
 0.0.0.0 68win555.com
 0.0.0.0 68winappappbet.com
 0.0.0.0 68winappbet.com
+0.0.0.0 68winvn.com
 0.0.0.0 68x.bet
 0.0.0.0 68x.fun
 0.0.0.0 68x.onl
@@ -36370,6 +36750,7 @@
 0.0.0.0 69bet99.com
 0.0.0.0 69bet999.fun
 0.0.0.0 69betaposta.com
+0.0.0.0 69betbrazil.com
 0.0.0.0 69betpaga.com
 0.0.0.0 69br0.com
 0.0.0.0 69br1.com
@@ -37035,6 +37416,7 @@
 0.0.0.0 705-win.com
 0.0.0.0 705.games
 0.0.0.0 7056win.com
+0.0.0.0 705bet-pix.com
 0.0.0.0 705bet.app
 0.0.0.0 705bet.win
 0.0.0.0 705bet705.com
@@ -37077,6 +37459,7 @@
 0.0.0.0 707bet7.app
 0.0.0.0 707bet7.com
 0.0.0.0 707betao.com
+0.0.0.0 707betbrazil.com.br
 0.0.0.0 707betcassino.com
 0.0.0.0 707betka.com
 0.0.0.0 707betlogin.net
@@ -37328,6 +37711,7 @@
 0.0.0.0 71z.bet
 0.0.0.0 71zbet.com.br
 0.0.0.0 71zbet1.com
+0.0.0.0 71zbets.com
 0.0.0.0 72.dgatgdopbeusfdq.xyz
 0.0.0.0 7200bet-win.com
 0.0.0.0 7200bet.app
@@ -37409,6 +37793,7 @@
 0.0.0.0 72b0022.com
 0.0.0.0 72b003.com
 0.0.0.0 72bet-pg.com
+0.0.0.0 72bet-pix.com
 0.0.0.0 72bet-winpg.com
 0.0.0.0 72bet.me
 0.0.0.0 72bet.win
@@ -37624,6 +38009,7 @@
 0.0.0.0 73bet979.com
 0.0.0.0 73bet999.com
 0.0.0.0 73betcassino.com
+0.0.0.0 73betsorte.com
 0.0.0.0 73betwinbrasil.com
 0.0.0.0 73br1.com
 0.0.0.0 73br73.com
@@ -37788,6 +38174,7 @@
 0.0.0.0 74betaposta.com
 0.0.0.0 74betlogin.org
 0.0.0.0 74betpaga1.com
+0.0.0.0 74betsorte.com
 0.0.0.0 74brbet.com
 0.0.0.0 74pg.app.br
 0.0.0.0 74pg.biz
@@ -37827,6 +38214,7 @@
 0.0.0.0 754win.vip
 0.0.0.0 7555bet.app
 0.0.0.0 7555betbonus.com
+0.0.0.0 755appbet.com
 0.0.0.0 755bet-win.com
 0.0.0.0 755bet.app
 0.0.0.0 755bet.blog
@@ -37844,8 +38232,10 @@
 0.0.0.0 755bet43.com
 0.0.0.0 755bet46.com
 0.0.0.0 755betapp.app
+0.0.0.0 755betbonus.com
 0.0.0.0 755betbrl.com
 0.0.0.0 755betcassinobrasil.com
+0.0.0.0 755betsorte.com
 0.0.0.0 755c11.com
 0.0.0.0 755pp.cc
 0.0.0.0 755t.bet
@@ -38024,6 +38414,7 @@
 0.0.0.0 765bet.org
 0.0.0.0 765bet.win
 0.0.0.0 765bet53.com
+0.0.0.0 765betbrazil.com
 0.0.0.0 765betcassino.com
 0.0.0.0 765betjogo.com
 0.0.0.0 765brasil.com
@@ -38255,6 +38646,7 @@
 0.0.0.0 7700betbrazil.bet
 0.0.0.0 7700betbrazil.com
 0.0.0.0 7700betcassinobrasil.com
+0.0.0.0 7708betapostas.com
 0.0.0.0 7708betpg.com
 0.0.0.0 7708betwin.com
 0.0.0.0 770bet.app
@@ -38960,6 +39352,7 @@
 0.0.0.0 777betpaga.com
 0.0.0.0 777bets.com
 0.0.0.0 777betsbra.com
+0.0.0.0 777betsorte.com
 0.0.0.0 777betwin.com.br
 0.0.0.0 777bf.bet
 0.0.0.0 777bf777.com
@@ -40880,6 +41273,7 @@
 0.0.0.0 7788bet48.com
 0.0.0.0 7788betao.com
 0.0.0.0 7788betaposta.com
+0.0.0.0 7788betbonus.com
 0.0.0.0 7788betcasino.com
 0.0.0.0 7788betwin.com
 0.0.0.0 7788betwin.com.br
@@ -40913,6 +41307,7 @@
 0.0.0.0 778pix-bet.com
 0.0.0.0 778pix.bet
 0.0.0.0 778pix.com
+0.0.0.0 778pixbets.com
 0.0.0.0 778toy.cc
 0.0.0.0 778toy.com
 0.0.0.0 778toy.icu
@@ -41636,6 +42031,9 @@
 0.0.0.0 789gbet.mom
 0.0.0.0 789jkj789.com
 0.0.0.0 789k.tel
+0.0.0.0 789k.xin
+0.0.0.0 789k55.com
+0.0.0.0 789k77.com
 0.0.0.0 789kf.bet
 0.0.0.0 789kwin.pro
 0.0.0.0 789p60.bet
@@ -41665,6 +42063,7 @@
 0.0.0.0 78bet333.com
 0.0.0.0 78bet444.com
 0.0.0.0 78bet555.com
+0.0.0.0 78betbrazil.com
 0.0.0.0 78betpaga.com
 0.0.0.0 78betwin.com
 0.0.0.0 78br.best
@@ -42546,6 +42945,7 @@
 0.0.0.0 7casino.com.ro
 0.0.0.0 7casino.online
 0.0.0.0 7casino.pro
+0.0.0.0 7casino.ro
 0.0.0.0 7cbi6hpn.com
 0.0.0.0 7ciliospg.com
 0.0.0.0 7co.bet
@@ -43558,6 +43958,7 @@
 0.0.0.0 80bet97.com
 0.0.0.0 80bet99.com
 0.0.0.0 80betao.com
+0.0.0.0 80betbrazil.com
 0.0.0.0 80djja2.reazkuwiy.com
 0.0.0.0 80ejg1.5gkygx509kqv.net
 0.0.0.0 80ex88.com
@@ -44760,6 +45161,7 @@
 0.0.0.0 859bet.net
 0.0.0.0 859bet.org
 0.0.0.0 859bet.top
+0.0.0.0 85bet-pix.com
 0.0.0.0 85bet-win.com
 0.0.0.0 85bet.app
 0.0.0.0 85bet.app.br
@@ -45321,7 +45723,9 @@
 0.0.0.0 881-win.com
 0.0.0.0 8811bet.bet
 0.0.0.0 8811betaposta.com
+0.0.0.0 8811betbrazil.com
 0.0.0.0 8811luck.com
+0.0.0.0 881385.com
 0.0.0.0 8815b.co
 0.0.0.0 8818b.tv
 0.0.0.0 8818brl.cc
@@ -45347,6 +45751,8 @@
 0.0.0.0 881bet8.bet
 0.0.0.0 881bet9.bet
 0.0.0.0 881betao.com
+0.0.0.0 881betbrazil.com.br
+0.0.0.0 881betsorte.com
 0.0.0.0 881betwin7.com
 0.0.0.0 881ola.com
 0.0.0.0 881win.bet
@@ -45492,6 +45898,7 @@
 0.0.0.0 888.co.at
 0.0.0.0 888.co.it
 0.0.0.0 888.co.mz
+0.0.0.0 888.co.ua
 0.0.0.0 888.com
 0.0.0.0 888.com.es
 0.0.0.0 888.com.pt
@@ -45507,6 +45914,7 @@
 0.0.0.0 888.info
 0.0.0.0 888.it
 0.0.0.0 888.ki
+0.0.0.0 888.nr
 0.0.0.0 888.org.pl
 0.0.0.0 888.pr
 0.0.0.0 888.pt
@@ -47522,6 +47930,7 @@
 0.0.0.0 8bet850.com
 0.0.0.0 8bet969.com
 0.0.0.0 8betaposta.com
+0.0.0.0 8betbonus.com
 0.0.0.0 8betcassino1.com
 0.0.0.0 8betwin.app
 0.0.0.0 8betwin.com
@@ -48250,6 +48659,7 @@
 0.0.0.0 90j2ejdiaskrijr3r32r.vip
 0.0.0.0 90me777.com
 0.0.0.0 90n0bk.com
+0.0.0.0 90pixbets.com
 0.0.0.0 90pmbet.app
 0.0.0.0 90s.bet
 0.0.0.0 90sbetbonus.com
@@ -48756,6 +49166,7 @@
 0.0.0.0 922betao.com
 0.0.0.0 922betaposta.com
 0.0.0.0 922brbet.com
+0.0.0.0 922brbets.com
 0.0.0.0 922win.net
 0.0.0.0 923bet.app
 0.0.0.0 9246444d94f081e3549803b928260f56.cloudflaire.lat
@@ -48777,6 +49188,7 @@
 0.0.0.0 929bet.bet
 0.0.0.0 929bet.com
 0.0.0.0 929bet.win
+0.0.0.0 929bet00.com
 0.0.0.0 929bet12.com
 0.0.0.0 929bet4.com
 0.0.0.0 929betbr.org
@@ -48908,6 +49320,7 @@
 0.0.0.0 93asogz51l9u.vivita.fun
 0.0.0.0 93b.games
 0.0.0.0 93b.xyz
+0.0.0.0 93bet-pix.com
 0.0.0.0 93bet.casino
 0.0.0.0 93bet.club
 0.0.0.0 93bet.me
@@ -49198,6 +49611,7 @@
 0.0.0.0 95b9a.com
 0.0.0.0 95ba52.com
 0.0.0.0 95bb1.com
+0.0.0.0 95bet-pix.com
 0.0.0.0 95bet1.com
 0.0.0.0 95bet7.com
 0.0.0.0 95bet8.com
@@ -49266,6 +49680,7 @@
 0.0.0.0 966gaddn.com
 0.0.0.0 967bet-12.com
 0.0.0.0 967bet.bet
+0.0.0.0 967brbet.com
 0.0.0.0 967com.net
 0.0.0.0 967luck.com
 0.0.0.0 967plataforma.com
@@ -49525,6 +49940,7 @@
 0.0.0.0 97hh97.com
 0.0.0.0 97hh97hh.com
 0.0.0.0 97ja8.bet
+0.0.0.0 97pixbets.com
 0.0.0.0 97plataforma.com
 0.0.0.0 97plataforma1.com
 0.0.0.0 97plataforma2.com
@@ -49803,6 +50219,7 @@
 0.0.0.0 98s.game
 0.0.0.0 98twe.com
 0.0.0.0 98u3ma25kk.skin
+0.0.0.0 98vvapp1.com
 0.0.0.0 98win.bet
 0.0.0.0 98win0.com
 0.0.0.0 98win10.com
@@ -51758,6 +52175,7 @@
 0.0.0.0 a3d8tv.com
 0.0.0.0 a3n3.vip
 0.0.0.0 a3pabmgslkop.novacdn1.online
+0.0.0.0 a3q9mk.com
 0.0.0.0 a3r4p7n7.com
 0.0.0.0 a3r9nf4fdz.com
 0.0.0.0 a3v8m1.com
@@ -51802,11 +52220,13 @@
 0.0.0.0 a5j5.d6c7b9o3.com
 0.0.0.0 a5jroric4qfh.cdnkopy2.top
 0.0.0.0 a5k2m8v3.nikusegogopel.info
+0.0.0.0 a5k3t7.com
 0.0.0.0 a5k6ylh.com
 0.0.0.0 a5r7pq.com
 0.0.0.0 a5r8tb.com
 0.0.0.0 a5sbet.com
 0.0.0.0 a5v1w6.com
+0.0.0.0 a5v3qw.com
 0.0.0.0 a5v8xp.com
 0.0.0.0 a5x7d9.com
 0.0.0.0 a5x9tp.com
@@ -51902,6 +52322,7 @@
 0.0.0.0 a7k9t1.com
 0.0.0.0 a7l0u9e6.juyf54bfc.com
 0.0.0.0 a7l3.y7d4z4m.com
+0.0.0.0 a7m32k.com
 0.0.0.0 a7n.bet
 0.0.0.0 a7n6m4h3.com
 0.0.0.0 a7p.bet
@@ -51917,6 +52338,7 @@
 0.0.0.0 a7v.bet
 0.0.0.0 a7vz4.com
 0.0.0.0 a7x24589.site
+0.0.0.0 a7x2qn.com
 0.0.0.0 a7y3d4x9.com
 0.0.0.0 a7z.bet
 0.0.0.0 a8-13a8pg.com
@@ -51989,6 +52411,7 @@
 0.0.0.0 a8fnfvis.shop
 0.0.0.0 a8hummerpg.com
 0.0.0.0 a8k3.v2j1k5t5.com
+0.0.0.0 a8k4vn.com
 0.0.0.0 a8l5q1h7.com
 0.0.0.0 a8lmupl652bsr.click
 0.0.0.0 a8n13m.com
@@ -52022,6 +52445,8 @@
 0.0.0.0 a9f3f7.com
 0.0.0.0 a9k5mr2.com
 0.0.0.0 a9k8p0x3i0.pfuzyrkxg.com
+0.0.0.0 a9m4qv.com
+0.0.0.0 a9m5zr.com
 0.0.0.0 a9m6tb.com
 0.0.0.0 a9m6y5.com
 0.0.0.0 a9p3x6.com
@@ -52294,6 +52719,8 @@
 0.0.0.0 aaaapg.com
 0.0.0.0 aaaapg.com.br
 0.0.0.0 aaaapp.bet
+0.0.0.0 aaaapp.org
+0.0.0.0 aaaapp.vip
 0.0.0.0 aaabbbccc.lat
 0.0.0.0 aaabet979.com
 0.0.0.0 aaabetplataforma.net
@@ -52398,6 +52825,7 @@
 0.0.0.0 aaq022.com
 0.0.0.0 aaqq77.com
 0.0.0.0 aaqqbet.bet
+0.0.0.0 aaqqbet.com
 0.0.0.0 aaqqbet.net
 0.0.0.0 aaqqbet.vip
 0.0.0.0 aaqqbet8.com
@@ -52989,6 +53417,7 @@
 0.0.0.0 adobet.biz
 0.0.0.0 adolescenc.ia.br
 0.0.0.0 adonay.top
+0.0.0.0 adoptperfume.com
 0.0.0.0 adoramodas.com
 0.0.0.0 adoravel777.app
 0.0.0.0 adoravel777.top
@@ -53019,6 +53448,7 @@
 0.0.0.0 adxb.aadx1.vip
 0.0.0.0 adxx.aadx1.vip
 0.0.0.0 ae1bij9m.com
+0.0.0.0 ae3000ac.com
 0.0.0.0 ae666info.com
 0.0.0.0 ae777.fun
 0.0.0.0 ae777bet.com
@@ -53682,6 +54112,7 @@
 0.0.0.0 akaknavi.com
 0.0.0.0 akakyes.com
 0.0.0.0 akapg.net
+0.0.0.0 akasita.com
 0.0.0.0 akaslotpg.com
 0.0.0.0 akbet888-pgslot.net
 0.0.0.0 akcxbe21d.com
@@ -54855,6 +55286,7 @@
 0.0.0.0 appl7.com
 0.0.0.0 appl9.com
 0.0.0.0 apple.brlbetios.com
+0.0.0.0 appleaobet.com
 0.0.0.0 applegrillmi.com
 0.0.0.0 applex360.in
 0.0.0.0 apploja.site
@@ -55257,6 +55689,7 @@
 0.0.0.0 asmrasmr.live
 0.0.0.0 asni.xcuhfnvwo.com
 0.0.0.0 asoka777.com
+0.0.0.0 asortebet.net
 0.0.0.0 asortebets.com
 0.0.0.0 asorteonline.bet
 0.0.0.0 asorteonline.com
@@ -55850,6 +56283,7 @@
 0.0.0.0 b1q5h4v8q.adc3e2vyc.com
 0.0.0.0 b1q8mc.com
 0.0.0.0 b1x4.tuozhan6.com
+0.0.0.0 b1x5m8.com
 0.0.0.0 b1xbet4fc0ij.cdnmore2.top
 0.0.0.0 b1y2jph5tu90.longt.shop
 0.0.0.0 b2.escuadronx.com
@@ -55898,13 +56332,16 @@
 0.0.0.0 b3pg.vip
 0.0.0.0 b3t4.o3mn.com
 0.0.0.0 b3tano.fun
+0.0.0.0 b3v8xp.com
 0.0.0.0 b3z4kn.bet
+0.0.0.0 b3zr9.com
 0.0.0.0 b45ws1hem5.com
 0.0.0.0 b4a1o4.com
 0.0.0.0 b4f7szz.com
 0.0.0.0 b4l0.s3p1f6a.com
 0.0.0.0 b4l9jq9y.com
 0.0.0.0 b4ly08lvre.cc
+0.0.0.0 b4m8qw.com
 0.0.0.0 b4p2.i4sdmlby.com
 0.0.0.0 b4p8ty9z3c.biz
 0.0.0.0 b4q76n.com
@@ -55938,6 +56375,8 @@
 0.0.0.0 b5m9x1.com
 0.0.0.0 b5n8q3l.com
 0.0.0.0 b5q42.com
+0.0.0.0 b5q9vr.com
+0.0.0.0 b5r3m8.com
 0.0.0.0 b5uwc34gjk.gomukosawivat.info
 0.0.0.0 b5v7j3q.com
 0.0.0.0 b5v8cx.com
@@ -55959,9 +56398,12 @@
 0.0.0.0 b6itp.com
 0.0.0.0 b6k4t7.com
 0.0.0.0 b6kz3xud1t1r.vivita.fun
+0.0.0.0 b6m8xp.com
 0.0.0.0 b6r2.q2l3m6r6.com
+0.0.0.0 b6r5zk.com
 0.0.0.0 b6shiwnq1hcq.cdnkopy2.top
 0.0.0.0 b6w0a.bet
+0.0.0.0 b6xm7.com
 0.0.0.0 b6z8u7.com
 0.0.0.0 b7.bet
 0.0.0.0 b70.bet
@@ -55997,6 +56439,7 @@
 0.0.0.0 b7hfn.ojzhvultn.com
 0.0.0.0 b7k4xp.com
 0.0.0.0 b7lrnn.vip
+0.0.0.0 b7m6x2.com
 0.0.0.0 b7otdl.vip
 0.0.0.0 b7p5rd.com
 0.0.0.0 b7q52k.com
@@ -56023,6 +56466,7 @@
 0.0.0.0 b8ghw43irfea.longt.shop
 0.0.0.0 b8j6x0i9mctu.vivita.fun
 0.0.0.0 b8jk2042xd7d.48552462.net
+0.0.0.0 b8k4m6.com
 0.0.0.0 b8l5z5.com
 0.0.0.0 b8m4k.com
 0.0.0.0 b8m4tx.com
@@ -56032,6 +56476,7 @@
 0.0.0.0 b8r1tp.com
 0.0.0.0 b8t3vx.com
 0.0.0.0 b8tzz3.info
+0.0.0.0 b8x3qp.com
 0.0.0.0 b8y8a9.com
 0.0.0.0 b9-m99.net
 0.0.0.0 b916zrldhi.lanehesadubi.info
@@ -56061,6 +56506,8 @@
 0.0.0.0 b9u1k9.com
 0.0.0.0 b9u9u.com
 0.0.0.0 b9urwhixa6mr.iatech.fun
+0.0.0.0 b9v2xp.com
+0.0.0.0 b9x14m.com
 0.0.0.0 b9x2mv.com
 0.0.0.0 b9x39g.a737cozfwjmm.net
 0.0.0.0 ba-m9.bet
@@ -56163,7 +56610,10 @@
 0.0.0.0 badagld.online
 0.0.0.0 badai777.win
 0.0.0.0 badaihoki.club
+0.0.0.0 badak138betx1jbi.site
+0.0.0.0 badak138betx1jdi.site
 0.0.0.0 badak138betx1jei.site
+0.0.0.0 badak138betx1jfi.site
 0.0.0.0 badak138betx1jgi.site
 0.0.0.0 badak138betx1jhi.site
 0.0.0.0 badak178jogos.com
@@ -56325,6 +56775,7 @@
 0.0.0.0 baixopg.vip
 0.0.0.0 baixopg.win
 0.0.0.0 baixotorrentshd.site
+0.0.0.0 baiyi-led.com
 0.0.0.0 baji-888.vip
 0.0.0.0 baji777bet.com
 0.0.0.0 bajilive888.com
@@ -56497,6 +56948,7 @@
 0.0.0.0 barbapg.com
 0.0.0.0 barbar77-nisgaa.pages.dev
 0.0.0.0 barbar777.com
+0.0.0.0 barbarawald.com
 0.0.0.0 barber777.com
 0.0.0.0 barberpg.com
 0.0.0.0 barberpg.net
@@ -56697,6 +57149,7 @@
 0.0.0.0 bateuvaleu8.com
 0.0.0.0 bateuvaleu9.com
 0.0.0.0 bathtubpg.com
+0.0.0.0 bati-27.com
 0.0.0.0 batidamesa.cf
 0.0.0.0 batik777bet.com
 0.0.0.0 batik77jogos.com
@@ -56880,6 +57333,7 @@
 0.0.0.0 bbj.games
 0.0.0.0 bbjl.bet
 0.0.0.0 bbjl12.com
+0.0.0.0 bbkkbet.com
 0.0.0.0 bbkkbet.net
 0.0.0.0 bbkkbet.vip
 0.0.0.0 bbkkbr.com
@@ -57233,6 +57687,7 @@
 0.0.0.0 beginning.sa.com
 0.0.0.0 bei777.fun
 0.0.0.0 bei777.one
+0.0.0.0 beifangtongpu.com
 0.0.0.0 beijodental.cf
 0.0.0.0 beijopremiado.cf
 0.0.0.0 beijupg.app
@@ -58406,10 +58861,12 @@
 0.0.0.0 betapostavip.com
 0.0.0.0 betapostawin.com
 0.0.0.0 betapp-br.app
+0.0.0.0 betapp.bar
 0.0.0.0 betapp.bid
 0.0.0.0 betapp.bio
 0.0.0.0 betapp.club
 0.0.0.0 betapp.cn
+0.0.0.0 betapp.dev
 0.0.0.0 betapp.fyi
 0.0.0.0 betapp.icu
 0.0.0.0 betapp.id
@@ -58418,6 +58875,7 @@
 0.0.0.0 betapp.onl
 0.0.0.0 betapp.org.cn
 0.0.0.0 betapp.pro
+0.0.0.0 betapp.quest
 0.0.0.0 betapp.site
 0.0.0.0 betapp.top
 0.0.0.0 betapp.vin
@@ -58529,6 +58987,7 @@
 0.0.0.0 betbrabrasil.com
 0.0.0.0 betbrasil.vu
 0.0.0.0 betbrasil3d.com
+0.0.0.0 betbrasilbet.com
 0.0.0.0 betbrasilesportes.net
 0.0.0.0 betbrazil.info
 0.0.0.0 betbrazil10.bet
@@ -58578,6 +59037,7 @@
 0.0.0.0 betdaq.com
 0.0.0.0 betdasorte-br.com
 0.0.0.0 betdasorte-brasil.com
+0.0.0.0 betdasorte-cassino.com
 0.0.0.0 betdasorte.bet.br
 0.0.0.0 betdasorte.com
 0.0.0.0 betdasorte.ing
@@ -58585,10 +59045,12 @@
 0.0.0.0 betdasorte.org
 0.0.0.0 betdasorte.vu
 0.0.0.0 betdasorte7.com
+0.0.0.0 betdasorteapp.com
 0.0.0.0 betdasortebet.com
 0.0.0.0 betdasortebr.com
 0.0.0.0 betdasortebrasil.com
 0.0.0.0 betdasorteoficial.com
+0.0.0.0 betdasortesti.net
 0.0.0.0 betdelas.com
 0.0.0.0 betdemos.com
 0.0.0.0 betdex.com
@@ -58621,6 +59083,7 @@
 0.0.0.0 betesporte10.bet
 0.0.0.0 betesportebet.com
 0.0.0.0 betestrela.bet
+0.0.0.0 betestrela.live
 0.0.0.0 betestrela.net
 0.0.0.0 betestrelabr.com
 0.0.0.0 beteu.org
@@ -58957,6 +59420,7 @@
 0.0.0.0 betpgindbet.com
 0.0.0.0 betpgpix.com
 0.0.0.0 betpgt.com
+0.0.0.0 betpix.app.br
 0.0.0.0 betpix.com
 0.0.0.0 betpix.vu
 0.0.0.0 betpix365-br.com
@@ -59693,6 +60157,7 @@
 0.0.0.0 betx100.net
 0.0.0.0 betx100.vip
 0.0.0.0 betx1000.net
+0.0.0.0 betx101.com
 0.0.0.0 betx101.vip
 0.0.0.0 betx101affiliates.com
 0.0.0.0 betx102.vip
@@ -60075,8 +60540,10 @@
 0.0.0.0 bigplaytvs.lat
 0.0.0.0 bigpot88login.xyz
 0.0.0.0 bigreaders.in
+0.0.0.0 bigredrobe.com
 0.0.0.0 bigs365.bet
 0.0.0.0 bigslotpgdemo.com
+0.0.0.0 bigsortebet.com
 0.0.0.0 biguoo.com
 0.0.0.0 bigwb.co
 0.0.0.0 bigwin51.com
@@ -60286,6 +60753,8 @@
 0.0.0.0 bjb777.win
 0.0.0.0 bjb777bet.com
 0.0.0.0 bjb777jogo.com
+0.0.0.0 bjcanlian.com
+0.0.0.0 bjcfny.com
 0.0.0.0 bjcp483.top
 0.0.0.0 bjf4dg1.df1dkd3vg.com
 0.0.0.0 bjj777.bet
@@ -60307,6 +60776,7 @@
 0.0.0.0 bjv5.y8aakr5o.com
 0.0.0.0 bjye0pufkl.gekuwirehukivosa.info
 0.0.0.0 bk-leonbet-zerkalo.buzz
+0.0.0.0 bk-leonbets-sl.top
 0.0.0.0 bk168win.net
 0.0.0.0 bk2oy84sjk.posivamaresono.info
 0.0.0.0 bk3731fv.top
@@ -60780,6 +61250,7 @@
 0.0.0.0 blindspotn1.top
 0.0.0.0 blinkdo.org
 0.0.0.0 blinkpg.com
+0.0.0.0 bliss-athome.com
 0.0.0.0 blits.pro
 0.0.0.0 blitz-fun.bet
 0.0.0.0 blj1w6wbebg5bjfe.puuhvd.lat
@@ -60975,6 +61446,7 @@
 0.0.0.0 bode777.one
 0.0.0.0 bodkinpg.com
 0.0.0.0 bodog365.bet
+0.0.0.0 bodspfr022.com
 0.0.0.0 bof003.bet
 0.0.0.0 bofplk.vk7.games
 0.0.0.0 bogpg.com
@@ -61150,6 +61622,7 @@
 0.0.0.0 bomsuporte.click
 0.0.0.0 bomsuporte.top
 0.0.0.0 bon16piv.lat
+0.0.0.0 bonadetj.com
 0.0.0.0 bonanzaslotpg.org
 0.0.0.0 bonaslotwin.com
 0.0.0.0 bondinho777.com
@@ -61190,6 +61663,7 @@
 0.0.0.0 bonusbetapp.com
 0.0.0.0 bonusbetmica.com
 0.0.0.0 bonusbets.vu
+0.0.0.0 bonusbetscasino.ro
 0.0.0.0 bonusbetting.asia
 0.0.0.0 bonusbetting.biz
 0.0.0.0 bonusbetting.click
@@ -61282,6 +61756,7 @@
 0.0.0.0 bos777link.org
 0.0.0.0 bos96.games
 0.0.0.0 bose-pg.vip
+0.0.0.0 bosel902.com
 0.0.0.0 bosepg.app
 0.0.0.0 bosepg.co
 0.0.0.0 bosepg.com
@@ -61980,12 +62455,14 @@
 0.0.0.0 brabet-b.com
 0.0.0.0 brabet-baixar.com
 0.0.0.0 brabet-bet-br.com
+0.0.0.0 brabet-bet.com
 0.0.0.0 brabet-bet7.com
 0.0.0.0 brabet-bets.com
 0.0.0.0 brabet-br.com
 0.0.0.0 brabet-br1.com
 0.0.0.0 brabet-bra.com
 0.0.0.0 brabet-brasil.com
+0.0.0.0 brabet-brazil.com
 0.0.0.0 brabet-casino-online.com
 0.0.0.0 brabet-casino.click
 0.0.0.0 brabet-casino.co
@@ -62059,6 +62536,7 @@
 0.0.0.0 brabet.com.de
 0.0.0.0 brabet.date
 0.0.0.0 brabet.es
+0.0.0.0 brabet.game
 0.0.0.0 brabet.games
 0.0.0.0 brabet.icu
 0.0.0.0 brabet.in
@@ -62066,6 +62544,7 @@
 0.0.0.0 brabet.life
 0.0.0.0 brabet.loan
 0.0.0.0 brabet.party
+0.0.0.0 brabet.top
 0.0.0.0 brabet.vip
 0.0.0.0 brabet.vu
 0.0.0.0 brabet.world
@@ -62088,6 +62567,7 @@
 0.0.0.0 brabet1q.com
 0.0.0.0 brabet1v.com
 0.0.0.0 brabet1x.com
+0.0.0.0 brabet2.com
 0.0.0.0 brabet2.net
 0.0.0.0 brabet21.com
 0.0.0.0 brabet2a.com
@@ -62099,6 +62579,7 @@
 0.0.0.0 brabet360br.com
 0.0.0.0 brabet360pg.com
 0.0.0.0 brabet365.com
+0.0.0.0 brabet3g.com
 0.0.0.0 brabet3v.com
 0.0.0.0 brabet4.com
 0.0.0.0 brabet49.com
@@ -62156,6 +62637,7 @@
 0.0.0.0 brabetbet.com.br
 0.0.0.0 brabetbet.net
 0.0.0.0 brabetbet1.com
+0.0.0.0 brabetbet2.com
 0.0.0.0 brabetbetbet.com
 0.0.0.0 brabetbets.com
 0.0.0.0 brabetbl.com
@@ -62182,6 +62664,7 @@
 0.0.0.0 brabetcassino.net
 0.0.0.0 brabetcc.com
 0.0.0.0 brabetcl.com
+0.0.0.0 brabetclub.com
 0.0.0.0 brabetcom-z.com
 0.0.0.0 brabetcp.com
 0.0.0.0 brabetcq.com
@@ -62202,6 +62685,7 @@
 0.0.0.0 brabeti1.com
 0.0.0.0 brabeti2.com
 0.0.0.0 brabeti3.com
+0.0.0.0 brabeti4.com
 0.0.0.0 brabetjogo.org
 0.0.0.0 brabetpoker.com
 0.0.0.0 brabetz1.com
@@ -62359,6 +62843,7 @@
 0.0.0.0 brasilbet.vu
 0.0.0.0 brasilbet555.online
 0.0.0.0 brasilbet777.win
+0.0.0.0 brasilbet777vip.com
 0.0.0.0 brasilbet888.com
 0.0.0.0 brasilbeta.com
 0.0.0.0 brasilbetano.com
@@ -62513,6 +62998,7 @@
 0.0.0.0 brazzino.bet
 0.0.0.0 brb7.com
 0.0.0.0 brb88.bet
+0.0.0.0 brbantia.com
 0.0.0.0 brbb.bet
 0.0.0.0 brbet-brasil.com
 0.0.0.0 brbet.app
@@ -62630,6 +63116,7 @@
 0.0.0.0 breno.bet
 0.0.0.0 brenolt88.online
 0.0.0.0 brequipe777.com
+0.0.0.0 brestrelabet.org
 0.0.0.0 brevepg.com
 0.0.0.0 brevepg.vip
 0.0.0.0 brewery-pg.com
@@ -63163,6 +63650,7 @@
 0.0.0.0 brpix.games
 0.0.0.0 brpix.win
 0.0.0.0 brpixbet.net
+0.0.0.0 brpixbet.org
 0.0.0.0 brplaytv.com
 0.0.0.0 brpx7.com
 0.0.0.0 brpx7.games
@@ -63355,6 +63843,7 @@
 0.0.0.0 brtx.beauty
 0.0.0.0 bruce123.bet
 0.0.0.0 bruce777.bet
+0.0.0.0 brughe387.com
 0.0.0.0 bruno-casino.bet
 0.0.0.0 brunoah.top
 0.0.0.0 brunofernandesadv-com.pages.dev
@@ -63787,6 +64276,7 @@
 0.0.0.0 bwqx0n5o.com
 0.0.0.0 bwslotbet7-new.com
 0.0.0.0 bwuenz.eliluu7u.com
+0.0.0.0 bx366.com
 0.0.0.0 bx55.com
 0.0.0.0 bx55ww.com
 0.0.0.0 bx58h.top
@@ -64185,9 +64675,11 @@
 0.0.0.0 c1f8kh86l.cc
 0.0.0.0 c1h0.k0m6j5e.com
 0.0.0.0 c1iuybezjfxq.iatech.fun
+0.0.0.0 c1m8t3.com
 0.0.0.0 c1n3roxoapi.top
 0.0.0.0 c1nfp5wrwz.lusirolababope.info
 0.0.0.0 c1o6q4b1.com
+0.0.0.0 c1r8k5.com
 0.0.0.0 c1sdrv.site
 0.0.0.0 c1top.top
 0.0.0.0 c1vhtfe2ypqw.vivita.fun
@@ -64213,6 +64705,7 @@
 0.0.0.0 c2r8xp.com
 0.0.0.0 c2sfh.bet
 0.0.0.0 c2t5.k7t5r2.com
+0.0.0.0 c2t9m1.com
 0.0.0.0 c2u5pdd.com
 0.0.0.0 c2v6xp.com
 0.0.0.0 c300c.com
@@ -64258,6 +64751,8 @@
 0.0.0.0 c44v.com
 0.0.0.0 c45n35.com
 0.0.0.0 c477.vip
+0.0.0.0 c4m8t2.com
+0.0.0.0 c4mk7.com
 0.0.0.0 c4pb6mv1zntf.hideaki.online
 0.0.0.0 c4q7zr.com
 0.0.0.0 c4qdfd.com
@@ -64365,8 +64860,10 @@
 0.0.0.0 c8q6.c2d0h6j.com
 0.0.0.0 c8r2tv.com
 0.0.0.0 c8r3w1.com
+0.0.0.0 c8tk9.com
 0.0.0.0 c8v4m8f5.com
 0.0.0.0 c8v5kr.com
+0.0.0.0 c8x2m6.com
 0.0.0.0 c8x9m4.com
 0.0.0.0 c9-m99.net
 0.0.0.0 c90z5ygbctr8.novacdn2.online
@@ -64402,6 +64899,7 @@
 0.0.0.0 c9v2b7.com
 0.0.0.0 c9v5xn.com
 0.0.0.0 c9win.pro
+0.0.0.0 c9wk2.com
 0.0.0.0 c9x3d7.com
 0.0.0.0 c9x6r2.com
 0.0.0.0 c9z4f3l.com
@@ -64440,6 +64938,7 @@
 0.0.0.0 cacareco.top
 0.0.0.0 cacatua777.com
 0.0.0.0 cacauseven2026.sbs
+0.0.0.0 cacc-va.com
 0.0.0.0 cachaca777.bet
 0.0.0.0 cachecs2.art
 0.0.0.0 cachelayer-x9q4v.dcboca.com
@@ -64925,6 +65424,7 @@
 0.0.0.0 casa-de-aposta-internacional.online
 0.0.0.0 casa.bet
 0.0.0.0 casabeaute.gb.net
+0.0.0.0 casabetapostas.pt
 0.0.0.0 casachurros2.xyz
 0.0.0.0 casacopg.bet
 0.0.0.0 casacopg.net
@@ -64956,6 +65456,7 @@
 0.0.0.0 casasbrazil.com.br
 0.0.0.0 casaslotpg.com
 0.0.0.0 casaslt3.com
+0.0.0.0 casatapada.com
 0.0.0.0 casbet88.vip
 0.0.0.0 cascades777.com
 0.0.0.0 cascalhocdn1.online
@@ -65042,6 +65543,7 @@
 0.0.0.0 casino-zeus.org
 0.0.0.0 casino.com
 0.0.0.0 casino.org
+0.0.0.0 casino1-xbet.com
 0.0.0.0 casino222.bet
 0.0.0.0 casino222.cc
 0.0.0.0 casino222c.com
@@ -65067,6 +65569,7 @@
 0.0.0.0 casinobr.bet
 0.0.0.0 casinocalor.bet
 0.0.0.0 casinocasinopg.com
+0.0.0.0 casinocrawlers.com
 0.0.0.0 casinoesportiva.bet
 0.0.0.0 casinoexoterikou.com
 0.0.0.0 casinoexoterikou.gr
@@ -66111,6 +66614,7 @@
 0.0.0.0 cheiopg.app
 0.0.0.0 cheiopg.com
 0.0.0.0 cheiopg.vip
+0.0.0.0 chengchua.com
 0.0.0.0 cheny22.xyz
 0.0.0.0 cherish.co.in
 0.0.0.0 cherrycasinopg.com
@@ -66129,6 +66633,7 @@
 0.0.0.0 chiefsshop.co.com
 0.0.0.0 chiffonspg.com
 0.0.0.0 chilecasinos.bet
+0.0.0.0 chilitong.com
 0.0.0.0 chillbet.net
 0.0.0.0 chillbet111.net
 0.0.0.0 chillbet222.net
@@ -66783,6 +67288,8 @@
 0.0.0.0 clubdoscards.com
 0.0.0.0 clube-10.com
 0.0.0.0 clube-m9.bet
+0.0.0.0 clube-m9.com
+0.0.0.0 clube-m94.com
 0.0.0.0 clube-m99.com
 0.0.0.0 clube-m9br.com
 0.0.0.0 clube777.com
@@ -66843,6 +67350,7 @@
 0.0.0.0 clubxc.com
 0.0.0.0 clutch.app
 0.0.0.0 cluu.xyz
+0.0.0.0 cluup.com
 0.0.0.0 cluwaka.com
 0.0.0.0 clvwq.bet
 0.0.0.0 clyckpts.top
@@ -66919,6 +67427,7 @@
 0.0.0.0 cnnpg.me
 0.0.0.0 cnnpg.vip
 0.0.0.0 cnnpg.win
+0.0.0.0 cnoseh3294.com
 0.0.0.0 cnplay.click
 0.0.0.0 cns5y4fd.top
 0.0.0.0 cntop.store
@@ -67130,6 +67639,7 @@
 0.0.0.0 comidapg.pro
 0.0.0.0 comidapg.vip
 0.0.0.0 comidapg.win
+0.0.0.0 commaarecords.com
 0.0.0.0 commai.sbs
 0.0.0.0 commons.com.br
 0.0.0.0 comn.clothing
@@ -67265,6 +67775,7 @@
 0.0.0.0 conwaygames.com
 0.0.0.0 cookienaopisca.top
 0.0.0.0 cookiepisca.top
+0.0.0.0 cookingcola.com
 0.0.0.0 cookingpg.bet
 0.0.0.0 cool.kfsxdz.com
 0.0.0.0 cool.nbgfbr.com
@@ -67414,6 +67925,7 @@
 0.0.0.0 cosmicpg.com
 0.0.0.0 cosmicslotpg.com
 0.0.0.0 cosmo4dlogin.xyz
+0.0.0.0 cosmosmith.com
 0.0.0.0 cosmusti.com
 0.0.0.0 cospbg.com
 0.0.0.0 costaeyxf.xyz
@@ -68004,6 +68516,7 @@
 0.0.0.0 cupidspg-zl.bet
 0.0.0.0 cupidspg.com
 0.0.0.0 cupk.w34tl0ki.com
+0.0.0.0 cupom-m9.net
 0.0.0.0 cupom-m99.net
 0.0.0.0 cupompg.com
 0.0.0.0 cuppg.com
@@ -68233,6 +68746,7 @@
 0.0.0.0 d1s4pdd.com
 0.0.0.0 d1vtbj1.com
 0.0.0.0 d1vxh6txatozzo.cloudfront.net
+0.0.0.0 d1x7m3.com
 0.0.0.0 d1z7.p8h7i3x2.com
 0.0.0.0 d21iz.bet
 0.0.0.0 d2210bet.com
@@ -69236,7 +69750,15 @@
 0.0.0.0 dgi8888.vip
 0.0.0.0 dgimit.bet
 0.0.0.0 dgitamryxr4p.vivita.fun
+0.0.0.0 dgjogo.net
+0.0.0.0 dgjogo2.bet
+0.0.0.0 dgjogo4.bet
+0.0.0.0 dgjogo5.bet
 0.0.0.0 dgjogo6.com
+0.0.0.0 dgjogo8.com
+0.0.0.0 dgjogo888.com
+0.0.0.0 dgjogo9.com
+0.0.0.0 dgjogoweb.com
 0.0.0.0 dglvz29s.fubo18.com
 0.0.0.0 dgmnpf.com
 0.0.0.0 dgntvs.top
@@ -69247,6 +69769,9 @@
 0.0.0.0 dgpqdt.top
 0.0.0.0 dgrecargas.online
 0.0.0.0 dgsat.top
+0.0.0.0 dgslot1.com
+0.0.0.0 dgslot2.com
+0.0.0.0 dgslot5.com
 0.0.0.0 dgssywl.com
 0.0.0.0 dgtaladm.me
 0.0.0.0 dgtv7unicast.top
@@ -69530,6 +70055,7 @@
 0.0.0.0 dkd777bet.com
 0.0.0.0 dkgroupme.com
 0.0.0.0 dkjogo.bet
+0.0.0.0 dkk01.app
 0.0.0.0 dkk03.com
 0.0.0.0 dkk07.com
 0.0.0.0 dkk09.com
@@ -70945,6 +71471,7 @@
 0.0.0.0 e6r3m4i5.com
 0.0.0.0 e6r7.commoncme.com
 0.0.0.0 e6t3m8.com
+0.0.0.0 e6v3qr.com
 0.0.0.0 e71.bet
 0.0.0.0 e71kzb.com
 0.0.0.0 e7311bet.com
@@ -70964,10 +71491,13 @@
 0.0.0.0 e7game.bet
 0.0.0.0 e7k1.d9m4x2.com
 0.0.0.0 e7m5tw.com
+0.0.0.0 e7q3mk.com
 0.0.0.0 e7q5v4.com
 0.0.0.0 e7r2t9.com
 0.0.0.0 e7u1.a5s8s0p.com
 0.0.0.0 e7u2w6g4.com
+0.0.0.0 e7v38q.com
+0.0.0.0 e7x3mk.com
 0.0.0.0 e7y3e7l.com
 0.0.0.0 e7y8s7t7.com
 0.0.0.0 e7z3s5n8.com
@@ -71008,8 +71538,10 @@
 0.0.0.0 e9p1n1g5.com
 0.0.0.0 e9q5pk.com
 0.0.0.0 e9r0h5.com
+0.0.0.0 e9t4m7.com
 0.0.0.0 e9u6.b8g2i0f.com
 0.0.0.0 e9u9u.com
+0.0.0.0 e9v15q.com
 0.0.0.0 e9v3.hnxsvip.com
 0.0.0.0 e9x3qw.com
 0.0.0.0 e9x6mp.com
@@ -71727,6 +72259,7 @@
 0.0.0.0 ele777.net.br
 0.0.0.0 ele777.online
 0.0.0.0 ele777.org
+0.0.0.0 eleaobet.com
 0.0.0.0 elections-beta-redeyechicago.pages.dev
 0.0.0.0 electr54.xyz
 0.0.0.0 electric-wins.uk
@@ -72147,6 +72680,7 @@
 0.0.0.0 escolapg.win
 0.0.0.0 escolasdarque.com
 0.0.0.0 escolhacerta.sbs
+0.0.0.0 escolhapg.app
 0.0.0.0 escolhapg.bet
 0.0.0.0 escolhapg.com
 0.0.0.0 escolhapg.net
@@ -72316,12 +72850,16 @@
 0.0.0.0 estrela77.bet
 0.0.0.0 estrelabet-apostas-org.pages.dev
 0.0.0.0 estrelabet-betbr.com
+0.0.0.0 estrelabet-br.bet
 0.0.0.0 estrelabet-brasil.com
 0.0.0.0 estrelabet-casino.icu
+0.0.0.0 estrelabet-cassino.com
 0.0.0.0 estrelabet-cassino.org
+0.0.0.0 estrelabet-chinesa.online
 0.0.0.0 estrelabet-cl.com
 0.0.0.0 estrelabet-vip.mx
 0.0.0.0 estrelabet.app.br
+0.0.0.0 estrelabet.club
 0.0.0.0 estrelabet.co
 0.0.0.0 estrelabet.fun
 0.0.0.0 estrelabet.mobi
@@ -72335,6 +72873,7 @@
 0.0.0.0 estrelabetlogin.mx
 0.0.0.0 estrelabetrei.com
 0.0.0.0 estrelabets.app
+0.0.0.0 estrelabets.pro
 0.0.0.0 estrelabett.com
 0.0.0.0 estrelabetuk.com
 0.0.0.0 estrelabetvip.mx
@@ -72373,6 +72912,9 @@
 0.0.0.0 estx05.cdndgplay.click
 0.0.0.0 esuij.com
 0.0.0.0 esyy308.top
+0.0.0.0 et-zplaybet.com
+0.0.0.0 et-zplaybets.com
+0.0.0.0 et-zplaybetting.com
 0.0.0.0 et5wgoxut3cm.kst14.click
 0.0.0.0 et777.fun
 0.0.0.0 et8e5tg9.com
@@ -72596,6 +73138,7 @@
 0.0.0.0 ey.rbr10.top
 0.0.0.0 ey2lqd6fsig2.cdnaabb1.top
 0.0.0.0 ey531.bet
+0.0.0.0 eyangou.com
 0.0.0.0 eyeb.gsybdiuxf.com
 0.0.0.0 eyelash777.com
 0.0.0.0 eyelashpg.com
@@ -72712,6 +73255,7 @@
 0.0.0.0 f2mu8jlo1qp9.cdncdn3.online
 0.0.0.0 f2q4q2q5.com
 0.0.0.0 f2q6mw.com
+0.0.0.0 f2q6xn.com
 0.0.0.0 f2q7s4e9.com
 0.0.0.0 f2qm5z7ra63u.iatech.fun
 0.0.0.0 f2r3q9.com
@@ -72856,6 +73400,7 @@
 0.0.0.0 f6h2.v1a6f9d3.com
 0.0.0.0 f6h3h1.com
 0.0.0.0 f6h8zk.com
+0.0.0.0 f6m2qw.com
 0.0.0.0 f6m2t9.com
 0.0.0.0 f6m8q3a8.com
 0.0.0.0 f6n8h.bet
@@ -72890,9 +73435,12 @@
 0.0.0.0 f7f7navi.com
 0.0.0.0 f7h8zz.com
 0.0.0.0 f7l1.x5r1c5w.com
+0.0.0.0 f7m9qk.com
 0.0.0.0 f7mm.com
+0.0.0.0 f7q3xp.com
 0.0.0.0 f7r9ty8quh.club
 0.0.0.0 f7s6.p6t6l9j.com
+0.0.0.0 f7x29k.com
 0.0.0.0 f7x3d2.com
 0.0.0.0 f7zmj6asjk.covulusunarekide.info
 0.0.0.0 f80.bet
@@ -73210,6 +73758,7 @@
 0.0.0.0 farmbestpower.click
 0.0.0.0 farmlandpg.com
 0.0.0.0 farmpg.com
+0.0.0.0 farmsguide.com
 0.0.0.0 faroesteslo.site
 0.0.0.0 farofa777.app
 0.0.0.0 farofa777.cc
@@ -73273,6 +73822,7 @@
 0.0.0.0 fatdaddy.in
 0.0.0.0 fatherpg.com
 0.0.0.0 fathompg.com
+0.0.0.0 fato777.app
 0.0.0.0 fato777.asia
 0.0.0.0 fato777.cc
 0.0.0.0 fato777.co
@@ -73840,6 +74390,7 @@
 0.0.0.0 fgpubg.shop
 0.0.0.0 fgrapd.cc
 0.0.0.0 fgrupoent.sbs
+0.0.0.0 fgslot1.com
 0.0.0.0 fgslot2.com
 0.0.0.0 fgsvdu.top
 0.0.0.0 fgtyh.com
@@ -74683,18 +75234,29 @@
 0.0.0.0 fortunes777.com
 0.0.0.0 fortunespin777.com
 0.0.0.0 fortunetiger-777.com
+0.0.0.0 fortunetiger-bet.com
 0.0.0.0 fortunetiger-br.com
 0.0.0.0 fortunetiger-br.com.br
 0.0.0.0 fortunetiger-br.org
+0.0.0.0 fortunetiger-br.top
 0.0.0.0 fortunetiger-brazil.com
 0.0.0.0 fortunetiger-brazil.org
+0.0.0.0 fortunetiger-chile.com
+0.0.0.0 fortunetiger-cl.cl
 0.0.0.0 fortunetiger-download.com
 0.0.0.0 fortunetiger-game.com
+0.0.0.0 fortunetiger-game.org
+0.0.0.0 fortunetiger-jogo.com
 0.0.0.0 fortunetiger-juego.com.mx
 0.0.0.0 fortunetiger-mx.com
+0.0.0.0 fortunetiger-ng.com
+0.0.0.0 fortunetiger-nigeria.com
+0.0.0.0 fortunetiger-online.com
 0.0.0.0 fortunetiger-online.org
 0.0.0.0 fortunetiger-pt-click.pages.dev
 0.0.0.0 fortunetiger-slot.cl
+0.0.0.0 fortunetiger-slot.com
+0.0.0.0 fortunetiger-slot.mx
 0.0.0.0 fortunetiger-slot.org
 0.0.0.0 fortunetiger-slot777.com
 0.0.0.0 fortunetiger-slotgame.com
@@ -74710,17 +75272,24 @@
 0.0.0.0 fortunetiger.latino
 0.0.0.0 fortunetiger.lol
 0.0.0.0 fortunetiger.me
+0.0.0.0 fortunetiger.ng
 0.0.0.0 fortunetiger.nl
 0.0.0.0 fortunetiger.onl
 0.0.0.0 fortunetiger.ph
+0.0.0.0 fortunetiger.pics
+0.0.0.0 fortunetiger.quest
 0.0.0.0 fortunetiger.ro
 0.0.0.0 fortunetiger.si
 0.0.0.0 fortunetiger.uy
 0.0.0.0 fortunetiger.vu
 0.0.0.0 fortunetiger101.com
+0.0.0.0 fortunetiger136bet.com
+0.0.0.0 fortunetiger2br.shop
 0.0.0.0 fortunetiger2demo.com
 0.0.0.0 fortunetiger2demogratis.com
 0.0.0.0 fortunetiger3.com
+0.0.0.0 fortunetiger333bet.com
+0.0.0.0 fortunetiger777.com.br
 0.0.0.0 fortunetiger777.win
 0.0.0.0 fortunetiger777login.com
 0.0.0.0 fortunetigera188.com
@@ -74728,22 +75297,28 @@
 0.0.0.0 fortunetigeraposta1real.com
 0.0.0.0 fortunetigerapp.org
 0.0.0.0 fortunetigerbr.org
+0.0.0.0 fortunetigerbr.shop
+0.0.0.0 fortunetigerbr.win
 0.0.0.0 fortunetigerbrasil.com
 0.0.0.0 fortunetigercasino.net
 0.0.0.0 fortunetigerdemo.bet
 0.0.0.0 fortunetigerdemo.gratis
 0.0.0.0 fortunetigerdemo.top
 0.0.0.0 fortunetigerdemobet500.com
+0.0.0.0 fortunetigerdemogratis.net
 0.0.0.0 fortunetigerdemogratis.org
 0.0.0.0 fortunetigerdownload.ng
 0.0.0.0 fortunetigerlogin.com
 0.0.0.0 fortunetigerplay.com
 0.0.0.0 fortunetigerr.space
+0.0.0.0 fortunetigers.dev
+0.0.0.0 fortunetigerslot-demo.com
 0.0.0.0 fortunetigerslot.casino
 0.0.0.0 fortunetigerslot.com
 0.0.0.0 fortunetigerslot.org
 0.0.0.0 fortunetigerss.com
 0.0.0.0 fortunetigertop.com
+0.0.0.0 fortunetigerx.games
 0.0.0.0 fortunex10.bet
 0.0.0.0 fortx.me
 0.0.0.0 fortx.online
@@ -75207,6 +75782,7 @@
 0.0.0.0 fulltbet.site
 0.0.0.0 fulltbet.vip
 0.0.0.0 fulltbetbr.com
+0.0.0.0 fullyabrasive.com
 0.0.0.0 fultbet.app
 0.0.0.0 fun009.app
 0.0.0.0 fun009.bet
@@ -75752,6 +76328,7 @@
 0.0.0.0 fxpy03coo91m.cdnkopy4.top
 0.0.0.0 fxqqu3cc9nzv.cdnmore1.top
 0.0.0.0 fxr5b7.com
+0.0.0.0 fxshwz.com
 0.0.0.0 fxt.t53cme.com
 0.0.0.0 fxt.zrrf0k.com
 0.0.0.0 fxtvm.top
@@ -75921,6 +76498,7 @@
 0.0.0.0 g2kqnx.com
 0.0.0.0 g2m1r9.com
 0.0.0.0 g2m6.113tools.com
+0.0.0.0 g2m6xp.com
 0.0.0.0 g2p3ylh.com
 0.0.0.0 g2pwtt4.com
 0.0.0.0 g2r9m1.com
@@ -76022,6 +76600,7 @@
 0.0.0.0 g6sbkorui10w.kst14.click
 0.0.0.0 g6sdk9h.xyz
 0.0.0.0 g6sgseebl0uy.cdnkopy1.top
+0.0.0.0 g6x8zr.com
 0.0.0.0 g6x9vc.com
 0.0.0.0 g7-hn-mj-uj.com
 0.0.0.0 g7.techall.cc
@@ -76042,6 +76621,7 @@
 0.0.0.0 g7dxtn.xyz
 0.0.0.0 g7h3.lamscurtain.com
 0.0.0.0 g7h7y9.com
+0.0.0.0 g7k26x.com
 0.0.0.0 g7k5f2.com
 0.0.0.0 g7m1t6r.com
 0.0.0.0 g7mdcfnttabk.cdnzzz1.online
@@ -76053,6 +76633,7 @@
 0.0.0.0 g7tamil-in.pages.dev
 0.0.0.0 g7tv.top
 0.0.0.0 g7x2l8.com
+0.0.0.0 g7x4mr.com
 0.0.0.0 g7x5rv.com
 0.0.0.0 g7x84m.com
 0.0.0.0 g7y6yna.info
@@ -76455,6 +77036,7 @@
 0.0.0.0 ganda777.com
 0.0.0.0 gane777.com
 0.0.0.0 gangabet.vip
+0.0.0.0 gangquanhk.com
 0.0.0.0 gangster777.com
 0.0.0.0 ganha-facil.bet
 0.0.0.0 ganhaarpg.com
@@ -76480,6 +77062,7 @@
 0.0.0.0 ganhei.casino
 0.0.0.0 ganhei.net
 0.0.0.0 ganhenabet.com
+0.0.0.0 ganho-m95.com
 0.0.0.0 ganho-m99.com
 0.0.0.0 ganhorap1do.site
 0.0.0.0 ganhorapido.bet
@@ -76598,6 +77181,7 @@
 0.0.0.0 gbg7.win
 0.0.0.0 gbg8.bet
 0.0.0.0 gbg8.buzz
+0.0.0.0 gbgbet-pix.com
 0.0.0.0 gbgbet.com
 0.0.0.0 gbgbetshow.com
 0.0.0.0 gbgvip.me
@@ -76657,6 +77241,7 @@
 0.0.0.0 gd839fj3.com
 0.0.0.0 gdaycasino.bet
 0.0.0.0 gdbet333.app
+0.0.0.0 gdbmy.com
 0.0.0.0 gdconnect.online
 0.0.0.0 gdf92a.bet
 0.0.0.0 gdg777.app
@@ -76684,6 +77269,7 @@
 0.0.0.0 gea-hms.bet
 0.0.0.0 geada-pg.com
 0.0.0.0 geadapg.com
+0.0.0.0 gealin.com
 0.0.0.0 gean.live
 0.0.0.0 gear5nika.top
 0.0.0.0 gebyar4d-gacor-google.pages.dev
@@ -76863,6 +77449,7 @@
 0.0.0.0 gg.oo1win.com
 0.0.0.0 gg0014.jiliglory.online
 0.0.0.0 gg007game.com
+0.0.0.0 gg010.com
 0.0.0.0 gg1.techall.cc
 0.0.0.0 gg1.teckial.cc
 0.0.0.0 gg1.teckiall.cc
@@ -76878,6 +77465,7 @@
 0.0.0.0 gg3.techall.cc
 0.0.0.0 gg3.teckial.cc
 0.0.0.0 gg3.teckiall.cc
+0.0.0.0 gg3djoijsoifgjsutg948.com
 0.0.0.0 gg567br11.com
 0.0.0.0 gg567br2.com
 0.0.0.0 gg567br3.com
@@ -76960,6 +77548,7 @@
 0.0.0.0 gggwg.bet
 0.0.0.0 gggwg.com
 0.0.0.0 ggk2222.org
+0.0.0.0 gglyx.com
 0.0.0.0 ggm111.com
 0.0.0.0 ggm22.com
 0.0.0.0 ggm222.com
@@ -77047,6 +77636,7 @@
 0.0.0.0 gibahd.xyz
 0.0.0.0 gicle.top
 0.0.0.0 gicle.xyz
+0.0.0.0 gieskegroup.com
 0.0.0.0 gifcardson.shop
 0.0.0.0 gifebada.goldorayanhoje.shop
 0.0.0.0 gifl998.top
@@ -77797,6 +78387,7 @@
 0.0.0.0 grana-777.com
 0.0.0.0 grana-m9.bet
 0.0.0.0 grana-m9.com
+0.0.0.0 grana-m94.com
 0.0.0.0 grana-m95.com
 0.0.0.0 grana-m99.com
 0.0.0.0 grana-m9br.com
@@ -78025,6 +78616,8 @@
 0.0.0.0 gu8sekn51aj4.longt.shop
 0.0.0.0 gu9.bet
 0.0.0.0 guachepg.com
+0.0.0.0 guaguadev.com
+0.0.0.0 guanaimuying.com
 0.0.0.0 guarapan.shop
 0.0.0.0 guaratv074.com
 0.0.0.0 guarda-chuva777.com
@@ -78227,11 +78820,13 @@
 0.0.0.0 gyy80.cc
 0.0.0.0 gyy90.cc
 0.0.0.0 gyygusdnmhoodadsa.top
+0.0.0.0 gz-jiaxing.com
 0.0.0.0 gz6pg.bet
 0.0.0.0 gz8.bet
 0.0.0.0 gzjtdrhp5c3y.iatech.fun
 0.0.0.0 gzmpjygs.com
 0.0.0.0 gznp832.top
+0.0.0.0 gzshengximall.com
 0.0.0.0 gzu8zb6p9ahv.novacdn1.online
 0.0.0.0 gzzz.bet
 0.0.0.0 h-55ww.com
@@ -78335,6 +78930,7 @@
 0.0.0.0 h3f8q1v6k9.wewijapagidi.info
 0.0.0.0 h3f8q1v6k9.wijotedusico.info
 0.0.0.0 h3f8q1v6k9.womucecukuguse.info
+0.0.0.0 h3k1t9.com
 0.0.0.0 h3m2.d8v5h6r.com
 0.0.0.0 h3m7pk.com
 0.0.0.0 h3m9r2k.com
@@ -78365,6 +78961,7 @@
 0.0.0.0 h4t9v1c6grd.lujevisubakafeco.info
 0.0.0.0 h4t9v1c6grd.wenunujapodev.info
 0.0.0.0 h4tr8.com
+0.0.0.0 h4v9xr.com
 0.0.0.0 h4x8zr.com
 0.0.0.0 h4y8.top
 0.0.0.0 h5-activity.cinegatohd.me
@@ -78463,6 +79060,7 @@
 0.0.0.0 h7w2.j4i6b6b6.com
 0.0.0.0 h7x0h5.com
 0.0.0.0 h7x21q.com
+0.0.0.0 h7x43m.com
 0.0.0.0 h7z3l6j9.com
 0.0.0.0 h8383.com
 0.0.0.0 h8383.vip
@@ -78481,12 +79079,14 @@
 0.0.0.0 h8gc34jtb51l.iatech.fun
 0.0.0.0 h8h8uz4n0a.com
 0.0.0.0 h8k3m4.com
+0.0.0.0 h8k6mp.com
 0.0.0.0 h8m1t4.com
 0.0.0.0 h8m2k9.com
 0.0.0.0 h8n2vp.com
 0.0.0.0 h8n7q2.me
 0.0.0.0 h8o2n4z9.com
 0.0.0.0 h8q2c.com
+0.0.0.0 h8qn7.com
 0.0.0.0 h8sa3rb4p07b.aberlado.shop
 0.0.0.0 h8t3.m3v4t2h.com
 0.0.0.0 h8t8y83.com
@@ -78514,6 +79114,7 @@
 0.0.0.0 h9k5zr.com
 0.0.0.0 h9k9o6.com
 0.0.0.0 h9m1j4o5.com
+0.0.0.0 h9m3x2.com
 0.0.0.0 h9p2d5.com
 0.0.0.0 h9q4xn.com
 0.0.0.0 h9r2k4m.com
@@ -78524,6 +79125,7 @@
 0.0.0.0 h9w11s.com
 0.0.0.0 h9x3c7.com
 0.0.0.0 h9x4c2v5.gacilucobudufigi.info
+0.0.0.0 h9x52v.com
 0.0.0.0 ha2p.zm2z5z33.com
 0.0.0.0 ha39zxj8mn.dutodegafiku.info
 0.0.0.0 ha777.com
@@ -78536,6 +79138,7 @@
 0.0.0.0 hab777d.com
 0.0.0.0 habanero888.net
 0.0.0.0 habekzeisner.nl
+0.0.0.0 haberlocasi.com
 0.0.0.0 habetpg.com
 0.0.0.0 habil-pg.com
 0.0.0.0 habilpg.app
@@ -78820,6 +79423,7 @@
 0.0.0.0 hdmoviewatcher.com
 0.0.0.0 hdmoviez.xyz
 0.0.0.0 hdmulticanais.cyou
+0.0.0.0 hdnhclc.com
 0.0.0.0 hdnvuto.092v9xx8u.com
 0.0.0.0 hdonlinefilmes1.site
 0.0.0.0 hdonlinefilmes2.site
@@ -78906,8 +79510,10 @@
 0.0.0.0 helpslotwinph.net
 0.0.0.0 heltors.sa.com
 0.0.0.0 henburyfc.uk
+0.0.0.0 hengchengkeji.com
 0.0.0.0 henghengslot789.vip
 0.0.0.0 hengslotpg99.co
+0.0.0.0 hengyuanlu.com
 0.0.0.0 henna777.com
 0.0.0.0 henrick.ink
 0.0.0.0 henslotlogin.best
@@ -78960,6 +79566,7 @@
 0.0.0.0 hexa.compralive.net
 0.0.0.0 hexabet.net
 0.0.0.0 hexabrasil777.com
+0.0.0.0 hexabrasilbet.top
 0.0.0.0 hexajaecerto.shop
 0.0.0.0 hexatv.top
 0.0.0.0 hey.funciona.monster
@@ -79198,6 +79805,7 @@
 0.0.0.0 hhm32.com
 0.0.0.0 hhnn2.com
 0.0.0.0 hhnn3.com
+0.0.0.0 hhqp64.com
 0.0.0.0 hhqq1.com
 0.0.0.0 hhqq2.com
 0.0.0.0 hhqq3.com
@@ -79578,6 +80186,7 @@
 0.0.0.0 hnodtiklf.nod77.com
 0.0.0.0 hnplay64.life
 0.0.0.0 hnsbbankin-11.pages.dev
+0.0.0.0 hnsdiet.com
 0.0.0.0 hnsefpop.top
 0.0.0.0 hob.bet
 0.0.0.0 hockey-pg.com
@@ -79654,6 +80263,7 @@
 0.0.0.0 honeypg.com
 0.0.0.0 hongkongpg.com
 0.0.0.0 hongkongpg.net
+0.0.0.0 hongy023.com
 0.0.0.0 honixelevadores-modernizacao-tecnica.pages.dev
 0.0.0.0 honrapg-bet.com
 0.0.0.0 honrapg.com
@@ -79850,6 +80460,7 @@
 0.0.0.0 ht777x.com
 0.0.0.0 ht7kxh6owhw.vip
 0.0.0.0 ht9j14bcml.vip
+0.0.0.0 htagmedical.com
 0.0.0.0 htb38.bet
 0.0.0.0 htbet.vip
 0.0.0.0 htjr3f.com
@@ -79859,6 +80470,7 @@
 0.0.0.0 htpvbet.game
 0.0.0.0 htq43xdc.12703830.net
 0.0.0.0 htt8282.com
+0.0.0.0 http-china.com
 0.0.0.0 http1xj.top
 0.0.0.0 http9x10.site
 0.0.0.0 httpimperiop023.top
@@ -80006,6 +80618,7 @@
 0.0.0.0 hxqbezr.cc
 0.0.0.0 hxuj8sfg3c0p.longt.shop
 0.0.0.0 hxx355rtmj0o.iatech.fun
+0.0.0.0 hy-ji-an.com
 0.0.0.0 hy-ph-dp-3-01o-dffole1wl021sli.com
 0.0.0.0 hy.bet
 0.0.0.0 hy111.bet
@@ -80095,6 +80708,7 @@
 0.0.0.0 hzincm7.vip
 0.0.0.0 hzvwf6t.cc
 0.0.0.0 hzzz.bet
+0.0.0.0 i-babytw.com
 0.0.0.0 i0101bet.com
 0.0.0.0 i05.bet
 0.0.0.0 i05a10.com
@@ -80186,6 +80800,7 @@
 0.0.0.0 i4nl.yalywi1gso.com
 0.0.0.0 i4o7j02p.com
 0.0.0.0 i4p2hjwahd.lekubakuruhunu.info
+0.0.0.0 i4r8zn.com
 0.0.0.0 i4v8mx.com
 0.0.0.0 i4vn8.com
 0.0.0.0 i4wc8r.bet
@@ -80203,6 +80818,8 @@
 0.0.0.0 i5q2zk.com
 0.0.0.0 i5r5thvg.com
 0.0.0.0 i5r7qw.com
+0.0.0.0 i5v9zk.com
+0.0.0.0 i5wr4.com
 0.0.0.0 i60dsf.com
 0.0.0.0 i64udnzrrs.bitogogamasenuk.info
 0.0.0.0 i666.com.br
@@ -80249,6 +80866,7 @@
 0.0.0.0 i7q8vn.com
 0.0.0.0 i7s8.t5l8s9z.com
 0.0.0.0 i7s8h9m2.com
+0.0.0.0 i7v19m.com
 0.0.0.0 i7vby2v.bet
 0.0.0.0 i7win.bet
 0.0.0.0 i80.bet
@@ -80282,6 +80900,7 @@
 0.0.0.0 i8r6z7.com
 0.0.0.0 i8v17p.com
 0.0.0.0 i8v3w0s4.amxkgysju.com
+0.0.0.0 i8x47m.com
 0.0.0.0 i8yxims.com
 0.0.0.0 i9-m99.net
 0.0.0.0 i999win.app
@@ -80298,6 +80917,7 @@
 0.0.0.0 i9clean.top
 0.0.0.0 i9j9g7b6.com
 0.0.0.0 i9l1h5.com
+0.0.0.0 i9m4zn.com
 0.0.0.0 i9online.vip
 0.0.0.0 i9pzse03cmav.cdnmore1.top
 0.0.0.0 i9r2.y4i7s4y5.com
@@ -80851,6 +81471,7 @@
 0.0.0.0 ijaha.online
 0.0.0.0 ijcovffpzj.com
 0.0.0.0 ijfjibua.xentoryx.com
+0.0.0.0 ijhcs.com
 0.0.0.0 ijin.masjidnuruljihad.com
 0.0.0.0 ijkjj.fun
 0.0.0.0 ijocevam.online
@@ -80993,6 +81614,7 @@
 0.0.0.0 incl61an.com
 0.0.0.0 incriveispg.com
 0.0.0.0 incsbr.com
+0.0.0.0 ind1-xbet.com
 0.0.0.0 ind390.top
 0.0.0.0 ind777.ai
 0.0.0.0 ind777.biz
@@ -81005,6 +81627,7 @@
 0.0.0.0 ind777.tv
 0.0.0.0 inda.lat
 0.0.0.0 indbet.vip
+0.0.0.0 india1-xbet.com
 0.0.0.0 indiantouristplace-pajaktoto-terms.pages.dev
 0.0.0.0 indmarketapp.com
 0.0.0.0 indo-togel.bet
@@ -81418,6 +82041,7 @@
 0.0.0.0 itempg.win
 0.0.0.0 iti.ifir7798.site
 0.0.0.0 itilforum.nl
+0.0.0.0 itisbond.com
 0.0.0.0 itm-edu-in.pages.dev
 0.0.0.0 itneeds.co.in
 0.0.0.0 itom66.xyz
@@ -81481,6 +82105,7 @@
 0.0.0.0 ivibet.mx
 0.0.0.0 ivibet.net.br
 0.0.0.0 ivibet.vip
+0.0.0.0 ivibetbrasilbet.com
 0.0.0.0 ivibetcassino.net
 0.0.0.0 ivibetnow.com
 0.0.0.0 ivibetz.net
@@ -81618,6 +82243,7 @@
 0.0.0.0 j2ifjr00.com
 0.0.0.0 j2j7w8.com
 0.0.0.0 j2k7mq.com
+0.0.0.0 j2k7x6.com
 0.0.0.0 j2kk678k.com
 0.0.0.0 j2m4q8.com
 0.0.0.0 j2o5.o1e7o1s1.com
@@ -81689,6 +82315,7 @@
 0.0.0.0 j5n.top
 0.0.0.0 j5o0.d3c0a8u.com
 0.0.0.0 j5q7xn.com
+0.0.0.0 j5x8k9.com
 0.0.0.0 j6666.com.br
 0.0.0.0 j68betwin.com
 0.0.0.0 j6b5sbx.com
@@ -81701,6 +82328,7 @@
 0.0.0.0 j6j5.com
 0.0.0.0 j6pwtt17.com
 0.0.0.0 j6q4c.bet
+0.0.0.0 j6r3k8.com
 0.0.0.0 j6s83qu.com
 0.0.0.0 j6y23nd2hbue.cdndream3.online
 0.0.0.0 j720dsuj82jdaidaji82.vip
@@ -81719,6 +82347,7 @@
 0.0.0.0 j7q1l4t2.com
 0.0.0.0 j7sj2-fds8289s-2uhfs92r23.vip
 0.0.0.0 j7v4pk.com
+0.0.0.0 j7v5qw.com
 0.0.0.0 j7x6zbx.com
 0.0.0.0 j7y9.o2m6h0t.com
 0.0.0.0 j7z5p3.com
@@ -81740,6 +82369,7 @@
 0.0.0.0 j8br4.com
 0.0.0.0 j8dyu.com
 0.0.0.0 j8f2h0.com
+0.0.0.0 j8m27q.com
 0.0.0.0 j8o6w62jnlh1.aquinaocai.shop
 0.0.0.0 j8r3t6y1p4.borugevaludohivo.info
 0.0.0.0 j8r3t6y1p4.bucelurepegamive.info
@@ -81759,6 +82389,7 @@
 0.0.0.0 j8slotplay.com
 0.0.0.0 j8t3.k8v8f1i3.com
 0.0.0.0 j8v2.com
+0.0.0.0 j8v2pn.com
 0.0.0.0 j8v4.com
 0.0.0.0 j8v6.com
 0.0.0.0 j8w5h5.com
@@ -82085,6 +82716,7 @@
 0.0.0.0 jeffbetcasinopg.com
 0.0.0.0 jeffebystreaming.top
 0.0.0.0 jefferosa.com.br
+0.0.0.0 jeffgentzen.com
 0.0.0.0 jefinho.site
 0.0.0.0 jefinholoja.top
 0.0.0.0 jefloy32.top
@@ -82111,6 +82743,7 @@
 0.0.0.0 jerrypg.com.br
 0.0.0.0 jerrypg.net
 0.0.0.0 jerseypg.com
+0.0.0.0 jes-update28.com
 0.0.0.0 jesosep.online
 0.0.0.0 jessicastar.top
 0.0.0.0 jessiepg.com
@@ -82230,6 +82863,7 @@
 0.0.0.0 ji777.fun
 0.0.0.0 ji777.live
 0.0.0.0 jia9.bar
+0.0.0.0 jiangsuty240.com
 0.0.0.0 jianmeitang.com
 0.0.0.0 jibet.win
 0.0.0.0 jibumesoneworan.info
@@ -82271,6 +82905,7 @@
 0.0.0.0 jimthorpegames.com
 0.0.0.0 jin9888.com
 0.0.0.0 jinbian8888.com
+0.0.0.0 jinglianzj.com
 0.0.0.0 jinguanqx.com
 0.0.0.0 jinlun-co.com
 0.0.0.0 jinny888.bet
@@ -83429,6 +84064,7 @@
 0.0.0.0 k1togellogin.xyz
 0.0.0.0 k1vmp.com
 0.0.0.0 k1x4.j4w3r7o3.com
+0.0.0.0 k1x6t5.com
 0.0.0.0 k1x9.com
 0.0.0.0 k1z4x.com
 0.0.0.0 k1z7g9.com
@@ -83621,6 +84257,7 @@
 0.0.0.0 k2t6p.com
 0.0.0.0 k2txh.com
 0.0.0.0 k2v7m8p.com
+0.0.0.0 k2v7qn.com
 0.0.0.0 k2v9m.com
 0.0.0.0 k2v9m4.com
 0.0.0.0 k2w7r8.com
@@ -83863,6 +84500,7 @@
 0.0.0.0 k3v5.o6q6c8o2.com
 0.0.0.0 k3v8qp.com
 0.0.0.0 k3v8r4.com
+0.0.0.0 k3v8rp.com
 0.0.0.0 k3v9by10g.com
 0.0.0.0 k3v9m.com
 0.0.0.0 k3vet.com
@@ -84232,12 +84870,14 @@
 0.0.0.0 k4fy3.com
 0.0.0.0 k4h9d.bet
 0.0.0.0 k4i9.puwuwei.com
+0.0.0.0 k4m7qw.com
 0.0.0.0 k4m8qz.com
 0.0.0.0 k4m9r2.com
 0.0.0.0 k4m9t.com
 0.0.0.0 k4nex.com
 0.0.0.0 k4t9b2.com
 0.0.0.0 k4v5r6m.com
+0.0.0.0 k4v9zn.com
 0.0.0.0 k4z3mw.com
 0.0.0.0 k5057.com
 0.0.0.0 k5137.com
@@ -84306,6 +84946,7 @@
 0.0.0.0 k5j9n2p4.degicuromefa.info
 0.0.0.0 k5k36.com
 0.0.0.0 k5l2n6.com
+0.0.0.0 k5m3xp.com
 0.0.0.0 k5mx5f5rqk.com
 0.0.0.0 k5r2m9.com
 0.0.0.0 k5u63.com
@@ -84331,6 +84972,7 @@
 0.0.0.0 k6mutj7fphxs.vivita.fun
 0.0.0.0 k6q9mw.com
 0.0.0.0 k6qsy3zhaycr.aberlado.shop
+0.0.0.0 k6r2x9.com
 0.0.0.0 k6r8t3m5.com
 0.0.0.0 k6u5.j9g3n1l.com
 0.0.0.0 k6w5x8.com
@@ -84413,6 +85055,7 @@
 0.0.0.0 k8f3wd.com
 0.0.0.0 k8f3wy.com
 0.0.0.0 k8ht996.com
+0.0.0.0 k8m35v.com
 0.0.0.0 k8m3n4y6aq.lagukiputejuhaf.info
 0.0.0.0 k8n4r7m5.com
 0.0.0.0 k8ozonio.site
@@ -84461,12 +85104,15 @@
 0.0.0.0 k9r4xt.com
 0.0.0.0 k9r5m4n8.com
 0.0.0.0 k9slotpgwallet.net
+0.0.0.0 k9t5x2.com
 0.0.0.0 k9v0.w2p6n1.com
 0.0.0.0 k9v3qpl.com
+0.0.0.0 k9v3zn.com
 0.0.0.0 k9w1d.com
 0.0.0.0 k9winpg.com
 0.0.0.0 k9winslotpgwallet.com
 0.0.0.0 k9x8k2z.top
+0.0.0.0 k9xn2.com
 0.0.0.0 ka0dnc6stxzo.aberlado.shop
 0.0.0.0 ka19u8s0.mu7f534ce.com
 0.0.0.0 ka555pp.org
@@ -84559,6 +85205,7 @@
 0.0.0.0 katak22.club
 0.0.0.0 katakjepe.net
 0.0.0.0 kateprime.site
+0.0.0.0 katesdoghouse.com
 0.0.0.0 kato.xn--q9jyb4c.com
 0.0.0.0 kato.xn--q9jyb4c.com.br
 0.0.0.0 katons.top
@@ -84834,12 +85481,14 @@
 0.0.0.0 kf55mm.com
 0.0.0.0 kf55nn.com
 0.0.0.0 kf55qq.com
+0.0.0.0 kf55rr.com
 0.0.0.0 kf55ss.com
 0.0.0.0 kf55uu.com
 0.0.0.0 kf55vv.com
 0.0.0.0 kf55ww.com
 0.0.0.0 kf55xx.com
 0.0.0.0 kf55yy.com
+0.0.0.0 kf55zz.com
 0.0.0.0 kf585.com
 0.0.0.0 kf595.com
 0.0.0.0 kf6.bet
@@ -85659,6 +86308,7 @@
 0.0.0.0 kkaa55.com
 0.0.0.0 kkaa777.com
 0.0.0.0 kkaa789.vip
+0.0.0.0 kkaabet.com
 0.0.0.0 kkaabet.net
 0.0.0.0 kkaabet.vip
 0.0.0.0 kkaabr.com
@@ -85829,6 +86479,7 @@
 0.0.0.0 kktt.tv
 0.0.0.0 kktt.win
 0.0.0.0 kktt999.com
+0.0.0.0 kkttbwp12.com
 0.0.0.0 kkttnavi.com
 0.0.0.0 kkuce.com
 0.0.0.0 kkuu-mk.com
@@ -85858,9 +86509,11 @@
 0.0.0.0 klg365.vip
 0.0.0.0 kli.us.com
 0.0.0.0 klickconnet.top
+0.0.0.0 klidesign.com
 0.0.0.0 klikbets.vip
 0.0.0.0 klikbets365.pw
 0.0.0.0 klixtv.vip
+0.0.0.0 klmappliances.com
 0.0.0.0 klodn1hhr.com
 0.0.0.0 klooster.vip
 0.0.0.0 klopbro.shop
@@ -86032,6 +86685,7 @@
 0.0.0.0 krator.plus
 0.0.0.0 kratortv.site
 0.0.0.0 kreativcurso.com
+0.0.0.0 kreativdenim.com
 0.0.0.0 kreazone-sengkuni.pages.dev
 0.0.0.0 krebstv.me
 0.0.0.0 krebstv.top
@@ -86051,6 +86705,7 @@
 0.0.0.0 krwmk.vip
 0.0.0.0 krwmk.win
 0.0.0.0 krythrax.com
+0.0.0.0 ks-gr.com
 0.0.0.0 ks4bpdd.com
 0.0.0.0 ks6qhrfvno.lubakedesojid.info
 0.0.0.0 ks7omh4ov.cc
@@ -86141,6 +86796,7 @@
 0.0.0.0 kuipumbahusokiutyr.online
 0.0.0.0 kuix4ovprs.tidimafelibafe.info
 0.0.0.0 kukewuvinuwisu.info
+0.0.0.0 kulangniuzai.com
 0.0.0.0 kuliah-wedbudget.pages.dev
 0.0.0.0 kulis2026.xyz
 0.0.0.0 kumis777.com
@@ -86221,6 +86877,7 @@
 0.0.0.0 ky777.casino
 0.0.0.0 ky777.games
 0.0.0.0 kyat888.net
+0.0.0.0 kyd-cd.com
 0.0.0.0 kyll960.lat
 0.0.0.0 kylr08.site
 0.0.0.0 kyngs1.de
@@ -86255,6 +86912,7 @@
 0.0.0.0 kzvip005.com
 0.0.0.0 kzwin.online
 0.0.0.0 kzwin.site
+0.0.0.0 l-gau.com
 0.0.0.0 l.djada8a2-dsa8dad.net
 0.0.0.0 l03.ifih7889.site
 0.0.0.0 l09ehlaw5q4w.iatech.fun
@@ -86287,6 +86945,7 @@
 0.0.0.0 l2t4r5j6.com
 0.0.0.0 l2txty.com
 0.0.0.0 l2v9q6.com
+0.0.0.0 l2x5m9.com
 0.0.0.0 l2xqw7xz.com
 0.0.0.0 l2z9ml.com
 0.0.0.0 l3.pttbr.com
@@ -86330,6 +86989,7 @@
 0.0.0.0 l5b5.l9p6a8w.com
 0.0.0.0 l5decoqo.com
 0.0.0.0 l5h8g6u8.com
+0.0.0.0 l5k7t2.com
 0.0.0.0 l5pj68in7xcz.onusbus.fun
 0.0.0.0 l5plkx0gpc1r.2cdn2604.online
 0.0.0.0 l5t4.final-star.com
@@ -86356,6 +87016,7 @@
 0.0.0.0 l6betaposta.com
 0.0.0.0 l6betwin77.com
 0.0.0.0 l6f1d9g2.com
+0.0.0.0 l6m5r3.com
 0.0.0.0 l6m8t9.com
 0.0.0.0 l6q3n5x.com
 0.0.0.0 l6r8.f4p6p9q.com
@@ -86385,10 +87046,12 @@
 0.0.0.0 l7k85r.com
 0.0.0.0 l7l9.b3f4d6x3.com
 0.0.0.0 l7nhs577.com
+0.0.0.0 l7r12v.com
 0.0.0.0 l7r6.w8k1t3.com
 0.0.0.0 l7ua2.com
 0.0.0.0 l7v3tx.com
 0.0.0.0 l7v93x.com
+0.0.0.0 l7zn8.com
 0.0.0.0 l8.pttbr.com
 0.0.0.0 l830fs-2jifs89ff-fsko39fslf3oofs.vip
 0.0.0.0 l84fe2.com
@@ -86418,6 +87081,7 @@
 0.0.0.0 l9q3xp.com
 0.0.0.0 l9r3qw.com
 0.0.0.0 l9t7.hanghank.com
+0.0.0.0 l9tw8.com
 0.0.0.0 l9vg.ft2ecanr.com
 0.0.0.0 l9w51.com
 0.0.0.0 l9y7h5.com
@@ -89159,6 +89823,7 @@
 0.0.0.0 leaobet-a.com
 0.0.0.0 leaobet-a1.com
 0.0.0.0 leaobet-com.co
+0.0.0.0 leaobet-e.com
 0.0.0.0 leaobet-jogo.com
 0.0.0.0 leaobet-ll.com
 0.0.0.0 leaobet-m.com
@@ -89167,6 +89832,7 @@
 0.0.0.0 leaobet-paga.com
 0.0.0.0 leaobet-pg.com
 0.0.0.0 leaobet-win.com
+0.0.0.0 leaobet.app.br
 0.0.0.0 leaobet.co
 0.0.0.0 leaobet.fun
 0.0.0.0 leaobet.net
@@ -89175,17 +89841,21 @@
 0.0.0.0 leaobet.vip
 0.0.0.0 leaobet.vu
 0.0.0.0 leaobet07.com
+0.0.0.0 leaobet11.com
 0.0.0.0 leaobet1aa.com
 0.0.0.0 leaobet1b.com
 0.0.0.0 leaobet1k.com
 0.0.0.0 leaobet1m.com
+0.0.0.0 leaobet2.com
 0.0.0.0 leaobet28.com
 0.0.0.0 leaobet29.com
 0.0.0.0 leaobet2a.com
 0.0.0.0 leaobet333.top
+0.0.0.0 leaobet365.com
 0.0.0.0 leaobet3g.com
 0.0.0.0 leaobet40.com
 0.0.0.0 leaobet42.com
+0.0.0.0 leaobet47.com
 0.0.0.0 leaobet54.com
 0.0.0.0 leaobet67.com
 0.0.0.0 leaobet7.com
@@ -89195,6 +89865,7 @@
 0.0.0.0 leaobet88.com
 0.0.0.0 leaobet888.com
 0.0.0.0 leaobet94.com
+0.0.0.0 leaobet974.com
 0.0.0.0 leaobet99.com
 0.0.0.0 leaobet999.com
 0.0.0.0 leaobeta2.com
@@ -89207,17 +89878,32 @@
 0.0.0.0 leaobetbc.com
 0.0.0.0 leaobetbet.com
 0.0.0.0 leaobetbet.com.br
+0.0.0.0 leaobetbl.com
+0.0.0.0 leaobetbn.com
+0.0.0.0 leaobetbr.com
 0.0.0.0 leaobetbr.com.br
 0.0.0.0 leaobetbr.fun
 0.0.0.0 leaobetbra.com
+0.0.0.0 leaobetbv.com.br
 0.0.0.0 leaobetclub.com
+0.0.0.0 leaobetcom.com
 0.0.0.0 leaobetcv.com
+0.0.0.0 leaobetcy.com
 0.0.0.0 leaobetda.com
 0.0.0.0 leaobetdd.com
+0.0.0.0 leaobetdk.com
+0.0.0.0 leaobetdownload.com
 0.0.0.0 leaobetfj.com
+0.0.0.0 leaobetfun.com
+0.0.0.0 leaobethot.com
+0.0.0.0 leaobeti1.com
+0.0.0.0 leaobeti2.com
 0.0.0.0 leaobeti3.com
 0.0.0.0 leaobeti4.com
+0.0.0.0 leaobetin.com
+0.0.0.0 leaobetiw.com
 0.0.0.0 leaobetjogar.com
+0.0.0.0 leaobetjogos.com.br
 0.0.0.0 leaobetk2.com
 0.0.0.0 leaobetka.com
 0.0.0.0 leaobetkk.com
@@ -89225,22 +89911,39 @@
 0.0.0.0 leaobetlegal.com
 0.0.0.0 leaobetlink.com
 0.0.0.0 leaobetmm.com
+0.0.0.0 leaobetnf.com
+0.0.0.0 leaobetoc.com
+0.0.0.0 leaobetofficial.com
+0.0.0.0 leaobetoficial.com
+0.0.0.0 leaobetou.com
+0.0.0.0 leaobetpix.com.br
 0.0.0.0 leaobetplay.com
+0.0.0.0 leaobetport.com
 0.0.0.0 leaobetq9.com
 0.0.0.0 leaobetqq.com
+0.0.0.0 leaobetqu.com
 0.0.0.0 leaobetrabbit.com.br
 0.0.0.0 leaobetrr.com
+0.0.0.0 leaobetrw.com
 0.0.0.0 leaobets1.com
 0.0.0.0 leaobetsdd.com
 0.0.0.0 leaobetsextou.com
 0.0.0.0 leaobetsf.com
 0.0.0.0 leaobetsh.com
+0.0.0.0 leaobetshow.com
 0.0.0.0 leaobetslot.info
+0.0.0.0 leaobetslot1.com
 0.0.0.0 leaobetsorte.com
+0.0.0.0 leaobetss.com
 0.0.0.0 leaobett.com
 0.0.0.0 leaobett1.com
 0.0.0.0 leaobett4.com
+0.0.0.0 leaobett5.com
+0.0.0.0 leaobett9.com
 0.0.0.0 leaobettiger.com.br
+0.0.0.0 leaobettop.com
+0.0.0.0 leaobettopa.com
+0.0.0.0 leaobettt.com
 0.0.0.0 leaobettu.com
 0.0.0.0 leaobetuu.com
 0.0.0.0 leaobetv4.com
@@ -89249,12 +89952,18 @@
 0.0.0.0 leaobetvip.app
 0.0.0.0 leaobetvip.com
 0.0.0.0 leaobetvip.info
+0.0.0.0 leaobetvip1.com
 0.0.0.0 leaobetvu.com
 0.0.0.0 leaobetvx.com
+0.0.0.0 leaobetway.com
+0.0.0.0 leaobetweb.com
 0.0.0.0 leaobetwin.com
 0.0.0.0 leaobetwin.com.br
 0.0.0.0 leaobetwp.com
 0.0.0.0 leaobetww.com
+0.0.0.0 leaobetx2.com
+0.0.0.0 leaobetxf.com
+0.0.0.0 leaobetyu.com
 0.0.0.0 leaobetzz.com
 0.0.0.0 leaobr.com
 0.0.0.0 leaoccc.bet
@@ -89602,6 +90311,7 @@
 0.0.0.0 leonbet.co.at
 0.0.0.0 leonbet.co.it
 0.0.0.0 leonbet.co.ke
+0.0.0.0 leonbet.co.nz
 0.0.0.0 leonbet.co.tz
 0.0.0.0 leonbet.com.br
 0.0.0.0 leonbet.com.de
@@ -89609,19 +90319,27 @@
 0.0.0.0 leonbet.com.pl
 0.0.0.0 leonbet.com.ua
 0.0.0.0 leonbet.cz
+0.0.0.0 leonbet.ec
 0.0.0.0 leonbet.es
 0.0.0.0 leonbet.fr
 0.0.0.0 leonbet.icu
+0.0.0.0 leonbet.id
 0.0.0.0 leonbet.im
 0.0.0.0 leonbet.ink
 0.0.0.0 leonbet.ke
 0.0.0.0 leonbet.life
+0.0.0.0 leonbet.live
+0.0.0.0 leonbet.mobi
 0.0.0.0 leonbet.net
+0.0.0.0 leonbet.net.gr
+0.0.0.0 leonbet.net.pl
 0.0.0.0 leonbet.org.gr
+0.0.0.0 leonbet.pl
 0.0.0.0 leonbet.run
 0.0.0.0 leonbet.site
 0.0.0.0 leonbet.space
 0.0.0.0 leonbet.top
+0.0.0.0 leonbet.tv
 0.0.0.0 leonbet.uno
 0.0.0.0 leonbet.vin
 0.0.0.0 leonbet.win
@@ -89663,6 +90381,7 @@
 0.0.0.0 lev-casino24.bet
 0.0.0.0 lev777.fun
 0.0.0.0 levabetr.site
+0.0.0.0 levarpg.app
 0.0.0.0 levarpg.bet
 0.0.0.0 leve777.com
 0.0.0.0 levepg.vip
@@ -89688,6 +90407,7 @@
 0.0.0.0 lf-mala.com
 0.0.0.0 lf-navio.com
 0.0.0.0 lf-piamide.com
+0.0.0.0 lf-porcelana.com
 0.0.0.0 lf-sapo.com
 0.0.0.0 lf-sushi.com
 0.0.0.0 lf3te6sz5jq4.iatech.fun
@@ -89785,6 +90505,7 @@
 0.0.0.0 liesurepg.com
 0.0.0.0 lif28.blog
 0.0.0.0 lifebuoy.bet
+0.0.0.0 lifenewshouse.com
 0.0.0.0 lifep.wiki
 0.0.0.0 lifeplus.in.net
 0.0.0.0 lifeyouyes.shop
@@ -89807,6 +90528,7 @@
 0.0.0.0 ligalgologin.id
 0.0.0.0 ligapremium.bet
 0.0.0.0 lij95yh.com
+0.0.0.0 lijinstudio.com
 0.0.0.0 lijnbgfsop.com
 0.0.0.0 like777.bet
 0.0.0.0 likes-739.bet
@@ -90211,6 +90933,7 @@
 0.0.0.0 lmfcwudsq.com
 0.0.0.0 lmn2887f.com
 0.0.0.0 lmusinsta.click
+0.0.0.0 lmys168.com
 0.0.0.0 ln12ktb.com
 0.0.0.0 ln62nu.bet
 0.0.0.0 ln6pg.bet
@@ -90548,6 +91271,7 @@
 0.0.0.0 lovoo1maiv5n.cdnkopy2.top
 0.0.0.0 low.barberpro.fun
 0.0.0.0 lowavedokajuli.info
+0.0.0.0 lowermydrugs.com
 0.0.0.0 loyal777.com
 0.0.0.0 lp-alice.bet
 0.0.0.0 lp-aquario.bet
@@ -91052,6 +91776,7 @@
 0.0.0.0 lupa777.com
 0.0.0.0 lupadesk.pro
 0.0.0.0 lupadesk.top
+0.0.0.0 lupaoblog.com
 0.0.0.0 lupapg777.com
 0.0.0.0 lupatre.cc
 0.0.0.0 lupis777.com
@@ -91353,6 +92078,7 @@
 0.0.0.0 m1s8m5.com
 0.0.0.0 m1t4h5.com
 0.0.0.0 m1th3x.top
+0.0.0.0 m1x9r4.com
 0.0.0.0 m1xdrop.bz
 0.0.0.0 m1y8u3q6.bujufiniwaforogi.info
 0.0.0.0 m2.ptbrasil.shop
@@ -91368,10 +92094,12 @@
 0.0.0.0 m2o5.w3a7o6u5.com
 0.0.0.0 m2q7e.com
 0.0.0.0 m2r4q3y5.com
+0.0.0.0 m2r6k8.com
 0.0.0.0 m2v9.y7x9q6.com
 0.0.0.0 m2vd4y916wxu019byw.com
 0.0.0.0 m2w7t4.com
 0.0.0.0 m2wv2bpc0e0w.2cdn2604.online
+0.0.0.0 m2x4r8.com
 0.0.0.0 m2z7.nnfamed.com
 0.0.0.0 m309xdhvxps0.iatech.fun
 0.0.0.0 m30esg.bet
@@ -91386,6 +92114,8 @@
 0.0.0.0 m3k8q2.com
 0.0.0.0 m3m6.com
 0.0.0.0 m3n3.vip
+0.0.0.0 m3nu99.icu
+0.0.0.0 m3pk9.com
 0.0.0.0 m3pqpf.live
 0.0.0.0 m3r4bx.com
 0.0.0.0 m3r9k6t4.com
@@ -91423,7 +92153,9 @@
 0.0.0.0 m4k8pz.com
 0.0.0.0 m4kke.bet
 0.0.0.0 m4odephn.com
+0.0.0.0 m4q8zr.com
 0.0.0.0 m4q9vz.com
+0.0.0.0 m4r1x9.com
 0.0.0.0 m4rtyf.com
 0.0.0.0 m4s6.w5a0s3v.com
 0.0.0.0 m4scp.cfd
@@ -91434,6 +92166,7 @@
 0.0.0.0 m4z50.bet
 0.0.0.0 m4z5k8r7.huvesawegoretej.info
 0.0.0.0 m4z5k8r7.mepovenasomakube.info
+0.0.0.0 m4zc7.com
 0.0.0.0 m5-p1.pages.dev
 0.0.0.0 m5.blogdochurrosfrito.xyz
 0.0.0.0 m555ww.com
@@ -91514,6 +92247,7 @@
 0.0.0.0 m7m9j7w6.com
 0.0.0.0 m7m9y4.com
 0.0.0.0 m7p3h5.com
+0.0.0.0 m7q24r.com
 0.0.0.0 m7r12k.com
 0.0.0.0 m7r2k9n4.com
 0.0.0.0 m7r4x9.com
@@ -91532,6 +92266,7 @@
 0.0.0.0 m8bet333.net
 0.0.0.0 m8hp5c.bet
 0.0.0.0 m8i2.d7k2y7c.com
+0.0.0.0 m8k73x.com
 0.0.0.0 m8l9.wzgs123.com
 0.0.0.0 m8m134lgna2k.cdncdn4.online
 0.0.0.0 m8m5f6.com
@@ -91559,6 +92294,7 @@
 0.0.0.0 m93u1rlkbdfi.vivita.fun
 0.0.0.0 m99ap7.com
 0.0.0.0 m99myr.com
+0.0.0.0 m9bet-pix.com
 0.0.0.0 m9bet12.com
 0.0.0.0 m9bet13.com
 0.0.0.0 m9bet15.com
@@ -91580,7 +92316,9 @@
 0.0.0.0 m9k6t4.com
 0.0.0.0 m9m808p.com
 0.0.0.0 m9q4x5.com
+0.0.0.0 m9q5zr.com
 0.0.0.0 m9r4k6t.com
+0.0.0.0 m9x2pn.com
 0.0.0.0 m9x5r6.com
 0.0.0.0 ma-m9.com
 0.0.0.0 ma-m99.com
@@ -91827,7 +92565,14 @@
 0.0.0.0 manbet608.com
 0.0.0.0 manbet740.com
 0.0.0.0 manbet843.com
+0.0.0.0 manbetx22.cc
 0.0.0.0 manbetx22.org
+0.0.0.0 manbetx22.pro
+0.0.0.0 manbetx237.com
+0.0.0.0 manbetx26.com
+0.0.0.0 manbetx277.com
+0.0.0.0 manbetx28.com
+0.0.0.0 manbetx2b.com
 0.0.0.0 mandarinduck.bet
 0.0.0.0 mandioca777.bet
 0.0.0.0 mandioca777.com
@@ -92615,6 +93360,7 @@
 0.0.0.0 meiodia.vip
 0.0.0.0 meiopg.vip
 0.0.0.0 meira18k.com
+0.0.0.0 meiwei68.com
 0.0.0.0 meja777.xyz
 0.0.0.0 mekbrasa.online
 0.0.0.0 mel-bet.lat
@@ -93153,6 +93899,9 @@
 0.0.0.0 minfrax.online
 0.0.0.0 mingalar888.net
 0.0.0.0 mingaunimais.top
+0.0.0.0 mingdinglight.com
+0.0.0.0 mingquanscl.com
+0.0.0.0 mingyuchuye.com
 0.0.0.0 minha2f.online
 0.0.0.0 minhadietaonline.com
 0.0.0.0 minhadns.top
@@ -93215,6 +93964,7 @@
 0.0.0.0 misacoutlet.com
 0.0.0.0 mislot.biz
 0.0.0.0 missao-m9.com
+0.0.0.0 missao-m91.com
 0.0.0.0 missao-m99.com
 0.0.0.0 missao-m9br.com
 0.0.0.0 missav.prp14.com
@@ -94352,6 +95102,7 @@
 0.0.0.0 my11.app
 0.0.0.0 my123movies.pro
 0.0.0.0 my789bet.com
+0.0.0.0 my8wonders.com
 0.0.0.0 my98858.site
 0.0.0.0 mya777.fun
 0.0.0.0 mya7777.net
@@ -94567,6 +95318,7 @@
 0.0.0.0 n5r3vq.com
 0.0.0.0 n5t9zlp.com
 0.0.0.0 n5v9kp.com
+0.0.0.0 n5v9zk.com
 0.0.0.0 n5x3m2.com
 0.0.0.0 n5x8pk.com
 0.0.0.0 n5y8.t9q9z6y.com
@@ -94606,8 +95358,10 @@
 0.0.0.0 n7r5zk.com
 0.0.0.0 n7w8.i3v7z7v.com
 0.0.0.0 n7w8pdd.com
+0.0.0.0 n7wx4.com
 0.0.0.0 n7x4qw.com
 0.0.0.0 n7x5d2.com
+0.0.0.0 n7x61v.com
 0.0.0.0 n7x9v1.com
 0.0.0.0 n8-mk.bet
 0.0.0.0 n81uiz7al5ij.iatech.fun
@@ -94626,6 +95380,7 @@
 0.0.0.0 n8k5r.com
 0.0.0.0 n8l7.jdyheongpeah.com
 0.0.0.0 n8lglz.com
+0.0.0.0 n8m16q.com
 0.0.0.0 n8m1t7.com
 0.0.0.0 n8nxyz.top
 0.0.0.0 n8q2vk.com
@@ -94633,6 +95388,7 @@
 0.0.0.0 n8q5zr.com
 0.0.0.0 n8qpl.com
 0.0.0.0 n8r4.i6o3v4r.com
+0.0.0.0 n8r6x2.com
 0.0.0.0 n8s1.writing-tools.com
 0.0.0.0 n8v2qm.com
 0.0.0.0 n9-m99.net
@@ -94732,6 +95488,7 @@
 0.0.0.0 nagoya888.bet
 0.0.0.0 nagoya888.net
 0.0.0.0 nah-ini-yang-kedua.pages.dev
+0.0.0.0 naichagui.com
 0.0.0.0 naijabet.com
 0.0.0.0 naikinlagidonggoogle.pages.dev
 0.0.0.0 nailart13.xyz
@@ -94777,6 +95534,7 @@
 0.0.0.0 nascerpg.com.br
 0.0.0.0 nascioabreux.top
 0.0.0.0 nasesjeme-uslu.pages.dev
+0.0.0.0 nasortebet.club
 0.0.0.0 nastv.site
 0.0.0.0 nat-iptv.com
 0.0.0.0 nat88.bet
@@ -94856,6 +95614,7 @@
 0.0.0.0 nbabet.org
 0.0.0.0 nbandfive.top
 0.0.0.0 nbbljg.com
+0.0.0.0 nbcyqd.com
 0.0.0.0 nbentertainment.vip
 0.0.0.0 nbet.ac
 0.0.0.0 nbet.ai
@@ -94997,6 +95756,8 @@
 0.0.0.0 ncplay.store
 0.0.0.0 ncq.uk.com
 0.0.0.0 ncripl.bet
+0.0.0.0 ncrubk23.com
+0.0.0.0 ncs86.com
 0.0.0.0 nd12602.bet
 0.0.0.0 nd366x0enjz0.cdnkopy2.top
 0.0.0.0 nd5n70emc852.longt.shop
@@ -95441,6 +96202,9 @@
 0.0.0.0 nitrosites.shop
 0.0.0.0 nitrouni.lat
 0.0.0.0 nivel-m9.bet
+0.0.0.0 nivel-m9.com
+0.0.0.0 nivel-m91.com
+0.0.0.0 nivel-m94.com
 0.0.0.0 nivel-m99.com
 0.0.0.0 nivel-m9br.com
 0.0.0.0 nivorcdn.online
@@ -95459,6 +96223,7 @@
 0.0.0.0 nj35m.vip
 0.0.0.0 njalla.online
 0.0.0.0 njanjddadadsda-sda.vip
+0.0.0.0 njchshjx.com
 0.0.0.0 njd7jiduapokda299f.vip
 0.0.0.0 njhm7awy.com
 0.0.0.0 njjuf756mhkg.vivita.fun
@@ -95469,6 +96234,7 @@
 0.0.0.0 njr.vip
 0.0.0.0 njrgames.com
 0.0.0.0 njsudd-das45ds.xyz
+0.0.0.0 njzy-ship.com
 0.0.0.0 nk4pnn.biz
 0.0.0.0 nk5ihzl4l3mw.cdnkopy2.top
 0.0.0.0 nk6.bet
@@ -95639,6 +96405,7 @@
 0.0.0.0 nnbetsorte.com
 0.0.0.0 nnclubvip.com
 0.0.0.0 nnf212543.com
+0.0.0.0 nnltf.com
 0.0.0.0 nnmc3a3g6jsa.cdncdn3.online
 0.0.0.0 nnn-bet.com
 0.0.0.0 nnn1998.bet
@@ -96179,6 +96946,7 @@
 0.0.0.0 o3bsmednqzhz.longt.shop
 0.0.0.0 o3c1.h6q8a9k.com
 0.0.0.0 o3d6xmr.com
+0.0.0.0 o3k8vr.com
 0.0.0.0 o3m8.i7t6q3.com
 0.0.0.0 o3o9z4y.aimxecbvy.com
 0.0.0.0 o3t7n5.com
@@ -96193,6 +96961,7 @@
 0.0.0.0 o4m6t1.com
 0.0.0.0 o4m7pk.com
 0.0.0.0 o4m9.o3n2c5f.com
+0.0.0.0 o4r5zk.com
 0.0.0.0 o4v2h5.com
 0.0.0.0 o4v7.s3s6j3d7.com
 0.0.0.0 o4y4cp005.com
@@ -96203,6 +96972,7 @@
 0.0.0.0 o5k6.s7y4d7x7.com
 0.0.0.0 o5p0r24p.com
 0.0.0.0 o5qr7.com
+0.0.0.0 o5r6qw.com
 0.0.0.0 o5t6.f8b6l0m.com
 0.0.0.0 o5v9mq.com
 0.0.0.0 o5v9xp.com
@@ -96227,10 +96997,12 @@
 0.0.0.0 o7m9zk.com
 0.0.0.0 o7p8n5.com
 0.0.0.0 o7pb400i3.com
+0.0.0.0 o7r23v.com
 0.0.0.0 o7u6ylh.com
 0.0.0.0 o7x28k.com
 0.0.0.0 o7x3k6.com
 0.0.0.0 o7y2.x6s3n4k.com
+0.0.0.0 o7zk8.com
 0.0.0.0 o7zwi.com
 0.0.0.0 o8.delivery
 0.0.0.0 o8d3bx.com
@@ -96246,6 +97018,7 @@
 0.0.0.0 o95o.com
 0.0.0.0 o9h2n8.com
 0.0.0.0 o9igms.com
+0.0.0.0 o9k34x.com
 0.0.0.0 o9m5v1.com
 0.0.0.0 o9q5zr.com
 0.0.0.0 o9r5k4.com
@@ -97231,6 +98004,7 @@
 0.0.0.0 olj.us.com
 0.0.0.0 olkdvk.4cx35tdx.com
 0.0.0.0 olom989.lat
+0.0.0.0 oltlingerie.com
 0.0.0.0 oluc36.online
 0.0.0.0 olvenait16fr.click
 0.0.0.0 olx100mobile.com
@@ -97322,6 +98096,7 @@
 0.0.0.0 onabet-pg.com
 0.0.0.0 onabet.cc
 0.0.0.0 onabet.io
+0.0.0.0 onabetapostas.com
 0.0.0.0 onabetbet.com
 0.0.0.0 onabetbrasil.com
 0.0.0.0 onabetcassino-br.com
@@ -98142,6 +98917,8 @@
 0.0.0.0 p3g4.k1a8f4l.com
 0.0.0.0 p3idufino.store
 0.0.0.0 p3j7bx.com
+0.0.0.0 p3k5x7.com
+0.0.0.0 p3k6xn.com
 0.0.0.0 p3kw29txse.cujafarulibin.info
 0.0.0.0 p3m8r7k6.com
 0.0.0.0 p3n7r.net
@@ -98159,6 +98936,7 @@
 0.0.0.0 p4j2nu8ib581.cdncdn4.online
 0.0.0.0 p4jydbfeuo05.iatech.fun
 0.0.0.0 p4k9t7.com
+0.0.0.0 p4k9zn.com
 0.0.0.0 p4m7qw.com
 0.0.0.0 p4p6h5.com
 0.0.0.0 p4q6kht1.com
@@ -98168,6 +98946,7 @@
 0.0.0.0 p4u56jjgivtw.hideaki.online
 0.0.0.0 p4x2eg.com
 0.0.0.0 p4z3zz.com
+0.0.0.0 p4zr2.com
 0.0.0.0 p5.l08al3.cc
 0.0.0.0 p5.rocks
 0.0.0.0 p52.com
@@ -98179,6 +98958,7 @@
 0.0.0.0 p5fun.com
 0.0.0.0 p5ivo12ew6gc.54434687.net
 0.0.0.0 p5j6u1.com
+0.0.0.0 p5k8zr.com
 0.0.0.0 p5l4t1y3.com
 0.0.0.0 p5le7dzk.lctfgc9283.com
 0.0.0.0 p5n0j3w.com
@@ -98191,6 +98971,7 @@
 0.0.0.0 p5q6.c0b3s2z.com
 0.0.0.0 p5q9kn.com
 0.0.0.0 p5qbegb5g.vip
+0.0.0.0 p5qt8.com
 0.0.0.0 p5td1ooxf.com
 0.0.0.0 p5v1kqt.com
 0.0.0.0 p5vip5.com
@@ -98215,6 +98996,7 @@
 0.0.0.0 p6r4xn.com
 0.0.0.0 p6s8r1o4.com
 0.0.0.0 p6v2.j9m2q8.com
+0.0.0.0 p6x3t8.com
 0.0.0.0 p7-jogopg.com
 0.0.0.0 p719.win
 0.0.0.0 p71ujubd.com
@@ -98235,6 +99017,8 @@
 0.0.0.0 p7k4r9t2.kivanalehife.info
 0.0.0.0 p7k4r9t2.nikusegogopel.info
 0.0.0.0 p7k4r9t2.wenofenepolur.info
+0.0.0.0 p7k4t6.com
+0.0.0.0 p7m25q.com
 0.0.0.0 p7n5n.com
 0.0.0.0 p7p1uzz.com
 0.0.0.0 p7q1.k5u4d1j9.com
@@ -98243,6 +99027,7 @@
 0.0.0.0 p7u1x4o7.cdghf43c2.com
 0.0.0.0 p7u7.com
 0.0.0.0 p7x51r.com
+0.0.0.0 p7x56k.com
 0.0.0.0 p80bet.com
 0.0.0.0 p80bet.net
 0.0.0.0 p80bet.org
@@ -98273,6 +99058,7 @@
 0.0.0.0 p8pg3.com
 0.0.0.0 p8pp.bet
 0.0.0.0 p8pp.com
+0.0.0.0 p8r3xn.com
 0.0.0.0 p8x2qn.com
 0.0.0.0 p8xeezhm.pro
 0.0.0.0 p8yrblsg2o6a.cdnkopy3.top
@@ -98299,7 +99085,10 @@
 0.0.0.0 p9games.bet
 0.0.0.0 p9games.com.br
 0.0.0.0 p9games.net.br
+0.0.0.0 p9k1r3.com
+0.0.0.0 p9k1t4.com
 0.0.0.0 p9login.bet
+0.0.0.0 p9m3qw.com
 0.0.0.0 p9nn.odocbi22.com
 0.0.0.0 p9o8.s8u9a3g4.com
 0.0.0.0 p9q2vl.com
@@ -98448,6 +99237,7 @@
 0.0.0.0 palacio.bet
 0.0.0.0 palco777.com
 0.0.0.0 palcokf.com
+0.0.0.0 palcopg.app
 0.0.0.0 palcopg.bet
 0.0.0.0 palcopg.co
 0.0.0.0 palcopg.net
@@ -98760,6 +99550,7 @@
 0.0.0.0 paw777.bet
 0.0.0.0 paw777.fun
 0.0.0.0 pax7ws4ngs.com
+0.0.0.0 pay4africa.com
 0.0.0.0 pay777.bet
 0.0.0.0 pay777.fun
 0.0.0.0 paypghappy.com
@@ -99253,7 +100044,20 @@
 0.0.0.0 pg7bet.online
 0.0.0.0 pg7x7.vu
 0.0.0.0 pg7x7bet.info
+0.0.0.0 pg858.com
+0.0.0.0 pg858.fun
 0.0.0.0 pg858b.com
+0.0.0.0 pg858d.com
+0.0.0.0 pg858e.com
+0.0.0.0 pg858f.com
+0.0.0.0 pg858h.com
+0.0.0.0 pg858k.com
+0.0.0.0 pg858l.com
+0.0.0.0 pg858m.com
+0.0.0.0 pg858n.com
+0.0.0.0 pg858q.com
+0.0.0.0 pg858r.com
+0.0.0.0 pg858s.com
 0.0.0.0 pg858t.com
 0.0.0.0 pg858u.com
 0.0.0.0 pg858w.com
@@ -99978,6 +100782,7 @@
 0.0.0.0 pix-999.net
 0.0.0.0 pix-bet-brasil.com
 0.0.0.0 pix-bet.space
+0.0.0.0 pix-bet.xyz
 0.0.0.0 pix-bet365.co
 0.0.0.0 pix-bet77.com
 0.0.0.0 pix-betbr.com
@@ -100031,6 +100836,7 @@
 0.0.0.0 pixbet-casino.co
 0.0.0.0 pixbet-casino.com
 0.0.0.0 pixbet-cassino.com
+0.0.0.0 pixbet-cassino.org
 0.0.0.0 pixbet-com.com
 0.0.0.0 pixbet-go.com
 0.0.0.0 pixbet-n.com
@@ -100055,9 +100861,11 @@
 0.0.0.0 pixbet.cz
 0.0.0.0 pixbet.fi
 0.0.0.0 pixbet.fr
+0.0.0.0 pixbet.help
 0.0.0.0 pixbet.icu
 0.0.0.0 pixbet.info
 0.0.0.0 pixbet.it
+0.0.0.0 pixbet.mobi
 0.0.0.0 pixbet.nl
 0.0.0.0 pixbet.pl
 0.0.0.0 pixbet.pt
@@ -100078,6 +100886,7 @@
 0.0.0.0 pixbet2025.com
 0.0.0.0 pixbet2026.com
 0.0.0.0 pixbet265.net.br
+0.0.0.0 pixbet265.vip
 0.0.0.0 pixbet265app.com
 0.0.0.0 pixbet265bet.com
 0.0.0.0 pixbet265pg.com
@@ -100779,6 +101588,8 @@
 0.0.0.0 playfortunaj8nw0ku1cf3o.com
 0.0.0.0 playfortunajic8lp1tfmr4.com
 0.0.0.0 playfortunam8ck5ax0tr.com
+0.0.0.0 playfortunetiger.org
+0.0.0.0 playfortunetiger.space
 0.0.0.0 playforwins.com
 0.0.0.0 playft.online
 0.0.0.0 playfulpg.com
@@ -100822,6 +101633,7 @@
 0.0.0.0 playonloja.com
 0.0.0.0 playoonn.shop
 0.0.0.0 playpb.sbs
+0.0.0.0 playpix-bet-brasil.com
 0.0.0.0 playpix-bet.com
 0.0.0.0 playpixbrazil.bet
 0.0.0.0 playplano.shop
@@ -101809,6 +102621,7 @@
 0.0.0.0 prata-777.com
 0.0.0.0 prata-m9.bet
 0.0.0.0 prata-m9.com
+0.0.0.0 prata-m91.com
 0.0.0.0 prata-m99.com
 0.0.0.0 pratica-777.bet
 0.0.0.0 pratica777.bet
@@ -102021,6 +102834,7 @@
 0.0.0.0 promatre11.top
 0.0.0.0 promexbetpg.com
 0.0.0.0 promimari.top
+0.0.0.0 promo-m9.com
 0.0.0.0 promo-m9.net
 0.0.0.0 promo-m99.net
 0.0.0.0 promo567br2.com
@@ -102111,12 +102925,15 @@
 0.0.0.0 pt717.bet
 0.0.0.0 pt717.com
 0.0.0.0 pt717.win
+0.0.0.0 pt717adfb.com
+0.0.0.0 pt717ads.com
 0.0.0.0 pt777.club
 0.0.0.0 pt788.pg
 0.0.0.0 ptc25.top
 0.0.0.0 ptcasinos.bet
 0.0.0.0 ptdy5ab.cc
 0.0.0.0 ptgw683.top
+0.0.0.0 pthxfx.com
 0.0.0.0 ptjapi.bygysuaduaooglsad.cyou
 0.0.0.0 ptjapi.logiudsajca.cyou
 0.0.0.0 ptjapi.tfynsadoogs.top
@@ -102131,6 +102948,7 @@
 0.0.0.0 pttwincog3.com
 0.0.0.0 pttwinlook.com
 0.0.0.0 pttwinshare.com
+0.0.0.0 ptugqemg.com
 0.0.0.0 ptun7j7.com
 0.0.0.0 ptv.one
 0.0.0.0 ptv5s8rwmn.wifokelugagokawu.info
@@ -102428,8 +103246,11 @@
 0.0.0.0 q3r3yhnj.com
 0.0.0.0 q3s3zz.com
 0.0.0.0 q3t64h.com
+0.0.0.0 q3tx9.com
 0.0.0.0 q3v8mqd.com
 0.0.0.0 q3wamwb0jpp4.kst14.click
+0.0.0.0 q3x6k2.com
+0.0.0.0 q3x7vk.com
 0.0.0.0 q3z7x9k.com
 0.0.0.0 q3z8x2v.com
 0.0.0.0 q432kiw8.com
@@ -102441,6 +103262,7 @@
 0.0.0.0 q4iz6nnwbyt3.leandroia.fun
 0.0.0.0 q4jw1a.com
 0.0.0.0 q4k9fj.com
+0.0.0.0 q4m1k9.com
 0.0.0.0 q4m3.c7p0c7p.com
 0.0.0.0 q4p5zr.com
 0.0.0.0 q4t7w9.com
@@ -102461,6 +103283,7 @@
 0.0.0.0 q5pl7j.bet
 0.0.0.0 q5r7mk.com
 0.0.0.0 q5u9.v2h5p5p1.com
+0.0.0.0 q5v2mr.com
 0.0.0.0 q5v3rw.com
 0.0.0.0 q5w6ylh.com
 0.0.0.0 q623rh.com
@@ -102485,6 +103308,7 @@
 0.0.0.0 q6v3.d4x1u8i5.com
 0.0.0.0 q6v3mk.com
 0.0.0.0 q6w2m9.com
+0.0.0.0 q6x2k8.com
 0.0.0.0 q6x3v9.com
 0.0.0.0 q6yyk4572wr9.cdncdn3.online
 0.0.0.0 q76.bet
@@ -102509,9 +103333,12 @@
 0.0.0.0 q7mz.com
 0.0.0.0 q7n3nj6.com
 0.0.0.0 q7p4.i6o5n5z.com
+0.0.0.0 q7r2k5.com
 0.0.0.0 q7r2w9.com
 0.0.0.0 q7u8wzz.com
 0.0.0.0 q7v3pk.com
+0.0.0.0 q7v46x.com
+0.0.0.0 q7x24r.com
 0.0.0.0 q7x4m2.com
 0.0.0.0 q7x9z4.com
 0.0.0.0 q7y7.i4g3h2k.com
@@ -102551,11 +103378,13 @@
 0.0.0.0 q8q22.vip
 0.0.0.0 q8q33.vip
 0.0.0.0 q8q99.vip
+0.0.0.0 q8r17m.com
 0.0.0.0 q8r1k6.com
 0.0.0.0 q8t5r4z.com
 0.0.0.0 q8w2.cotingkeh.com
 0.0.0.0 q8w3e7.com
 0.0.0.0 q8w4.cdqwzz.com
+0.0.0.0 q8x3mr.com
 0.0.0.0 q8x3r5k.com
 0.0.0.0 q8x5n2.com
 0.0.0.0 q8y9m2y9.com
@@ -102630,6 +103459,7 @@
 0.0.0.0 qc30jbm6.com
 0.0.0.0 qc44pk.com
 0.0.0.0 qcb7i.bet
+0.0.0.0 qcbyby.com
 0.0.0.0 qcd7d0wmd3dr.cdnmore1.top
 0.0.0.0 qcho-bl-03-10.qcho.tv
 0.0.0.0 qcplefj.com
@@ -102649,6 +103479,7 @@
 0.0.0.0 qdra88.top
 0.0.0.0 qdwimk.g9d2aequ.com
 0.0.0.0 qdwx81.com
+0.0.0.0 qdx-jellies.com
 0.0.0.0 qe887.com
 0.0.0.0 qe8q1.com
 0.0.0.0 qe8q5.com
@@ -102729,6 +103560,7 @@
 0.0.0.0 ql9iwe4nkl.bitogogamasenuk.info
 0.0.0.0 qld1kve5st.fusopulifujufi.info
 0.0.0.0 qlefruk.com
+0.0.0.0 qlt-food.com
 0.0.0.0 qlwwx.com
 0.0.0.0 qm6688.com
 0.0.0.0 qmbet.vip
@@ -103009,6 +103841,7 @@
 0.0.0.0 qsm0m2dpvt13.aberlado.shop
 0.0.0.0 qsmppoptv.top
 0.0.0.0 qsw9p8u1.com
+0.0.0.0 qswcrab.com
 0.0.0.0 qswjmtvp.fqvpnw.com
 0.0.0.0 qswv118b1zlp.cdnaabb2.top
 0.0.0.0 qt777.bet
@@ -103035,8 +103868,10 @@
 0.0.0.0 qualpg.vip
 0.0.0.0 qualquer.top
 0.0.0.0 qualquerdnsok.shop
+0.0.0.0 quan-sheng.com
 0.0.0.0 quandopg.com
 0.0.0.0 quandopg.vip
+0.0.0.0 quanfengjx.com
 0.0.0.0 quantopg.co
 0.0.0.0 quantopg.com
 0.0.0.0 quantopg.me
@@ -103363,6 +104198,7 @@
 0.0.0.0 r7gv4uz4o3dz.vivita.fun
 0.0.0.0 r7k4x9pz.com
 0.0.0.0 r7k6m3.com
+0.0.0.0 r7m61x.com
 0.0.0.0 r7n3m6k4.com
 0.0.0.0 r7q5jp.com
 0.0.0.0 r7r1.com
@@ -103412,7 +104248,9 @@
 0.0.0.0 r8tw85motnol.cdnmore1.top
 0.0.0.0 r8u9y5.com
 0.0.0.0 r8v3k9q2.com
+0.0.0.0 r8v4qw.com
 0.0.0.0 r8wv7.com
+0.0.0.0 r8x5pk.com
 0.0.0.0 r8x5zn.com
 0.0.0.0 r9-m99.net
 0.0.0.0 r92r.com
@@ -103422,6 +104260,7 @@
 0.0.0.0 r9k1t6.com
 0.0.0.0 r9k2qw.com
 0.0.0.0 r9k8y3z9.com
+0.0.0.0 r9m2qw.com
 0.0.0.0 r9mri9j25k.com
 0.0.0.0 r9nc1w6.top
 0.0.0.0 r9o5e1p.com
@@ -103430,6 +104269,7 @@
 0.0.0.0 r9t2e7q3.huhalafovunupeji.info
 0.0.0.0 r9t2e7q3.liniwapewelujot.info
 0.0.0.0 r9t2e7q3.pabutapuvava.info
+0.0.0.0 r9v41k.com
 0.0.0.0 r9x9.n4u4r1j1.com
 0.0.0.0 r9y9y3.com
 0.0.0.0 ra777pg.com
@@ -103561,6 +104401,7 @@
 0.0.0.0 rali777.net
 0.0.0.0 rali777.top
 0.0.0.0 ralii777.com
+0.0.0.0 rallytrans.com
 0.0.0.0 ram.joburg
 0.0.0.0 ramanso.top
 0.0.0.0 ramatv.net
@@ -104529,6 +105370,7 @@
 0.0.0.0 ricgf.net
 0.0.0.0 rich-bets.com
 0.0.0.0 richardcasino-nz.bet
+0.0.0.0 richardhays.com
 0.0.0.0 riches-777pg.com
 0.0.0.0 riches888pg.bet
 0.0.0.0 riches888pg.cash
@@ -104913,7 +105755,10 @@
 0.0.0.0 roku.bet
 0.0.0.0 rokycdn.online
 0.0.0.0 rolet.us.com
+0.0.0.0 roleta-m9.com
+0.0.0.0 roleta-m9.net
 0.0.0.0 roleta-m99.net
+0.0.0.0 roleta-m9br.net
 0.0.0.0 roleta66.com
 0.0.0.0 roleta777.com
 0.0.0.0 roletadouro.bet
@@ -105973,6 +106818,8 @@
 0.0.0.0 s3p8x8.com
 0.0.0.0 s3q7mk.com
 0.0.0.0 s3venbet.bet
+0.0.0.0 s3x7zr.com
+0.0.0.0 s3x8k1.com
 0.0.0.0 s3y9h8r9.com
 0.0.0.0 s4.cloudflaire.lat
 0.0.0.0 s4.goodstream.one
@@ -105982,6 +106829,7 @@
 0.0.0.0 s4bgxzykab.tufanubikafiriwe.info
 0.0.0.0 s4pwtt16.com
 0.0.0.0 s4q8vn.com
+0.0.0.0 s4q9zr.com
 0.0.0.0 s4qn7.com
 0.0.0.0 s4quqn.com
 0.0.0.0 s4vky4a0l8yx.vivita.fun
@@ -106659,6 +107507,7 @@
 0.0.0.0 sensasi777pg.com
 0.0.0.0 sensual777.com
 0.0.0.0 sentir-777.bet
+0.0.0.0 sentir777.app
 0.0.0.0 sentir777.bet
 0.0.0.0 sentir777.com
 0.0.0.0 sentir777.top
@@ -107196,6 +108045,7 @@
 0.0.0.0 sixfalcx.top
 0.0.0.0 sixgbet.com
 0.0.0.0 sixo667.bid
+0.0.0.0 sixsixbrb.com
 0.0.0.0 sixsystem.top
 0.0.0.0 siyankes.pages.dev
 0.0.0.0 sj389vv4jvfe.com
@@ -107552,6 +108402,7 @@
 0.0.0.0 slotreal.net
 0.0.0.0 slotresmi88login.bet
 0.0.0.0 slots-heaven.ca
+0.0.0.0 slots-m91.net
 0.0.0.0 slots-m99.net
 0.0.0.0 slots1-xbet.com
 0.0.0.0 slots13.bet
@@ -107892,6 +108743,7 @@
 0.0.0.0 sorrisopg.vip
 0.0.0.0 sortbet.vip
 0.0.0.0 sorte-esportiva.net
+0.0.0.0 sorte-m9.bet
 0.0.0.0 sorte-m9br.com
 0.0.0.0 sorte25.bet
 0.0.0.0 sorte258f.vip
@@ -107914,16 +108766,23 @@
 0.0.0.0 sortebet.live
 0.0.0.0 sortebet.site
 0.0.0.0 sortebet.store
+0.0.0.0 sortebet.tech
 0.0.0.0 sortebet.vip
 0.0.0.0 sortebet.vu
+0.0.0.0 sortebet365.sbs
+0.0.0.0 sortebet66.xyz
 0.0.0.0 sortebet777.bet
 0.0.0.0 sortebet777br.com
 0.0.0.0 sortebet88.com
+0.0.0.0 sortebetbr.com
 0.0.0.0 sortebets.bet
 0.0.0.0 sortebets.com
 0.0.0.0 sortebets.info
 0.0.0.0 sortebets.net
+0.0.0.0 sortebets.pro
+0.0.0.0 sortebets.top
 0.0.0.0 sortebets.vip
+0.0.0.0 sortebets365.club
 0.0.0.0 sortebetsvip.top
 0.0.0.0 sortecerto.bet
 0.0.0.0 sorteesporte.com
@@ -107987,6 +108846,7 @@
 0.0.0.0 sosp2day.org
 0.0.0.0 sosrecargas.shop
 0.0.0.0 sosujofominirubu.info
+0.0.0.0 soswedden.com
 0.0.0.0 sotre.online
 0.0.0.0 soubet.vip
 0.0.0.0 souclub.website
@@ -108436,6 +109296,7 @@
 0.0.0.0 ss33.bet
 0.0.0.0 ss33aa.net
 0.0.0.0 ss44.bet
+0.0.0.0 ss44.com
 0.0.0.0 ss441.com
 0.0.0.0 ss44111.com
 0.0.0.0 ss44222.com
@@ -108712,6 +109573,8 @@
 0.0.0.0 starvendaspro.com
 0.0.0.0 starzbet570.com
 0.0.0.0 starzbet571.com
+0.0.0.0 stasyanfortunetiger1.site
+0.0.0.0 stasyanfortunetiger2.site
 0.0.0.0 stasyanfortunetigerbr.site
 0.0.0.0 state.guardsecurity.xyz
 0.0.0.0 state77.org
@@ -109288,6 +110151,7 @@
 0.0.0.0 surfqqpg.vip
 0.0.0.0 surperbet.net
 0.0.0.0 surpreso-pg.com
+0.0.0.0 surpresopg.app
 0.0.0.0 surpresopg.bet
 0.0.0.0 surpresopg.co
 0.0.0.0 surrey-aesthetica-com.pages.dev
@@ -109463,6 +110327,7 @@
 0.0.0.0 sxgames.com.br
 0.0.0.0 sxnihaq5.com
 0.0.0.0 sxopyo.j733cis7ai.com
+0.0.0.0 sxripl.app
 0.0.0.0 sxunqbr.online
 0.0.0.0 sxzogj.wrtaqgrgv.com
 0.0.0.0 sxzwjlv2rs.katehumilece.info
@@ -109478,6 +110343,7 @@
 0.0.0.0 sy8.org
 0.0.0.0 syairtogel.club
 0.0.0.0 syanldhd.com
+0.0.0.0 sybet-pix.com
 0.0.0.0 sybet.bet
 0.0.0.0 sybet1.com
 0.0.0.0 sybet3.com
@@ -109659,6 +110525,7 @@
 0.0.0.0 t2o3h5.com
 0.0.0.0 t2o7hrv3.com
 0.0.0.0 t2w4lqc.com
+0.0.0.0 t2x8zk.com
 0.0.0.0 t2x9m6p.com
 0.0.0.0 t3-ametista.com
 0.0.0.0 t3-brasiljogo.com
@@ -109702,6 +110569,7 @@
 0.0.0.0 t4m9k2r8.com
 0.0.0.0 t4m9r2.com
 0.0.0.0 t4n8wfk.com
+0.0.0.0 t4q7zn.com
 0.0.0.0 t4v4rd18.com
 0.0.0.0 t4v7r1.com
 0.0.0.0 t4x7c8.com
@@ -109746,6 +110614,7 @@
 0.0.0.0 t5r4.u4p2g7s4.com
 0.0.0.0 t5s6.z3y4k4f.com
 0.0.0.0 t5ud8.bet
+0.0.0.0 t5x2vr.com
 0.0.0.0 t5x3qx.com
 0.0.0.0 t5x8.u6z6b4m4.com
 0.0.0.0 t64mr6.com
@@ -109782,6 +110651,7 @@
 0.0.0.0 t7k2.e5k7t3.com
 0.0.0.0 t7k3j7.com
 0.0.0.0 t7m1x1.com
+0.0.0.0 t7m5zn.com
 0.0.0.0 t7ok16a6.com
 0.0.0.0 t7re8qlqhzca.longt.shop
 0.0.0.0 t7rnr49.com
@@ -109807,6 +110677,7 @@
 0.0.0.0 t8k3by4b.com
 0.0.0.0 t8k3o6x5.com
 0.0.0.0 t8k9.r4l5y6y4.com
+0.0.0.0 t8m17k.com
 0.0.0.0 t8m3q7.com
 0.0.0.0 t8m4zk.com
 0.0.0.0 t8m9rw.com
@@ -109814,6 +110685,7 @@
 0.0.0.0 t8v4r2.com
 0.0.0.0 t8vg5trlj2tt.1cdn2604.online
 0.0.0.0 t8wk9.com
+0.0.0.0 t8x36m.com
 0.0.0.0 t8x61q.com
 0.0.0.0 t8zn.com
 0.0.0.0 t9-m99.net
@@ -109833,6 +110705,7 @@
 0.0.0.0 t9i125xryqgp.vamotomauma.shop
 0.0.0.0 t9k5mr.com
 0.0.0.0 t9m2k8.com
+0.0.0.0 t9m48q.com
 0.0.0.0 t9m4zn.com
 0.0.0.0 t9m5vp.com
 0.0.0.0 t9mdn5.com
@@ -109840,6 +110713,7 @@
 0.0.0.0 t9v5mr.com
 0.0.0.0 t9x25k.com
 0.0.0.0 t9x3k2.com
+0.0.0.0 t9x47v.com
 0.0.0.0 t9z2.ttdmgs.com
 0.0.0.0 t9z2p6n4.com
 0.0.0.0 ta7.bet
@@ -110502,6 +111376,7 @@
 0.0.0.0 thebestfvbq32.online
 0.0.0.0 thebestmovies.org
 0.0.0.0 theblacknight.xyz
+0.0.0.0 thebrazilbet.com
 0.0.0.0 thebty.store
 0.0.0.0 thecancerinhealthcare.com
 0.0.0.0 thecinevision.com.br
@@ -110585,6 +111460,7 @@
 0.0.0.0 threeo-tv.cloud
 0.0.0.0 threwxpx.icelil.com
 0.0.0.0 thriches777pg.com
+0.0.0.0 thrill.codes
 0.0.0.0 thrill.krd
 0.0.0.0 throneglyph.shop
 0.0.0.0 ths3u89675xy.hideaki.online
@@ -110645,6 +111521,7 @@
 0.0.0.0 tigerfortune-brasil.com
 0.0.0.0 tigerfortune.net
 0.0.0.0 tigerfortune.org.uk
+0.0.0.0 tigerfortune.pro
 0.0.0.0 tigerfortune.win
 0.0.0.0 tigerfortune777.com
 0.0.0.0 tigergomde.com
@@ -111594,6 +112471,7 @@
 0.0.0.0 ttee.today
 0.0.0.0 ttf.mmmlllyyy.top
 0.0.0.0 ttiplay.pro
+0.0.0.0 ttjl.space
 0.0.0.0 ttkbet9.com
 0.0.0.0 ttkiikf.bet
 0.0.0.0 ttkk.bet
@@ -112157,6 +113035,7 @@
 0.0.0.0 u2k3e1r.com
 0.0.0.0 u2ovaghzjrbw.hideaki.online
 0.0.0.0 u2p8x6.com
+0.0.0.0 u2r7k8.com
 0.0.0.0 u2r8mq.com
 0.0.0.0 u2z2t8.com
 0.0.0.0 u34.club
@@ -112179,6 +113058,7 @@
 0.0.0.0 u3b0.c2f6i4d.com
 0.0.0.0 u3f7f9m5.com
 0.0.0.0 u3fmb010l.com
+0.0.0.0 u3k9t2.com
 0.0.0.0 u3lw1irs0nod.vivita.fun
 0.0.0.0 u3mp224wg8.com
 0.0.0.0 u3p2r5.com
@@ -112195,6 +113075,7 @@
 0.0.0.0 u4f6w8z1.nusafecowetumifi.info
 0.0.0.0 u4f9uv00.com
 0.0.0.0 u4jco6gukbvm.kst14.click
+0.0.0.0 u4m8xp.com
 0.0.0.0 u4n8z6.com
 0.0.0.0 u4r9zk.com
 0.0.0.0 u4s2ph5.com
@@ -112218,6 +113099,7 @@
 0.0.0.0 u5g5l9.com
 0.0.0.0 u5ig931w.com
 0.0.0.0 u5k3t2j1.com
+0.0.0.0 u5m2t6.com
 0.0.0.0 u5mbo40.com
 0.0.0.0 u5q3mw.com
 0.0.0.0 u5r2f9m3.kofegelopodijofa.info
@@ -112225,6 +113107,7 @@
 0.0.0.0 u5r2h5.com
 0.0.0.0 u5t5z5.com
 0.0.0.0 u5uf4n.bet
+0.0.0.0 u5vk2.com
 0.0.0.0 u5x2zz.com
 0.0.0.0 u5x4bx.com
 0.0.0.0 u5x7p8.com
@@ -112266,11 +113149,15 @@
 0.0.0.0 u7k3.g5m3h2j.com
 0.0.0.0 u7m5.sqsmz.com
 0.0.0.0 u7m8.x3m9k7.com
+0.0.0.0 u7mk8.com
 0.0.0.0 u7pg.com
 0.0.0.0 u7pg.com.br
 0.0.0.0 u7pg.net
 0.0.0.0 u7pg.win
+0.0.0.0 u7r4xp.com
 0.0.0.0 u7v4kr.com
+0.0.0.0 u7x4k9.com
+0.0.0.0 u7x4zr.com
 0.0.0.0 u7y3p8.com
 0.0.0.0 u81kl1.com
 0.0.0.0 u837f3.com
@@ -112328,11 +113215,14 @@
 0.0.0.0 u8b4h48p.com
 0.0.0.0 u8ftb5soot7l.vivita.fun
 0.0.0.0 u8g434p.com
+0.0.0.0 u8k4r6.com
 0.0.0.0 u8m5r1k.com
+0.0.0.0 u8mk2.com
 0.0.0.0 u8ohwa.com
 0.0.0.0 u8p5m2rx.com
 0.0.0.0 u8q35k.com
 0.0.0.0 u8q4rx.com
+0.0.0.0 u8q53r.com
 0.0.0.0 u8r6.com
 0.0.0.0 u8r9.d5x1o4t6.com
 0.0.0.0 u8u8if91tqiu.1cdn2604.online
@@ -112350,6 +113240,8 @@
 0.0.0.0 u9h4fx.com
 0.0.0.0 u9ion01.online
 0.0.0.0 u9n0sfx.com
+0.0.0.0 u9q28m.com
+0.0.0.0 u9q4zn.com
 0.0.0.0 u9wdpg58w3su.vivita.fun
 0.0.0.0 u9x2p7.com
 0.0.0.0 ua05n7q7.com
@@ -113606,6 +114498,7 @@
 0.0.0.0 v17win.com
 0.0.0.0 v1b4by6a.com
 0.0.0.0 v1j2i9j2.com
+0.0.0.0 v1m7k5.com
 0.0.0.0 v1meygf3okgd.2cdn2604.online
 0.0.0.0 v1t4r50p.com
 0.0.0.0 v1w4.watch-yoolive.com
@@ -113627,13 +114520,16 @@
 0.0.0.0 v2game.vip
 0.0.0.0 v2h5s3.com
 0.0.0.0 v2ku7.bet
+0.0.0.0 v2m6x5.com
 0.0.0.0 v2pwa.com
+0.0.0.0 v2rn5.com
 0.0.0.0 v2s9a5.com
 0.0.0.0 v2siq5uqs0x.com
 0.0.0.0 v2td.online
 0.0.0.0 v2top11.com
 0.0.0.0 v2w7.mshzo.com
 0.0.0.0 v2x5h5.com
+0.0.0.0 v2x6pr.com
 0.0.0.0 v3.rdse.site
 0.0.0.0 v300.my
 0.0.0.0 v3200.win
@@ -113645,9 +114541,11 @@
 0.0.0.0 v3ewvs.com
 0.0.0.0 v3game1402.com
 0.0.0.0 v3game371r.com
+0.0.0.0 v3gamejex3.com
 0.0.0.0 v3i2gh5.com
 0.0.0.0 v3i9lh5.com
 0.0.0.0 v3ir09w.com
+0.0.0.0 v3k8m2.com
 0.0.0.0 v3k8q6.com
 0.0.0.0 v3k8t1q7.com
 0.0.0.0 v3k9zt.com
@@ -113678,6 +114576,7 @@
 0.0.0.0 v48fs5.com
 0.0.0.0 v48ld9vsr.com
 0.0.0.0 v4c7r3.com
+0.0.0.0 v4k7zp.com
 0.0.0.0 v4n8j3m6.gagisetisuhuban.info
 0.0.0.0 v4p9mzz.com
 0.0.0.0 v4t8m6.com
@@ -113711,6 +114610,8 @@
 0.0.0.0 v5love.vip
 0.0.0.0 v5love.win
 0.0.0.0 v5m8jp.com
+0.0.0.0 v5m9zp.com
+0.0.0.0 v5mx8.com
 0.0.0.0 v5n2k8j3t7.biwevoduhajop.info
 0.0.0.0 v5n2k8j3t7.cemojitalotewit.info
 0.0.0.0 v5n2k8j3t7.fijivevufecu.info
@@ -113753,6 +114654,7 @@
 0.0.0.0 v6f3.c0j8g3d.com
 0.0.0.0 v6j5.wnqlcm.com
 0.0.0.0 v6k1w5.com
+0.0.0.0 v6m4zn.com
 0.0.0.0 v6m7kp.com
 0.0.0.0 v6p2dx.com
 0.0.0.0 v6p9uk.okw72k2m.com
@@ -113769,11 +114671,14 @@
 0.0.0.0 v7ft5u82dgby.cdnmore1.top
 0.0.0.0 v7hpgcoe80xg.venusia.fun
 0.0.0.0 v7i.bet
+0.0.0.0 v7k25x.com
 0.0.0.0 v7lz2l.com
 0.0.0.0 v7m4s7l7.com
 0.0.0.0 v7q36r.com
 0.0.0.0 v7r24m.com
+0.0.0.0 v7rk5.com
 0.0.0.0 v7s6zz.com
+0.0.0.0 v7x1m3.com
 0.0.0.0 v7x4kqd.com
 0.0.0.0 v7z2z9y8.com
 0.0.0.0 v8-bca8.com
@@ -113797,8 +114702,10 @@
 0.0.0.0 v8j4gl.com
 0.0.0.0 v8l1i6.com
 0.0.0.0 v8m5e6.com
+0.0.0.0 v8nk4.com
 0.0.0.0 v8p1r5z.com
 0.0.0.0 v8pop88.com
+0.0.0.0 v8q31r.com
 0.0.0.0 v8r4.p1p3m8n7.com
 0.0.0.0 v8x4t1.com
 0.0.0.0 v8x5t3.com
@@ -113819,6 +114726,7 @@
 0.0.0.0 v9k2x7m.com
 0.0.0.0 v9n3.k4p2x5.com
 0.0.0.0 v9n3j6h2.wiramebowage.info
+0.0.0.0 v9r4mp.com
 0.0.0.0 v9r7.t9m6x1.com
 0.0.0.0 v9r7rr.com
 0.0.0.0 v9u38f2.com
@@ -114238,6 +115146,7 @@
 0.0.0.0 vera.site
 0.0.0.0 verabet.vip
 0.0.0.0 verabet1008.com
+0.0.0.0 verabetapostas.com
 0.0.0.0 verabetbr.net
 0.0.0.0 verabetcassino.com
 0.0.0.0 verao777.com.br
@@ -114266,6 +115175,7 @@
 0.0.0.0 verdura777.com
 0.0.0.0 verdura777.vip
 0.0.0.0 verduraa777.vip
+0.0.0.0 verdurapg.app
 0.0.0.0 verdurapg.co
 0.0.0.0 verdurapg777.com
 0.0.0.0 verdurapg777.net
@@ -114786,14 +115696,19 @@
 0.0.0.0 vipw0.com
 0.0.0.0 vipwin.africa.com
 0.0.0.0 vipyyy.bet
+0.0.0.0 vipyyy10.com
 0.0.0.0 vipyyy3.com
 0.0.0.0 vipyyy4.com
 0.0.0.0 vipyyy5.com
+0.0.0.0 vipyyy6.com
 0.0.0.0 vipyyy666.com
 0.0.0.0 vipyyy678.com
+0.0.0.0 vipyyy7.com
 0.0.0.0 vipyyy77.com
 0.0.0.0 vipyyy777.com
+0.0.0.0 vipyyy8.com
 0.0.0.0 vipyyy88.com
+0.0.0.0 vipyyy9.com
 0.0.0.0 vipyyy99.com
 0.0.0.0 vipyyy999.com
 0.0.0.0 vipyyyapp.com
@@ -114925,6 +115840,7 @@
 0.0.0.0 vivasorte.com
 0.0.0.0 vivasorte.games
 0.0.0.0 vivasortebet.com
+0.0.0.0 vivasortebet.net
 0.0.0.0 vivasortebetbr.com
 0.0.0.0 vivasortebetbr.net
 0.0.0.0 vivasorteoficial.com
@@ -115727,6 +116643,7 @@
 0.0.0.0 vty8888.vip
 0.0.0.0 vty88888.vip
 0.0.0.0 vty998.com
+0.0.0.0 vtzipl.app
 0.0.0.0 vtzipl.net
 0.0.0.0 vu7cblk0t764.vivita.fun
 0.0.0.0 vu9ot.bet
@@ -116403,12 +117320,14 @@
 0.0.0.0 w4k2.y8x3m1.com
 0.0.0.0 w4kx3nuxe.cc
 0.0.0.0 w4m1n2t7.com
+0.0.0.0 w4m1t9.com
 0.0.0.0 w4m7t9.com
 0.0.0.0 w4poao.com
 0.0.0.0 w4q1qbx.com
 0.0.0.0 w4q8r3.com
 0.0.0.0 w4r9zr.com
 0.0.0.0 w4s9fx.com
+0.0.0.0 w4xz2.com
 0.0.0.0 w54fha.com
 0.0.0.0 w55.casino
 0.0.0.0 w555ww.com
@@ -116418,6 +117337,7 @@
 0.0.0.0 w5o3h5.com
 0.0.0.0 w5o6r6.com
 0.0.0.0 w5p09vtchi.gomukosawivat.info
+0.0.0.0 w5r3zk.com
 0.0.0.0 w5r8kc.com
 0.0.0.0 w5r8m2p.cc
 0.0.0.0 w5s2zz.com
@@ -116445,6 +117365,7 @@
 0.0.0.0 w6j555.com
 0.0.0.0 w6k1.k9m3x1.com
 0.0.0.0 w6lx3k9.com
+0.0.0.0 w6m2k7.com
 0.0.0.0 w6m2x5.com
 0.0.0.0 w6m2z8.com
 0.0.0.0 w6pwtt5.com
@@ -116483,6 +117404,8 @@
 0.0.0.0 w7k3.f5r8q2.com
 0.0.0.0 w7n4r8a1.com
 0.0.0.0 w7p3ezz.com
+0.0.0.0 w7q4zk.com
+0.0.0.0 w7r4pn.com
 0.0.0.0 w7r9adga.com
 0.0.0.0 w7u4ylh.com
 0.0.0.0 w7vlvu.com
@@ -116498,6 +117421,7 @@
 0.0.0.0 w89.media
 0.0.0.0 w89009.com
 0.0.0.0 w89e1.com
+0.0.0.0 w89vvip.com
 0.0.0.0 w8d7uz.com
 0.0.0.0 w8dl9d.bet
 0.0.0.0 w8f4c7x3.kofegelopodijofa.info
@@ -116515,6 +117439,7 @@
 0.0.0.0 w8t2x5.com
 0.0.0.0 w8v2qr.com
 0.0.0.0 w8v7xp.com
+0.0.0.0 w8x3pk.com
 0.0.0.0 w8ydlw4.com
 0.0.0.0 w9.vty8888.vip
 0.0.0.0 w9.vty88888.vip
@@ -116527,13 +117452,16 @@
 0.0.0.0 w9bet.net
 0.0.0.0 w9bet.one
 0.0.0.0 w9ju2.sbs
+0.0.0.0 w9k58x.com
 0.0.0.0 w9kj3.com
+0.0.0.0 w9kr3.com
 0.0.0.0 w9m14x.com
 0.0.0.0 w9n5cx.com
 0.0.0.0 w9p3f5s.com
 0.0.0.0 w9qwc48r0s4z.6db.site
 0.0.0.0 w9r1x7.com
 0.0.0.0 w9r2m8.com
+0.0.0.0 w9x2m5.com
 0.0.0.0 w9x53q.com
 0.0.0.0 wa-caneta.bet
 0.0.0.0 wa-mouse.bet
@@ -116641,6 +117569,7 @@
 0.0.0.0 way.tips
 0.0.0.0 way777.vip
 0.0.0.0 wayahewongtulustampil.pages.dev
+0.0.0.0 waybet-pix.com
 0.0.0.0 waybet.ai
 0.0.0.0 waybet.cc
 0.0.0.0 waybet.club
@@ -117014,6 +117943,7 @@
 0.0.0.0 wg-anel.mom
 0.0.0.0 wg-animepg.com
 0.0.0.0 wg-anjopg.com
+0.0.0.0 wg-anonovo.com
 0.0.0.0 wg-aviao.com
 0.0.0.0 wg-batatafrita.co
 0.0.0.0 wg-batatafrita.com
@@ -117879,6 +118809,7 @@
 0.0.0.0 wj887.vip
 0.0.0.0 wj888.net
 0.0.0.0 wj889.vip
+0.0.0.0 wjbet-pix.com
 0.0.0.0 wjbet.app.br
 0.0.0.0 wjbet.biz
 0.0.0.0 wjbet.cc
@@ -120137,7 +121068,9 @@
 0.0.0.0 x2i2.seijououen.com
 0.0.0.0 x2m6r5.com
 0.0.0.0 x2m8kt.com
+0.0.0.0 x2m8r1.com
 0.0.0.0 x2m9.z8m4x5.com
+0.0.0.0 x2q6pr.com
 0.0.0.0 x2r8fm.com
 0.0.0.0 x2se8uairyzh.cdnzzz2.online
 0.0.0.0 x2vg.c50cm7m3.com
@@ -120174,6 +121107,8 @@
 0.0.0.0 x3n7p4.com
 0.0.0.0 x3nirvana.store
 0.0.0.0 x3pg-vip.bet
+0.0.0.0 x3r8k5.com
+0.0.0.0 x3tm8.com
 0.0.0.0 x3u6f8h2.dudomejebemoloj.info
 0.0.0.0 x3u6f8h2.limakesalimaba.info
 0.0.0.0 x3u6f8h2.mofagunogimiv.info
@@ -120190,6 +121125,7 @@
 0.0.0.0 x4m5v8.com
 0.0.0.0 x4p9b62.bet
 0.0.0.0 x4p9h3.com
+0.0.0.0 x4t7m1.com
 0.0.0.0 x4t9a.com
 0.0.0.0 x4v7q1.com
 0.0.0.0 x4v9zk.com
@@ -120206,7 +121142,9 @@
 0.0.0.0 x5q3d8.com
 0.0.0.0 x5q9e8.com
 0.0.0.0 x5qq2.bet
+0.0.0.0 x5r2vk.com
 0.0.0.0 x5r5.m7a9p9h3.com
+0.0.0.0 x5t9k2.com
 0.0.0.0 x611.vip
 0.0.0.0 x63tyn.com
 0.0.0.0 x63xka0q.com
@@ -120266,6 +121204,7 @@
 0.0.0.0 x7m4r1.com
 0.0.0.0 x7m5.h5m3r2.com
 0.0.0.0 x7mfb3.bet
+0.0.0.0 x7mv3.com
 0.0.0.0 x7n121wnf4z9.69r50tk07rbm.shop
 0.0.0.0 x7o1h5.com
 0.0.0.0 x7p5.o1n8y0f.com
@@ -120312,6 +121251,7 @@
 0.0.0.0 x8r4vk.com
 0.0.0.0 x8u1h2o2.com
 0.0.0.0 x8v27k.com
+0.0.0.0 x8v31k.com
 0.0.0.0 x8v9.chinawayonline.com
 0.0.0.0 x8w9l46p.com
 0.0.0.0 x8wr.com
@@ -120335,6 +121275,7 @@
 0.0.0.0 x9l4.chaoxileimengmo.com
 0.0.0.0 x9lmv8g007s2.cdnkopy4.top
 0.0.0.0 x9m4qn.com
+0.0.0.0 x9m54k.com
 0.0.0.0 x9q8.c5q6n5n.com
 0.0.0.0 x9ro4j.com
 0.0.0.0 x9rvbv.com
@@ -121272,10 +122213,13 @@
 0.0.0.0 y78vhnp6jk.satilotilujah.info
 0.0.0.0 y7game.bet
 0.0.0.0 y7ggxjj.com
+0.0.0.0 y7m26k.com
+0.0.0.0 y7m3qw.com
 0.0.0.0 y7q3pn.com
 0.0.0.0 y7q3z2.com
 0.0.0.0 y7r4m2p.com
 0.0.0.0 y7t1.p3x1m9.com
+0.0.0.0 y7time.shop
 0.0.0.0 y7v28q.com
 0.0.0.0 y7y0h5.com
 0.0.0.0 y7y7.bet
@@ -121315,6 +122259,7 @@
 0.0.0.0 y8r2.j7u7w2e7.com
 0.0.0.0 y8r2k7.com
 0.0.0.0 y8r2vk.com
+0.0.0.0 y8r64v.com
 0.0.0.0 y8r7n3j.uslmxpqwn.com
 0.0.0.0 y8t7.b7x2m9.com
 0.0.0.0 y8w1v9.com
@@ -121334,6 +122279,7 @@
 0.0.0.0 y9t7y3.com
 0.0.0.0 y9tkn0jvwz.lowavedokajuli.info
 0.0.0.0 y9u26.com
+0.0.0.0 y9x5vk.com
 0.0.0.0 y9y7h5.com
 0.0.0.0 ya.pingtx.me
 0.0.0.0 ya73zvy2fok3.kst14.click
@@ -121970,6 +122916,7 @@
 0.0.0.0 yyaa.bet
 0.0.0.0 yyaa55.com
 0.0.0.0 yyaa777.com
+0.0.0.0 yyaabet.com
 0.0.0.0 yyaabet.net
 0.0.0.0 yyaabet.vip
 0.0.0.0 yyaabr.com
@@ -122104,6 +123051,7 @@
 0.0.0.0 z2p3dt.com
 0.0.0.0 z2p5q9k1.nikusegogopel.info
 0.0.0.0 z2q7x9m.com
+0.0.0.0 z2q8pk.com
 0.0.0.0 z2ty49f.com
 0.0.0.0 z2v8pk.com
 0.0.0.0 z2vfha.com
@@ -122200,6 +123148,7 @@
 0.0.0.0 z5t3n9v.com
 0.0.0.0 z5u7j2d1.com
 0.0.0.0 z5uureyhm.info
+0.0.0.0 z5v7qn.com
 0.0.0.0 z5w8x2.com
 0.0.0.0 z5xqyjmkaq.livuvipinesu.info
 0.0.0.0 z5xs.26rbjh8p.com
@@ -122267,16 +123216,19 @@
 0.0.0.0 z8m2r6.com
 0.0.0.0 z8m7.y2a3c8v2.com
 0.0.0.0 z8mp4.com
+0.0.0.0 z8n13r.com
 0.0.0.0 z8n3fh5.com
 0.0.0.0 z8p2cq.com
 0.0.0.0 z8p3r.com
 0.0.0.0 z8q4v7.com
 0.0.0.0 z8q4x9k.com
 0.0.0.0 z8r2m7k.com
+0.0.0.0 z8r35q.com
 0.0.0.0 z8s1zz.com
 0.0.0.0 z8u3e7w2c5.najuconadufage.info
 0.0.0.0 z8u3e7w2c5.revumopesahuri.info
 0.0.0.0 z8u3e7w2c5.sacanovapasano.info
+0.0.0.0 z8v27q.com
 0.0.0.0 z8v74vhg3.com
 0.0.0.0 z8vv84jv0.com
 0.0.0.0 z9200vvo3l0.com
@@ -122320,6 +123272,7 @@
 0.0.0.0 za9909.com
 0.0.0.0 za9913.com
 0.0.0.0 za9914.com
+0.0.0.0 za99a.com
 0.0.0.0 zaadtop25.com
 0.0.0.0 zacarias.store
 0.0.0.0 zaef2m.com
@@ -122521,6 +123474,7 @@
 0.0.0.0 zera777.fun
 0.0.0.0 zero.playerweb.space
 0.0.0.0 zero1.bet
+0.0.0.0 zero1biennial.org
 0.0.0.0 zero804.top
 0.0.0.0 zerofreeze.top
 0.0.0.0 zerohop.sbs
@@ -122766,6 +123720,7 @@
 0.0.0.0 zoomflixx.top
 0.0.0.0 zoomtv.top
 0.0.0.0 zooop.co
+0.0.0.0 zoost1.com
 0.0.0.0 zopu501.top
 0.0.0.0 zorieuq.pro
 0.0.0.0 zoro77uu.com
@@ -123029,6 +123984,7 @@
 0.0.0.0 zzbrbet.com
 0.0.0.0 zzeekf.bet
 0.0.0.0 zzg3f5.com
+0.0.0.0 zzk24.app
 0.0.0.0 zzqq.app
 0.0.0.0 zzqq.club
 0.0.0.0 zzqq.fun
