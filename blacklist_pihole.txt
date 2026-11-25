@@ -103631,7 +103631,6 @@
 0.0.0.0 partiubetar.bet
 0.0.0.0 partiubetar.com
 0.0.0.0 partiuforra.com
-0.0.0.0 partypoker.com
 0.0.0.0 partypoker.win
 0.0.0.0 partyspins.dk
 0.0.0.0 pas777.net
@@ -106114,7 +106113,6 @@
 0.0.0.0 playuzu.app
 0.0.0.0 playuzu.casino
 0.0.0.0 playuzu.club
-0.0.0.0 playuzu.com
 0.0.0.0 playuzu.es
 0.0.0.0 playuzu.games
 0.0.0.0 playuzu.info
@@ -127886,7 +127884,6 @@
 0.0.0.0 yogajogopg.com
 0.0.0.0 yoghurt-pg.com
 0.0.0.0 yoghutpg.com
-0.0.0.0 yogonet.com
 0.0.0.0 yoi4dlogin.best
 0.0.0.0 yolo247-india-app.com
 0.0.0.0 yolo247indiacasino.com
